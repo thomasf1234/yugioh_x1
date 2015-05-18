@@ -7,6 +7,7 @@ gem "opengl"
 gem 'glu'
 gem 'glut'
 gem 'wavefront'
+gem 'rmagick'
 
 group :development, :test, :skytapacc do
   gem 'spork'
