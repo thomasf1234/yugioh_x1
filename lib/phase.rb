@@ -12,10 +12,13 @@ class Phase
 
   def interact
     while true do
-      puts "turn: #{Game.current.turn}, player: #{player.name}, phase: #{self.class.name}"
+      puts "turn: #{Duel.current.turn}, player: #{player.name}, phase: #{self.class.name}"
       puts "options: 'hand', 'deck', 'next', 'exit'"
-      input = $stdin.gets.strip
-      case input
+
+      #input = $stdin.gets.strip
+      input = Communications::Input.new.gets['keys']
+      puts "INPUT: #{input}"
+      case input.first
         when 'h'
           player.hand.each_with_index {|card, index| puts "#{index+1}) #{card.name}"}
         when 'd'

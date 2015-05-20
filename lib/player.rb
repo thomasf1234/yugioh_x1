@@ -8,7 +8,7 @@ class Player
   end
 
   def draw
-    throw(:game_end, "player '#{name}' LOST; ran out of cards") if @deck.empty?
+    throw(:duel_end, "player '#{name}' LOST; ran out of cards") if @deck.empty?
     @hand << @deck.shift
   end
 
