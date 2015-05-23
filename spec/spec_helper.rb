@@ -2,6 +2,7 @@ ENV["ENV"] ||= 'test'
 require 'rubygems'
 require 'pry'
 require 'timecop'
+require 'time'
 require File.expand_path("../../lib/yugioh_x1", __FILE__)
 Dir[File.dirname(__FILE__) + "/support/**/*.rb"].each { |file| require file }
 

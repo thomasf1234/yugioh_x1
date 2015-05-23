@@ -29,7 +29,8 @@ class Window < Gosu::Window
       exit
     end
 
-    Communications::Output.new.broadcast(hash)
+    @output ||= Communications::Output.new
+    @output.broadcast(hash)
   end
 
   def draw
