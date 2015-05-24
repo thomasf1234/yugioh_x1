@@ -9,6 +9,7 @@ module Communications
           protocol_id: protocol_id,
           sequence_no: 83,
           ack: 67,
+          flags: Set.new([:syn, :ack]),
           previous_acks: [53, 52, 50, 49, 48, 47, 46, 41, 39, 37, 35],
           content_bytesize: 13,
           content: content,
@@ -20,19 +21,22 @@ module Communications
           #protocol_id (bytes 1..4, val = yugioh adler checksum)
           '00001001010000100000001010010110' +
 
-          #sequence_no - (bytes 5..6, val = 83)
+          #flags - connection_request, SYN, ACK, (byte 5)
+          '00110000' +
+
+          #sequence_no - (bytes 6..7, val = 83)
           '0000000001010011' +
 
-          #ack - (bytes 7..8, val = 67)
+          #ack - (bytes 8..9, val = 67)
           '0000000001000011' +
 
           #ack_bitfield (bytes 9..12, val = last 32 acks)
           '00000000000001101111100001010101' +
 
-          #content length in bytes - (bytes 13..14, val = 13)
+          #content length in bytes - (bytes 14..15, val = 13)
           '0000000000001101' +
 
-          #content in ASCII-8BIT - (bytes 15..27)
+          #content in ASCII-8BIT - (bytes 16..28)
           [
               '01110000', #'p'
               '01100001', #'a'
@@ -81,6 +85,32 @@ module Communications
         end
 
         expect(udp_packet.raw_payload).to eq(raw_payload)
+      end
+    end
+
+    describe '#acks' do
+      let(:udp_packet) { FactoryGirl.build(:udp_packet, {ack: 23, previous_acks: [1,7,35]}) }
+
+      it 'returns all the acks retrieved from the packet' do
+        expect(udp_packet.acks).to match_array([1,7,23,35])
+      end
+    end
+
+    describe '#contains_acks?' do
+      context 'has at least one ack' do
+        let(:udp_packet) { FactoryGirl.build(:udp_packet, {ack: 2, previous_acks: []}) }
+
+        it 'returns all the acks retrieved from the packet' do
+          expect(udp_packet.contains_acks?).to eq(true)
+        end
+      end
+
+      context 'the 48 bits designated to ack and ack_bitfield are not set' do
+        let(:udp_packet) { FactoryGirl.build(:udp_packet, {ack: 0, previous_acks: []}) }
+
+        it 'returns all the acks retrieved from the packet' do
+          expect(udp_packet.contains_acks?).to eq(false)
+        end
       end
     end
 

@@ -45,6 +45,10 @@ module Communications
       self
     end
 
+    def last_received(n=1)
+      @udp_packets.sort_by(&:received_time)[-n..-1]
+    end
+
     def full?
       @udp_packets.count == @max
     end
@@ -54,17 +58,5 @@ module Communications
         udp_packet.received_ack_time.nil? && udp_packet.sent_time < Time.now - LOST
       end
     end
-
-    #def lost
-    #  borderline_packet = @udp_packets.reverse.detect do |udp_packet|
-    #    udp_packet.received_time < Time.now - LOST
-    #  end
-    #
-    #  missing_sequence_numbers = (1..borderline.sequence_no).to_a - @udp_packets.select do |udp_packet|
-    #    udp_packet.sequence_no < reference_packet.sequence_no
-    #  end
-    #
-    #  missing_sequence_numbers.collect {|sequence_no| Communications::UDPPacket.new(nil, sequence_no, nil, nil, nil, nil, {})}
-    #end
   end
 end

@@ -155,6 +155,33 @@ module Communications
       end
     end
 
+   describe '#last_received' do
+     before :each do
+       packets[0..5].each do |packet|
+         packet.received_time = Time.now
+         buffer << packet
+       end
+     end
 
+     context 'no argument passed' do
+       before :each do
+         packets[2].received_time = Time.now
+       end
+
+       it 'returns the last packet received' do
+         expect(buffer.last_received).to eq([packets[2]])
+       end
+     end
+
+     context 'argument passed' do
+       before :each do
+         packets[2].received_time = Time.now
+       end
+
+       it 'returns the last n packet received in chronological order' do
+         expect(buffer.last_received(3)).to eq([packets[4], packets[5], packets[2]])
+       end
+     end
+   end
   end
 end

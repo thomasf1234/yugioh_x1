@@ -9,13 +9,13 @@ require 'zlib'
 #detecting disconnect - nothing for x time
 
 module Communications
-  class Output
-    def initialize
+  class Session
+    def initialize(port=33333, ip='0.0.0.0')
       @sequence_no = 0
-      @sent = []
-      @received = []
+      @sent_packets = UDPPacketBuffer.new
+      @received_packets = UDPPacketBuffer.new
       @socket = UDPSocket.new
-      @socket.bind('0.0.0.0', 33334)
+      @socket.bind(ip, port)
       @protocol_id = [Zlib.adler32('yugioh'.encode('ASCII-8BIT'))].pack('N')
     end
     #http://spin.atomicobject.com/2013/09/30/socket-connection-timeout-ruby/
@@ -24,7 +24,7 @@ module Communications
     def connect(ip='127.0.0.1', port=33333, timeout=5)
       time = Time.now
 
-      send(@protocol_id + [@sequence_no].pack('n'))
+      send('')
       until Time.now - time > timeout do
         @packet = receive_nonblock.select do |packet|
           [packet[1][3], packet[1][1]] == [ip, port] &&
@@ -40,32 +40,53 @@ module Communications
       end
     end
 
-    def send(content)
+    def send(ascii8bit_content)
       @sequence_no += 1
-      packet = UDPPacket.new(@protocol_id, @sequence_no, @ack, @ack_bitfield, content.bytesize, content)
-      packet.sent_time = Time.now
 
-      @socket.send(payload, 0, '127.0.0.1', 33333)
+      if @received_packets.all.empty?
+        packet = UDPPacket.new(@protocol_id, @sequence_no, 0, [], ascii8bit_content.bytesize, ascii8bit_content)
+      else
+        packet = UDPPacket.new(@protocol_id,
+                               @sequence_no,
+                               @received_packets.last_received.first.sequence_no,
+                               @received_packets.last_received(33).take(32).collect(&:sequence_no),
+                               ascii8bit_content.bytesize,
+                               ascii8bit_content)
+      end
+      packet.sent_time = Time.now
+      @sent_packets << packet
+
+      @socket.send(packet.raw_payload, 0, '127.0.0.1', 33333)
     end
 
     def receive_nonblock
-      payloads = []
-
       begin
         while true do
-          raw_payload, addr = UDPPacket.new_from(@socket.recvfrom_nonblock(1024))
+          raw_packet = @socket.recvfrom_nonblock(1024)
 
-          if correct_protocol?(raw_payload)
-            decoded_payload = decode(raw_payload)
-            #raise SocketError.new("ack does not match sequence_no") if
-            payloads << decoded_payload[:payload]
-            @acks << decoded_payload[:ack] && @acks.shift if @acks.count > 5000
-            @rtt[@sequence_no][:duration] = Time.now - @rtt[@sequence_no][:send_time]
+          if correct_protocol?(raw_packet[0])
+            packet = UDPPacket.new_from(raw_packet)
+
+            if packet.contains_acks?
+              packet.acks do |ack|
+                sent_packet = @sent_packets.find(ack)
+                sent_packet.received_ack_time = Time.now if sent_packet.received_ack_time.nil?
+              end
+            end
+
+            @received_packets << packet
           end
         end
       rescue IO::WaitReadable
       end
-      payloads
+    end
+
+    def sent
+      @sent_packets
+    end
+
+    def received
+      @received_packets
     end
 
     def close
