@@ -8,6 +8,8 @@ gem 'glu'
 gem 'glut'
 gem 'wavefront'
 gem 'rmagick'
+gem "factory_girl", "~> 4.0"
+
 
 group :development, :test, :skytapacc do
   gem 'spork'

@@ -2,7 +2,7 @@ require 'zlib'
 
 module Communications
   class UDPPacket
-    attr_accessor :sent_time, :received_ack_time
+    attr_accessor :sent_time, :received_time, :received_ack_time
     attr_reader :protocol_id, :sequence_no, :ack, :previous_acks, :content_bytesize, :content, :addr
 
     class << self

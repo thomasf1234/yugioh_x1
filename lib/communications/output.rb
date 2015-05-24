@@ -40,12 +40,11 @@ module Communications
       end
     end
 
-    def send(payload)
+    def send(content)
       @sequence_no += 1
-      packet = UDPPacket.new(@protocol_id, @sequence_no, @ack, @ack_bitfield, payload)
-      payload = @protocol_id + [@sequence_no].pack('n') + [@ack].pack('n') + [@ack_bitfield].pack('N') + payload.encode('ASCII-8BIT')
+      packet = UDPPacket.new(@protocol_id, @sequence_no, @ack, @ack_bitfield, content.bytesize, content)
+      packet.sent_time = Time.now
 
-      @rtt[@sequence_no] = {send_time: Time.now, duration: nil}
       @socket.send(payload, 0, '127.0.0.1', 33333)
     end
 

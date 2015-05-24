@@ -20,34 +20,34 @@ module Communications
           #protocol_id (bytes 1..4, val = yugioh adler checksum)
           '00001001010000100000001010010110' +
 
-              #sequence_no - (bytes 5..6, val = 83)
-              '0000000001010011' +
+          #sequence_no - (bytes 5..6, val = 83)
+          '0000000001010011' +
 
-              #ack - (bytes 7..8, val = 67)
-              '0000000001000011' +
+          #ack - (bytes 7..8, val = 67)
+          '0000000001000011' +
 
-              #ack_bitfield (bytes 9..12, val = last 32 acks)
-              '00000000000001101111100001010101' +
+          #ack_bitfield (bytes 9..12, val = last 32 acks)
+          '00000000000001101111100001010101' +
 
-              #content length in bytes - (bytes 13..14, val = 13)
-              '0000000000001101' +
+          #content length in bytes - (bytes 13..14, val = 13)
+          '0000000000001101' +
 
-              #content in ASCII-8BIT - (bytes 15..27)
-              [
-                  '01110000', #'p'
-                  '01100001', #'a'
-                  '01111001', #'y'
-                  '01101100', #'l'
-                  '01101111', #'o'
-                  '01100001', #'a'
-                  '01100100', #'d'
-                  '00100000', #' '
-                  '01100100', #'d'
-                  '01100001', #'a'
-                  '01110100', #'t'
-                  '01100001', #'a'
-                  '00000000', #NULL character for content termination
-              ].join
+          #content in ASCII-8BIT - (bytes 15..27)
+          [
+              '01110000', #'p'
+              '01100001', #'a'
+              '01111001', #'y'
+              '01101100', #'l'
+              '01101111', #'o'
+              '01100001', #'a'
+              '01100100', #'d'
+              '00100000', #' '
+              '01100100', #'d'
+              '01100001', #'a'
+              '01110100', #'t'
+              '01100001', #'a'
+              '00000000', #NULL character for content termination
+          ].join
       ].pack('B*')
     end
 
@@ -85,7 +85,7 @@ module Communications
     end
 
     describe '#rtt' do
-      let(:udp_packet) { UDPPacket.new(protocol_id, 10, 3, [1,2], 13, content, {})}
+      let(:udp_packet) { FactoryGirl.build(:udp_packet) }
 
       context 'we received an ack for this packet' do
         before :each do
