@@ -4,7 +4,8 @@ require 'pry'
 require 'timecop'
 require 'time'
 require 'factory_girl'
-require File.expand_path("../../lib/yugioh_x1", __FILE__)
+require 'webmock/rspec'
+require File.expand_path("../../yugioh_x1", __FILE__)
 Dir[File.dirname(__FILE__) + "/support/**/*.rb"].each { |file| require file }
 
 factories_path = File.expand_path("../../spec/factories",__FILE__)
