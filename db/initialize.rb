@@ -1,4 +1,3 @@
-ENV['ENV'] ||= 'development'
 require_relative 'card_data_fetcher'
 
 db_name = "db_#{ENV['ENV']}"

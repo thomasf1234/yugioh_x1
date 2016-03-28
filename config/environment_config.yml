@@ -1,0 +1,7 @@
+development: &development
+  image_folder: db/images/pictures
+
+
+test:
+  <<: *development
+  image_folder: tmp/pictures

@@ -5,5 +5,5 @@ class Monster < ActiveRecord::Base
 
   serialize :types, Array
 
-  delegate :name, :number, :description, :effect_types, :image_path, to: :card
+  delegate :name, :number, :description, :effect_types, :image_path, :artworks, to: :card
 end
