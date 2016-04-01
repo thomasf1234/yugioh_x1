@@ -12,3 +12,5 @@
 .idea
 .irb-save-history
 .bundle/config
+db_*
+db/backups
