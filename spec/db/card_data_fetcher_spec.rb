@@ -89,9 +89,9 @@ describe CardDataFetcher do
 
         expect(card.name).to eq('Dark Magician')
         expect(card.type).to eq('Normal')
-        expect(card.elemental_attribute).to eq('DARK')
+        expect(card.element).to eq('DARK')
         expect(card.level).to eq(7)
-        expect(card.monster_type).to eq('Spellcaster')
+        expect(card.species).to eq('Spellcaster')
         expect(card.monster_abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("The ultimate wizard in terms of attack and defense.")
@@ -127,9 +127,9 @@ describe CardDataFetcher do
 
         expect(card.name).to eq("Van'Dalgyon the Dark Dragon Lord")
         expect(card.type).to eq('Effect')
-        expect(card.elemental_attribute).to eq('DARK')
+        expect(card.element).to eq('DARK')
         expect(card.level).to eq(8)
-        expect(card.monster_type).to eq('Dragon')
+        expect(card.species).to eq('Dragon')
         expect(card.monster_abilities).to eq([])
         expect(card.card_effects.map(&:type)).to match_array(['CardEffects::Trigger', 'CardEffects::Trigger'])
         expect(card.description).to eq("If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:
@@ -162,7 +162,7 @@ describe CardDataFetcher do
 
         expect(card.name).to eq('Monster Reborn')
         expect(card.type).to eq('Spell')
-        expect(card.spell_trap_type).to eq('Normal')
+        expect(card.property).to eq('Normal')
         expect(card.card_effects.count).to eq(1)
         expect(card.card_effects.first.type).to eq('CardEffects::Effect')
         expect(card.description).to eq("Target 1 monster in either player's Graveyard; Special Summon it.")

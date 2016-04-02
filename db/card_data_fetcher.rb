@@ -39,23 +39,23 @@ class CardDataFetcher
       properties = case card_type(main_page)
                      when Card::Types::NORMAL
                        [
-                           Property.new({name: 'elemental_attribute', value: main_page.row_value('Attribute'), data_type: 'string'}),
-                           Property.new({name: 'level', value: main_page.row_value('Level'), data_type: 'integer'}),
-                           Property.new({name: 'attack', value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
-                           Property.new({name: 'defense', value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
-                           Property.new({name: 'monster_type', value: main_page.row_value('Type'), data_type: 'string'}),
+                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute'), data_type: 'string'}),
+                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level'), data_type: 'integer'}),
+                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
+                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
+                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Type'), data_type: 'string'}),
                        ]
                      when Card::Types::EFFECT
                        [
-                           Property.new({name: 'elemental_attribute', value: main_page.row_value('Attribute'), data_type: 'string'}),
-                           Property.new({name: 'level', value: main_page.row_value('Level'), data_type: 'integer'}),
-                           Property.new({name: 'attack', value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
-                           Property.new({name: 'defense', value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
-                           Property.new({name: 'monster_type', value: main_page.row_value('Types').split('/').first, data_type: 'string'}),
+                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute'), data_type: 'string'}),
+                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level'), data_type: 'integer'}),
+                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
+                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
+                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first, data_type: 'string'}),
                        ]
                      when Card::Types::SPELL || Card::Types::TRAP
                        [
-                           Property.new({name: 'spell_trap_type', value: main_page.row_value('Property'), data_type: 'string'}),
+                           Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property'), data_type: 'string'}),
                        ]
 
                      else
@@ -68,7 +68,7 @@ class CardDataFetcher
       if ['Spell Card', 'Trap Card'].include?(main_page.row_value('Type'))
         main_page.row_value('Type').split.first
       elsif main_page.row_value('Types').nil? || (Card::Types::ALL & main_page.row_value('Types').split('/')).empty?
-        'Normal'
+        Card::Types::NORMAL
       else
         common_types = Card::Types::ALL & main_page.row_value('Types').split('/')
         case common_types.count

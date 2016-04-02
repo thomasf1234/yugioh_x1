@@ -62,6 +62,37 @@ namespace "db" do
       puts "database '#{db_name}' restored"
     end
   end
+
+  desc "runs the database migrations for given ENV"
+  task :migrate do
+    ActiveRecord::Base.logger = Logger.new(STDOUT)
+
+    migration_files.each do |klass|
+      puts "running '#{klass.name}'"
+      klass.up
+      puts "completed '#{klass.name}'"
+    end
+  end
+
+  desc "runs the database migrations for given ENV, STEP optional"
+  task :rollback do
+    ENV['STEP'] ||= '0'
+    ActiveRecord::Base.logger = Logger.new(STDOUT)
+
+    migration_files.reverse[0..(-1 + ENV['STEP'].to_i)].each do |klass|
+      puts "rolling back '#{klass.name}'"
+      klass.down
+      puts "completed '#{klass.name}'"
+    end
+  end
+
+  def migration_files
+    Dir.glob('db/migrate/*.rb').map do |file|
+      klass_name = File.basename(file, File.extname(file)).split('_')[1..-1].join('_').camelize
+      load(file) unless ActiveRecord::Migration.subclasses.map(&:name).include?(klass_name)
+      klass_name.constantize
+    end
+  end
   # https://rietta.com/blog/2013/11/28/rails-and-sql-views-for-a-report/
   # https://gist.github.com/jasoncodes/1307727
 end
