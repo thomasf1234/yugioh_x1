@@ -49,15 +49,15 @@ describe 'db.rake' do
       end
 
       expect(File.exists?('db/backups/test/db_test_20160402000438.bak.gz')).to eq(true)
-      expect(Digest::MD5.file('db/backups/test/db_test_20160402000438.bak.gz').to_s).to eq('d5ebe6683b0cbebe88faa5593f47dee7')
+      expect(Digest::MD5.file('db/backups/test/db_test_20160402000438.bak.gz').to_s).to eq('0199bfa2229156975025505f65b2e073')
     end
   end
 
   describe 'db:restore' do
     let(:source) { File.join('spec/samples/lib/tasks', backup_name) }
     let(:temp_file) { File.join('tmp', backup_name) }
-    let(:unzipped_temp_file) { File.join('tmp', 'db_dummy_env_20160402000438.bak') }
-    let(:backup_name) { 'db_dummy_env_20160402000438.bak.gz' }
+    let(:unzipped_temp_file) { File.join('tmp', 'db_dummy_env_20160402203442.bak') }
+    let(:backup_name) { 'db_dummy_env_20160402203442.bak.gz' }
 
     context 'database already exists' do
       before :each do
@@ -81,14 +81,23 @@ describe 'db.rake' do
 
     context 'database does not exist' do
       let(:properties_as_json) do
-        [{"id"=>1, "name"=>"elemental_attribute", "value"=>"DARK", "data_type"=>"string", "card_id"=>1},
+        [{"id"=>1, "name"=>"element", "value"=>"DARK", "data_type"=>"string", "card_id"=>1},
          {"id"=>2, "name"=>"level", "value"=>7, "data_type"=>"integer", "card_id"=>1},
-         {"id"=>3, "name"=>"attack", "value"=>2500, "data_type"=>"integer", "card_id"=>1},
-         {"id"=>4, "name"=>"defense", "value"=>2100, "data_type"=>"integer", "card_id"=>1},
-         {"id"=>5, "name"=>"monster_type", "value"=>"Normal", "data_type"=>"string", "card_id"=>1}]
+         {"id"=>3, "name"=>"attack", "value"=>"2500", "data_type"=>"string", "card_id"=>1},
+         {"id"=>4, "name"=>"defense", "value"=>"2100", "data_type"=>"string", "card_id"=>1},
+         {"id"=>5, "name"=>"species", "value"=>"Spellcaster", "data_type"=>"string", "card_id"=>1}]
       end
       let(:cards_as_json) do
-        [{"id"=>1, "name"=>"Dark Magician", "serial_number"=>"46986414", "description"=>"The ultimate wizard in terms of attack and defense."}]
+        [{"id"=>1, "name"=>"Dark Magician", "serial_number"=>"46986414", "description"=>"The ultimate wizard in terms of attack and defense.", "category"=>"Normal"}]
+      end
+      let(:artworks_as_json) do
+        [{"id"=>1, "image_path"=>"tmp/pictures/DarkMagician-OW.png", "card_id"=>1},
+         {"id"=>2, "image_path"=>"tmp/pictures/DarkMagician-OW-2.png", "card_id"=>1},
+         {"id"=>3, "image_path"=>"tmp/pictures/DarkMagician-TF05-JP-VG.png", "card_id"=>1},
+         {"id"=>4, "image_path"=>"tmp/pictures/DarkMagician-TF05-JP-VG-2.png", "card_id"=>1},
+         {"id"=>5, "image_path"=>"tmp/pictures/DarkMagician-TF05-JP-VG-3.png", "card_id"=>1},
+         {"id"=>6, "image_path"=>"tmp/pictures/DarkMagician-TF05-JP-VG-4.png", "card_id"=>1},
+         {"id"=>7, "image_path"=>"tmp/pictures/DarkMagician-TF05-JP-VG-5.png", "card_id"=>1}]
       end
 
       before :each do
@@ -107,7 +116,8 @@ describe 'db.rake' do
 
           expect(Card.all.as_json).to match_array(cards_as_json)
           expect(Property.all.as_json).to match_array(properties_as_json)
-          expect_all_other_tables_to_be_empty([Card, Property])
+          expect(Artwork.all.as_json).to match_array(artworks_as_json)
+          expect_all_other_tables_to_be_empty([Card, Monster, Property, Artwork])
         end
       end
     end
