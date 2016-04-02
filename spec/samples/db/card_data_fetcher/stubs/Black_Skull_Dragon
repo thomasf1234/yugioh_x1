@@ -1,0 +1,2121 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Yu-Gi-Oh!,yugioh,B. Skull Dragon,B. Skull Dragon,B. Skull Dragon,B. Skull Dragon,B. Skull Dragon,Attribute,DARK,Type,Dragon,Fusion Monster,Level" />
+<meta name="description" content="The Arabic, Chinese, Croatian, Greek, Polish, Thai andTurkish names given are not official. The..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://yugioh.wikia.com/wiki/B._Skull_Dragon" />
+<meta name="twitter:title" content="B. Skull Dragon - Yu-Gi-Oh! - Wikia" />
+<meta name="twitter:description" content="The Arabic, Chinese, Croatian, Greek, Polish, Thai andTurkish names given are not official. The Chinese lore given is not official." />
+<link rel="canonical" href="http://yugioh.wikia.com/wiki/B._Skull_Dragon" />
+<link rel="apple-touch-icon" href="http://img4.wikia.nocookie.net/__cb15/yugioh/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/yugioh/images/6/64/Favicon.ico/revision/latest?cb=20090626015303" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Yu-Gi-Oh! (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://yugioh.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Yu-Gi-Oh! Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>B. Skull Dragon - Yu-Gi-Oh! - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1459442669/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimages2.wikia.nocookie.net%252F__cb20130314221841%252Fyugioh%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D805%26background-image-width%3D1920%26color-body%3D%25233b0902%26color-body-middle%3D%25233b0902%26color-buttons%3D%2523fec356%26color-header%3D%2523fec024%26color-links%3D%25230148c2%26color-page%3D%2523ffffff%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: yugioh:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="comics",
+wgWikiCategories=["anime","videogames"],
+wgMessages={"wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"everyone","mappedVerticalName":"ent","pageArticleId":202,"pageIsArticle":true,"pageName":"B._Skull_Dragon","pageType":"article","skin":"oasis","wikiCategory":"gaming","wikiCustomKeyValues":"age=teen;age=kid;gnre=anime;gnre=fantasy;esrb=everyone;gnre=strategy;media=tv;media=cards;pform=pc;pform=psp;sex=m;age=18-34;gnre=comics","wikiDbName":"yugioh","wikiDirectedAtChildren":true,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"comics","newWikiCategories":["gaming","anime","videogames"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[7,9,13,14,15,100024,100041,100042,100043,100044,100052,100056,100057,100058,100059,100065,100066,100068,100077,100083,100378,100428,100455,100583],
+wgWikiFactoryTagNames=["comics/manga","anime","teens_(14-17)","kids_(13)","male","test","top_25_entertainment","top_50_entertainment","top_75_entertainment","top_100_entertainment","adss","wow","t9","skyscraper","skyscrapperwow","tandem","tandem_2","hadonedotenabled","sponsoredlink","adss_high","comscore_gaming","apertureenabled","krux","seo_removals"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1459442669",
+wgDBname="yugioh",
+wgCityId="410",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=202,
+wgCategories=["Card pages with an unofficial Arabic name","Card pages with an unofficial Chinese name","Card pages with an unofficial Croatian name","Card pages with an unofficial Greek name","Card pages with an unofficial Polish name","Card pages with an unofficial Thai name","Card pages with an unofficial Turkish name","Card pages with an unofficial Chinese lore","Card pages with an alt name","Duel Monsters cards","TCG cards","OCG cards","Cards with a French release needing a French lore","Cards with a Korean release needing a Korean lore"],
+wgPageName="B._Skull_Dragon",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1459442669",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s23","php_version":"5.6.4","wiki":"yugioh","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1459442669&amp;c=410&amp;lc=en&amp;lid=75&amp;x=yugioh&amp;y=c2&amp;u=0&amp;a=202&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1459442669&amp;c=410&amp;lc=en&amp;lid=75&amp;x=yugioh&amp;y=c2&amp;u=0&amp;a=202&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1459442669/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+		<link rel="alternate" type="application/rdf+xml" title="B. Skull Dragon" href="/wiki/Special:ExportRDF/B._Skull_Dragon?xmlmime=rdf" />
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Yu-Gi-Oh!" />
+	<meta property="og:title" content="B. Skull Dragon" />
+	<meta property="og:description" content="The Arabic, Chinese, Croatian, Greek, Polish, Thai andTurkish names given are not official. The Chinese lore given is not official." />
+	<meta property="og:url" content="http://yugioh.wikia.com/wiki/B._Skull_Dragon" />
+	<meta property="og:image" content="http://vignette3.wikia.nocookie.net/yugioh/images/b/b5/BSkullDragon-LCJW-EN-R-1E.png/revision/latest?cb=20131012085906" />
+<meta name="apple-itunes-app" content="app-id=963580559, app-arguments=http://yugioh.wikia.com/wiki/Black_Skull_Dragon">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-B_Skull_Dragon  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fyugioh.wikia.com%2Fwiki%2FBlack_Skull_Dragon%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'comics',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://yugioh.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Yu-Gi-Oh!..." data-search-url="http://yugioh.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Yu-Gi-Oh!..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Black_Skull_Dragon" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" title="Register" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Black_Skull_Dragon">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Yu-Gi-Oh!_Wikia">
+					<img src="http://img3.wikia.nocookie.net/__cb15/yugioh/images/8/89/Wiki-wordmark.png" alt="Yu-Gi-Oh!"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Yu-Gi-Oh! Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">New images on this wiki</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Top Content</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Most_visited_articles">Most Visited<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Dark_Illusion">The Dark Illusion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_098">Yu-Gi-Oh! ARC-V - Episode 098</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_099">Yu-Gi-Oh! ARC-V - Episode 099</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Shining_Victories">Shining Victories</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_100">Yu-Gi-Oh! ARC-V - Episode 100</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Millennium_Pack">Millennium Pack</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Premium_Gold:_Infinite_Gold">Premium Gold: Infinite Gold</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Newly_changed_articles">Newly Changed<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Paradise">Paradise</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gus">Gus</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Poseidon_Wave">Poseidon Wave</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Structure_Deck:_Spellcaster%27s_Command_Special_Edition">Structure Deck: Spellcaster's Command Special Edition</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Spellcaster%27s_Command_Structure_Deck:_Special_Edition">Spellcaster's Command Structure Deck: Special Edition</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/TDIL-JP064">TDIL-JP064</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/TDIL-JP063">TDIL-JP063</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random">Random<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random">Random Page</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Gallery">Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Rulings">Rulings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Errata">Errata</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Tips">Tips</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Appearances">Appearances‎</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Trivia">Trivia</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_ARC-V_characters">ARC-V<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ARC-V_anime_characters">Anime</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_ZEXAL_characters">ZEXAL<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ZEXAL_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ZEXAL_manga_characters">Manga</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_D_Team_ZEXAL_characters">D Team</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_5D%27s_characters">5D's<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_5D%27s_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_5D%27s_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_GX_characters">GX<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_GX_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_GX_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_characters">Yu-Gi-Oh!<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_anime_characters">Second anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_first_series_anime_characters">First anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Card_Gallery">Card Gallery</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Set_Card_Galleries">Sets by language<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Japanese_Set_Card_Galleries">Japanese Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:English_Set_Card_Galleries">English Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:French_Set_Card_Galleries">French Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:German_Set_Card_Galleries">German Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Italian_Set_Card_Galleries">Italian Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Spanish_Set_Card_Galleries">Spanish Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Korean_Set_Card_Galleries">Korean Set Card Gallery</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Set_Card_Galleries">Sets by type<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Unlimited_Edition_Set_Card_Galleries">Unlimited Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:1st_Edition_Set_Card_Galleries">1st Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_GX_Chapter_Card_Galleries">Yu-Gi-Oh! GX Chapter Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_5D%27s_Episode_Card_Galleries">Yu-Gi-Oh! 5D's Episode Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Limited_Edition_Set_Card_Galleries">Limited Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_ZEXAL_Episode_Card_Galleries">Yu-Gi-Oh! ZEXAL Episode Card Gallery</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="#">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Yu-Gi-Oh!:Current_events">Current Events</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Policy">Policies</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Ruling_Queries">Yu-Gi-Oh! Ruling Queries</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Deck_Help">Yu-Gi-Oh! Deck Help</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Lists_Discussion">Yu-Gi-Oh! Lists Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:General_Yu-Gi-Oh!_Discussion">General Yu-Gi-Oh! Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Duel_Terminal">Duel Terminal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Help_desk">Help desk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Wiki_Community_Discussion">Yu-Gi-Oh! Wiki Community Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Weekly_Deck_Competition">Weekly Deck Competition</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:RecentChanges">Recent Changes</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Help:Contents">Help</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>B. Skull Dragon</h1>
+									<h2>Redirected from <a href="/wiki/Black_Skull_Dragon?redirect=no" title="Black Skull Dragon" rel="nofollow">Black Skull Dragon</a></h2>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>90,465</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=B._Skull_Dragon&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/B._Skull_Dragon?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:B._Skull_Dragon" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Page Help<span class="commentsbubble">0</span></a>
+	</header>
+	<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_bt" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div class="dablink">The <b>Arabic, Chinese, Croatian, Greek, Polish, Thai&#160;</b>and<b> Turkish                </b> names given are not official. </div>
+<div class="dablink">The <b>Chinese              </b> lore given is not official. </div>
+<table class="cardtable">
+<tr>
+<th class="cardtable-header" colspan="3" style="background-color: #96C; color: #FFF;">B. Skull Dragon<br /><span class="cardtable-subheader"><span lang="ja">ブラック・デーモンズ・ドラゴン</span></span></th>
+</tr><tr><td class="cardtable-cardimage" rowspan="91"><a href="http://vignette3.wikia.nocookie.net/yugioh/images/b/b5/BSkullDragon-LCJW-EN-R-1E.png/revision/latest?cb=20131012085906" 	class="image image-thumbnail" 	 	 	><img src="http://vignette3.wikia.nocookie.net/yugioh/images/b/b5/BSkullDragon-LCJW-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20131012085906" 	 alt="BSkullDragon-LCJW-EN-R-1E"  	class="" 	 	data-image-key="BSkullDragon-LCJW-EN-R-1E.png" 	data-image-name="BSkullDragon-LCJW-EN-R-1E.png" 	 	 width="300"  	 height="437"  	 	 	 	></a></td></tr>
+<p>
+</p>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">English</th><td class="cardtablerowdata">
+B. Skull Dragon</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Chinese</th><td class="cardtablerowdata">
+<span lang="zh">暗黑魔龍</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#zh-CN/en/%E6%9A%97%E9%BB%91%E9%AD%94%E9%BE%8D">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">French</th><td class="cardtablerowdata">
+<span lang="fr">Dragon Crâne Noir</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#fr/en/Dragon+Cr%C3%A2ne+Noir">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">German</th><td class="cardtablerowdata">
+<span lang="de">Schw. Totenkopfdrache</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#de/en/Schw.+Totenkopfdrache">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Italian</th><td class="cardtablerowdata">
+<span lang="it">Drago Teschio Nero</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#it/en/Drago+Teschio+Nero">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Korean</th><td class="cardtablerowdata">
+<span lang="ko">블랙 데몬즈 드래곤</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#ko/en/%EB%B8%94%EB%9E%99+%EB%8D%B0%EB%AA%AC%EC%A6%88+%EB%93%9C%EB%9E%98%EA%B3%A4">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Portuguese</th><td class="cardtablerowdata">
+<span lang="pt">Dragão Caveira Negro</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#pt/en/Drag%C3%A3o+Caveira+Negro">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Spanish</th><td class="cardtablerowdata">
+<span lang="es">Dragón B. Cráneo</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#es/en/Drag%C3%B3n+B.+Cr%C3%A1neo">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese</th><td class="cardtablerowdata">
+<span lang="ja">ブラック・デーモンズ・ドラゴン</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#ja/en/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(<i>rōmaji</i>)</th><td class="cardtablerowdata">
+Burakku Dēmonzu Doragon</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(translated)</th><td class="cardtablerowdata">
+Black Daemons Dragon</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Other names</th><td class="cardtablerowdata">
+Black Skull Dragon</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Attribute" title="Attribute">Attribute</a></th><td class="cardtablerowdata">
+<a href="/wiki/DARK" title="DARK">DARK</a> <a href="http://vignette3.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest?cb=20120918053848" 	class="image image-thumbnail" 	 	 	><img src="http://vignette3.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/34?cb=20120918053848" 	 alt="DARK"  	class="" 	 	data-image-key="DARK.svg" 	data-image-name="DARK.svg" 	 	 width="34"  	 height="34"  	 	 	 	></a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Type" title="Type">Types</a></th><td class="cardtablerowdata">
+<a href="/wiki/Dragon" title="Dragon">Dragon</a>/<a href="/wiki/Fusion_Monster" title="Fusion Monster">Fusion</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Level" title="Level">Level</a></th><td class="cardtablerowdata">
+<a href="/wiki/Level_9_Monster_Cards" title="Level 9 Monster Cards">9</a> <a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a><a href="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest?cb=20120918052836" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="CG Star"  	class="lzy lzyPlcHld " 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 data-src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836"  	 width="18"  	 height="18"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836" 	 alt="CG Star"  	class="" 	 	data-image-key="CG_Star.svg" 	data-image-name="CG Star.svg" 	 	 width="18"  	 height="18"  	 	 	 	></noscript></a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/ATK" title="ATK">ATK</a>/<a href="/wiki/DEF" title="DEF">DEF</a></th><td class="cardtablerowdata">
+<a href="/wiki/3200_ATK_Monster_Cards" title="3200 ATK Monster Cards">3200</a>/<a href="/wiki/2500_DEF_Monster_Cards" title="2500 DEF Monster Cards">2500</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Card_Number" title="Card Number">Card Number</a></th><td class="cardtablerowdata">
+<a href="/wiki/11901678" title="11901678" class="mw-redirect">11901678</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Fusion_Material" title="Fusion Material">Fusion Material</a></th><td class="cardtablerowdata">
+"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Summoned Skull</a>", "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Red-Eyes B. Dragon</a>"</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Materials</th><td class="cardtablerowdata">
+"Summoned Skull" + "Red-Eyes B. Dragon"</td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Card descriptions</b><br />
+<table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible expanded navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Summoned Skull</a>" + "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Red-Eyes B. Dragon</a>"<br /><br /><br /><br />(This card is always treated as an "<a href="/wiki/Archfiend" title="Archfiend">Archfiend</a>" card.)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>German</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="de">"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Herbeigerufener Totenkopf</a>" + "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Rotäugiger schwarzer Drache</a>"</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Italian</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="it">"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Teschio Evocato</a>" + "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Drago Nero Occhi Rossi</a>"<br /><br /><br /><br />(Questa carta è sempre considerata come una carta "Arcidemone".)</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Portuguese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="pt">"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Caveira Invocada</a>" + <a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Dragão Negro de Olhos Vermelhos</a>"<br /><br /><br /><br />(Esta card é tratado como um card "<a href="/wiki/Archfiend" title="Archfiend">Arquidemônio</a>".)</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Spanish</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="es">"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Cráneo Convocado"</a> + "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Dragón Negro de Ojos Rojos</a>"<br /><br /><br /><br />(Esta carta se trata siempre como una carta "Archidemonio").</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Japanese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="ja">「<a href="/wiki/Summoned_Skull" title="Summoned Skull">デーモンの召喚</a>」＋「<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">真紅眼の黒竜</a>」</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Chinese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="zh">「<a href="/wiki/Summoned_Skull" title="Summoned Skull">惡魔召喚</a>」＋「<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">真紅眼黑龍</a>」</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_The_Eternal_Duelist_Soul" title="Yu-Gi-Oh! The Eternal Duelist Soul">Yu-Gi-Oh! The Eternal Duelist Soul</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+"<a href="/wiki/Summoned_Skull" title="Summoned Skull">Summoned Skull</a>" + "<a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Red-Eyes B. Dragon</a>"</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_The_Sacred_Cards" title="Yu-Gi-Oh! The Sacred Cards">Yu-Gi-Oh! The Sacred Cards</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<i>A <a href="/wiki/Fiend" title="Fiend">fiendish</a> <a href="/wiki/DARK" title="DARK">dark</a> <a href="/wiki/Dragon" title="Dragon">dragon</a> that is of extremely high rarity. It is the <a href="/wiki/Fusion" title="Fusion" class="mw-redirect">fusion</a> of a rare <a href="/wiki/Summoned_Skull" title="Summoned Skull">fiend</a> and a <a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">dragon</a>.</i></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> sets</b><br />
+  <table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—Worldwide</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 12, 2004">2004-10-12 </td>
+  <td><a href="/wiki/DB1-EN153" title="DB1-EN153" class="mw-redirect">DB1-EN153</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 1, 2004">2004-12-01 </td>
+  <td><a href="/wiki/MRD-EN018" title="MRD-EN018" class="mw-redirect">MRD-EN018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 11, 2013">2013-10-11 </td>
+  <td><a href="/wiki/LCJW-EN054" title="LCJW-EN054" class="mw-redirect">LCJW-EN054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—North America</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">North American English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 26, 2002">2002-06-26 </td>
+  <td><a href="/wiki/MRD-018" title="MRD-018" class="mw-redirect">MRD-018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 4, 2002">2002-10-04 </td>
+  <td><a href="/wiki/BPT-006" title="BPT-006" class="mw-redirect">BPT-006</a> </td>
+  <td><a href="/wiki/2002_Booster_Pack_Tins" title="2002 Booster Pack Tins">2002 Booster Pack Tins</a></td>
+  <td><a href="/wiki/Secret_Rare" title="Secret Rare">Secret Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="March 1, 2003">2003-03-01 </td>
+  <td><a href="/wiki/TP3-004" title="TP3-004" class="mw-redirect">TP3-004</a> </td>
+  <td><a href="/wiki/Tournament_Pack:_3rd_Season" title="Tournament Pack: 3rd Season">Tournament Pack: 3rd Season</a></td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="November 21, 2008">2008-11-21 </td>
+  <td><a href="/wiki/DLG1-EN029" title="DLG1-EN029" class="mw-redirect">DLG1-EN029</a> </td>
+  <td><a href="/wiki/Dark_Legends" title="Dark Legends">Dark Legends</a></td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—Europe</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">European English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="July 23, 2003">2003-07-23 </td>
+  <td><a href="/wiki/MRD-E018" title="MRD-E018" class="mw-redirect">MRD-E018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 8, 2008">2008-07-08 </td>
+  <td><a href="/wiki/RP01-EN028" title="RP01-EN028" class="mw-redirect">RP01-EN028</a> </td>
+  <td><a href="/wiki/Retro_Pack" title="Retro Pack">Retro Pack</a></td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>French</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">French</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>French name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 27, 2002">2002-06-27 </td>
+  <td><a href="/wiki/MRD-F018" title="MRD-F018" class="mw-redirect">MRD-F018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="fr">Métal Raiders </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 8, 2008">2008-07-08 </td>
+  <td><a href="/wiki/RP01-FR028" title="RP01-FR028" class="mw-redirect">RP01-FR028</a> </td>
+  <td><a href="/wiki/Retro_Pack" title="Retro Pack">Retro Pack</a></td>
+<td lang="fr">Retro Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-FR054" title="LCJW-FR054" class="mw-redirect">LCJW-FR054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="fr">Collection Légendaire 4 Méga-Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>German</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">German</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>German name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 27, 2002">2002-06-27 </td>
+  <td><a href="/wiki/MRD-G018" title="MRD-G018" class="mw-redirect">MRD-G018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="de">Metal Raiders </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 17, 2004">2004-12-17 </td>
+  <td><a href="/wiki/DB1-DE153" title="DB1-DE153" class="mw-redirect">DB1-DE153</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+<td lang="de">Dark Beginning 1 </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 8, 2008">2008-07-08 </td>
+  <td><a href="/wiki/RP01-DE028" title="RP01-DE028" class="mw-redirect">RP01-DE028</a> </td>
+  <td><a href="/wiki/Retro_Pack" title="Retro Pack">Retro Pack</a></td>
+<td lang="de">Retro Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-DE054" title="LCJW-DE054" class="mw-redirect">LCJW-DE054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="de">Legendary Collection 4 Mega-Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Italian</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Italian</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Italian name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="August 7, 2003">2003-08-07 </td>
+  <td><a href="/wiki/PMT-I018" title="PMT-I018" class="mw-redirect">PMT-I018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="it">Predoni Metallici </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 8, 2008">2008-07-08 </td>
+  <td><a href="/wiki/RP01-IT028" title="RP01-IT028" class="mw-redirect">RP01-IT028</a> </td>
+  <td><a href="/wiki/Retro_Pack" title="Retro Pack">Retro Pack</a></td>
+<td lang="it">Retro Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-IT054" title="LCJW-IT054" class="mw-redirect">LCJW-IT054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="it">Collezione Leggendaria 4 Mega-Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Portuguese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Portuguese</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Portuguese name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title=""> </td>
+  <td><a href="/wiki/PMT-P018" title="PMT-P018" class="mw-redirect">PMT-P018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="pt"> </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 11, 2013">2013-10-11 </td>
+  <td><a href="/wiki/LCJW-PT054" title="LCJW-PT054" class="mw-redirect">LCJW-PT054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="pt">Coleção Lendária 4 Mega-Pacote </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Spanish</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Spanish</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Spanish name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 27, 2002">2002-06-27 </td>
+  <td><a href="/wiki/PMT-S018" title="PMT-S018" class="mw-redirect">PMT-S018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="es">Predadores Metálicos </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 1, 2004">2004-12-01 </td>
+  <td><a href="/wiki/DB1-SP153" title="DB1-SP153" class="mw-redirect">DB1-SP153</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+<td lang="es">Principio Oscuro 1 </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-SP054" title="LCJW-SP054" class="mw-redirect">LCJW-SP054</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="es">Colección Legendaria 4 Mega-Pack </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b><i><a href="/wiki/Yu-Gi-Oh!_Official_Card_Game" title="Yu-Gi-Oh! Official Card Game">OCG</a></i> sets</b><br />
+  <table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Japanese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Japanese</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Japanese name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="September 23, 1999">1999-09-23 </td>
+  <td> </td>
+  <td><a href="/wiki/Vol.5" title="Vol.5">Vol.5</a></td>
+<td lang="ja">Ｖｏｌ．５ </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="September 23, 1999">1999-09-23 </td>
+  <td> </td>
+  <td><a href="/wiki/Vol.5" title="Vol.5">Vol.5</a></td>
+<td lang="ja">Ｖｏｌ．５ </td>
+  <td><a href="/wiki/Ultra_Parallel_Rare" title="Ultra Parallel Rare">Ultra Parallel Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 26, 2000">2000-10-26 </td>
+  <td><a href="/wiki/RB-18" title="RB-18" class="mw-redirect">RB-18</a> </td>
+  <td><a href="/wiki/Revival_of_Black_Demons_Dragon" title="Revival of Black Demons Dragon">Revival of Black Demons Dragon</a></td>
+<td lang="ja">暗黒魔竜復活 </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 26, 2000">2000-10-26 </td>
+  <td><a href="/wiki/RB-18" title="RB-18" class="mw-redirect">RB-18</a> </td>
+  <td><a href="/wiki/Revival_of_Black_Demons_Dragon" title="Revival of Black Demons Dragon">Revival of Black Demons Dragon</a></td>
+<td lang="ja">暗黒魔竜復活 </td>
+  <td><a href="/wiki/Ultra_Parallel_Rare" title="Ultra Parallel Rare">Ultra Parallel Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="November 29, 2001">2001-11-29 </td>
+  <td><a href="/wiki/MA-52" title="MA-52" class="mw-redirect">MA-52</a> </td>
+  <td><a href="/wiki/Mythological_Age" title="Mythological Age">Mythological Age</a></td>
+<td lang="ja">－ 蘇りし魂 － </td>
+  <td><a href="/wiki/Ultimate_Rare" title="Ultimate Rare">Ultimate Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="August 22, 2002">2002-08-22 </td>
+  <td><a href="/wiki/DL2-106" title="DL2-106" class="mw-redirect">DL2-106</a> </td>
+  <td><a href="/wiki/Duelist_Legacy_Volume.2" title="Duelist Legacy Volume.2">Duelist Legacy Volume.2</a></td>
+<td lang="ja">ＤＵＥＬＩＳＴ ＬＥＧＡＣＹ Ｖｏｌｕｍｅ．２ </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 24, 2004">2004-06-24 </td>
+  <td><a href="/wiki/BE1-JP153" title="BE1-JP153" class="mw-redirect">BE1-JP153</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition.1" title="Beginner's Edition.1">Beginner's Edition 1</a></td>
+<td lang="ja">ＢＥＧＩＮＮＥＲ'Ｓ ＥＤＩＴＩＯＮ １ </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="May 14, 2011">2011-05-14 </td>
+  <td><a href="/wiki/BE01-JP129" title="BE01-JP129" class="mw-redirect">BE01-JP129</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition_1_(2011)" title="Beginner's Edition 1 (2011)">Beginner's Edition 1 (2011)</a></td>
+<td lang="ja">ＢＥＧＩＮＮＥＲ'Ｓ　ＥＤＩＴＩＯＮ　１　【２０１１】 </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 19, 2015">2015-12-19 </td>
+  <td><a href="/wiki/MP01-JP014" title="MP01-JP014" class="mw-redirect">MP01-JP014</a> </td>
+  <td><a href="/wiki/Millennium_Pack_(Japanese)" title="Millennium Pack (Japanese)">Millennium Pack (Japanese)</a></td>
+<td lang="ja">ＭＩＬＬＥＮＮＩＵＭ　ＰＡＣＫ </td>
+  <td><a href="/wiki/Millennium_Super_Rare?action=edit&amp;redlink=1" class="new" title="Millennium Super Rare (page does not exist)">Millennium Super Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Korean</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Korean</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Korean name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="March 9, 2004">2004-03-09 </td>
+  <td><a href="/wiki/MRD-K018" title="MRD-K018" class="mw-redirect">MRD-K018</a> </td>
+  <td><a href="/wiki/Metal_Raiders" title="Metal Raiders">Metal Raiders</a></td>
+<td lang="ko">강철의 습격자 </td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="April 11, 2006">2006-04-11 </td>
+  <td><a href="/wiki/BP1-KR153" title="BP1-KR153" class="mw-redirect">BP1-KR153</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition.1" title="Beginner's Edition.1">Beginner's Edition 1</a></td>
+<td lang="ko">비기너즈 팩 1 </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Video game sets</b><br />
+<table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_The_Eternal_Duelist_Soul" title="Yu-Gi-Oh! The Eternal Duelist Soul">Eternal Duelist Soul</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Gate_Guardian_(EDS-BP)" title="Gate Guardian (EDS-BP)">Gate Guardian</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_GX_Duel_Academy" title="Yu-Gi-Oh! GX Duel Academy">Duel Academy</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<p><b><a href="/wiki/Basic_1-C_(GX1-BP)" title="Basic 1-C (GX1-BP)">Basic 1-C</a></b> (<a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a>)
+</p><p><b><a href="/wiki/Basic_2-C_(GX1-BP)" title="Basic 2-C (GX1-BP)">Basic 2-C</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)
+</p><p><b><a href="/wiki/Fusions_(GX1-BP)" title="Fusions (GX1-BP)">Fusions</a></b> (<a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a>)
+</p><p><b><a href="/wiki/Dragons_in_Flight_(GX1-BP)" title="Dragons in Flight (GX1-BP)">Dragons in Flight</a></b> (<a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a>)
+</p>
+<b><a href="/wiki/Invitation_to_the_Dark_(GX1-BP)" title="Invitation to the Dark (GX1-BP)">Invitation to the Dark</a></b> (<a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_GX_Tag_Force" title="Yu-Gi-Oh! GX Tag Force">Tag Force</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Dragon_Drive_(GX02-BP)" title="Dragon Drive (GX02-BP)">Dragon Drive</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Nightmare_Troubadour" title="Yu-Gi-Oh! Nightmare Troubadour">Nightmare Troubadour</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Magician%27s_Soul_(NTR-BP)" title="Magician's Soul (NTR-BP)">Magician's Soul</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Worldwide_Edition:_Stairway_to_the_Destined_Duel" title="Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel">Stairway to the Destined Duel</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<p><b><a href="/wiki/B._Skull_Dragon_(SDD-BP)" title="B. Skull Dragon (SDD-BP)">B. Skull Dragon</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)
+</p><p><b><a href="/wiki/Gate_Guardian_(SDD-BP)" title="Gate Guardian (SDD-BP)">Gate Guardian</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)
+</p><p><b><a href="/wiki/Red_Millennium_Puzzle_(SDD-BP)" title="Red Millennium Puzzle (SDD-BP)">Red Millennium Puzzle</a></b> (<a href="/wiki/Common" title="Common">Common</a>)
+</p>
+<b><a href="/wiki/Yellow_Millennium_Eye_(SDD-BP)" title="Yellow Millennium Eye (SDD-BP)">Yellow Millennium Eye</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Ultimate_Masters:_World_Championship_Tournament_2006" title="Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006">World Championship Tournament 2006</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<p><b><a href="/wiki/Metal_Raiders_(WC6-BP)" title="Metal Raiders (WC6-BP)">Metal Raiders</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)
+</p><p><b><a href="/wiki/Dragon_Collection_(WC6-BP)" title="Dragon Collection (WC6-BP)">Dragon Collection</a></b> (<a href="/wiki/Common" title="Common">Common</a>)
+</p><p><b><a href="/wiki/All_Fusion_Monsters_(WC6-BP)" title="All Fusion Monsters (WC6-BP)">All Fusion Monsters</a></b> (<a href="/wiki/Common" title="Common">Common</a>)
+</p>
+<b><a href="/wiki/All_at_Random_(WC6-BP)" title="All at Random (WC6-BP)">All at Random</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Online" title="Yu-Gi-Oh! Online">Yu-Gi-Oh! Online</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Pack_9_(YGOO-BP)" title="Pack 9 (YGOO-BP)">Pack 9</a></b></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Card search categories</b><br />
+<div class="cardtable-categories">
+  <div class="hlist">
+<dl><dt> <a href="/wiki/Archetype" title="Archetype">Archetypes</a> and <a href="/wiki/Series" title="Series">series</a> 
+</dt><dd> <a href="/wiki/Archfiend" title="Archfiend">Archfiend</a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Related to <a href="/wiki/Archetype" title="Archetype">archetypes</a> and <a href="/wiki/Series" title="Series">series</a> 
+</dt><dd> <a href="/wiki/Red-Eyes" title="Red-Eyes">Red-Eyes</a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Summoning categories 
+</dt><dd> <a href="/wiki/2_Fusion_Materials" title="2 Fusion Materials">2 Fusion Materials</a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Miscellaneous 
+</dt><dd> <a href="/wiki/Non-Effect_Monster" title="Non-Effect Monster">Non-Effect Monster</a>
+</dd><dd> <a href="/wiki/Cover_Card" title="Cover Card" class="mw-redirect">Cover Card</a>
+</dd><dd> <a href="/wiki/Archetype_condition" title="Archetype condition">Archetype condition</a>
+</dd></dl>
+</div>
+</div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Other card information</th><td id="cardtablelinks" class="cardtablerowdata">
+<a href="/wiki/Card_Gallery:B._Skull_Dragon" title="Card Gallery:B. Skull Dragon">Gallery</a> - <a href="/wiki/Card_Rulings:B._Skull_Dragon" title="Card Rulings:B. Skull Dragon">Rulings</a> - <a href="/wiki/Card_Errata:B._Skull_Dragon" title="Card Errata:B. Skull Dragon">Errata</a> - <a href="/wiki/Card_Tips:B._Skull_Dragon" title="Card Tips:B. Skull Dragon">Tips</a><br /><a href="/wiki/Card_Appearances:B._Skull_Dragon" title="Card Appearances:B. Skull Dragon">Appearances</a> - <a href="/wiki/Card_Trivia:B._Skull_Dragon" title="Card Trivia:B. Skull Dragon">Trivia</a><br /><a href="/wiki/Card_Lores:B._Skull_Dragon?action=edit&amp;redlink=1" class="new" title="Card Lores:B. Skull Dragon (page does not exist)">Lores</a> - <a href="/wiki/Card_Artworks:B._Skull_Dragon" title="Card Artworks:B. Skull Dragon">Artworks</a> - <a href="/wiki/Card_Names:B._Skull_Dragon?action=edit&amp;redlink=1" class="new" title="Card Names:B. Skull Dragon (page does not exist)">Names</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">External links</th><td class="cardtablerowdata">
+<p>
+</p>
+<ul><li> Yugioh-Card card database: 4223 (<div class="cardtable-dblinks hlist">
+<ul><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=ja">ja</a> (<a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&amp;cid=4223&amp;request_locale=ja">rulings</a>) 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=en">en</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=fr">fr</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=de">de</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=it">it</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4223&amp;request_locale=es">es</a>)</div>
+</li></ul>
+</li><li> <a class="external exitstitial" href="http://yugiohprices.com/card_price?name=B.+Skull+Dragon">YugiohPrices</a>
+</li><li> <a class="external exitstitial" href="http://en.ygo-card.de/result_links.php?htm_name=B.+Skull+Dragon&amp;suche=true">YGO-Card.de</a> (English)
+</li><li> <a class="external exitstitial" href="http://en.ygo-card.de/result_links.php?htm_name=Schw.+Totenkopfdrache&amp;suche=true">YGO-Card.de</a> (German)</td></tr>
+</li></ul>
+</table>
+<table class="cardtablestatuses">
+<tr><th class="cardtablestatusesgroupheader" colspan="8"><i>TCG</i>/<i>OCG</i> statuses</th></tr>
+    <tr><th><i><a href="/wiki/Yu-Gi-Oh!_Official_Card_Game" title="Yu-Gi-Oh! Official Card Game">OCG</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> <a href="/wiki/Advanced_Format" title="Advanced Format">Advanced</a></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> <a href="/wiki/Traditional_Format" title="Traditional Format">Traditional</a></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><td colspan="10"></td></tr><tr><th class="cardtablestatusesgroupheader" colspan="8">Card/Deck/Starchip/DP costs</th></tr>
+    <tr><th><a href="/wiki/Yu-Gi-Oh!_The_Sacred_Cards" title="Yu-Gi-Oh! The Sacred Cards"><i>TSC</i> Deck Cost</a></th><td>5</td><td colspan="6"></td></tr><tr><th class="cardtablestatusesgroupheader" colspan="8">Video game numbers</th></tr>
+    <tr><th><i><a href="/wiki/Yu-Gi-Oh!_The_Sacred_Cards" title="Yu-Gi-Oh! The Sacred Cards">TSC</a></i></th><td>#<a href="/wiki/List_of_Yu-Gi-Oh!_The_Sacred_Cards_cards" title="List of Yu-Gi-Oh! The Sacred Cards cards">217</a></td><td colspan="6"></td></tr><tr><th class="cardtablestatusesgroupheader" colspan="8">Video game statuses</th></tr>
+    <tr><th><i><a href="/wiki/Yu-Gi-Oh!_The_Sacred_Cards" title="Yu-Gi-Oh! The Sacred Cards">TSC</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_The_Eternal_Duelist_Soul" title="Yu-Gi-Oh! The Eternal Duelist Soul">EDS</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Nightmare_Troubadour" title="Yu-Gi-Oh! Nightmare Troubadour">NTR</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Worldwide_Edition:_Stairway_to_the_Destined_Duel" title="Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel">SDD</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td></tr><tr><th><i><a href="/wiki/Yu-Gi-Oh!_Online" title="Yu-Gi-Oh! Online">Online</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Ultimate_Masters:_World_Championship_Tournament_2006" title="Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006">WC6</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_GX_Duel_Academy" title="Yu-Gi-Oh! GX Duel Academy">GX1</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_GX_Tag_Force" title="Yu-Gi-Oh! GX Tag Force">GX02</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible expanded navbox-inner">
+      <tr><th class="navbox-title"><span style="float:left;width:6em;">&#160;</span><div style="font-size: 110%;">"<strong class="selflink">B. Skull Dragon</strong>" pages</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px; text-align: center;;">
+<ul>
+	<li><a href="/wiki/Black_Skull_Dragon_(anime)" title="Black Skull Dragon (anime)">Anime</a></li>
+	<li><a href="/wiki/B._Skull_Dragon_(Bandai)" title="B. Skull Dragon (Bandai)">Bandai</a></li>
+	<li><a href="/wiki/B._Skull_Dragon_(DM)" title="B. Skull Dragon (DM)">Konami's Yu-Gi-Oh! Duel Monsters</a></li>
+	<li><a href="/wiki/Black_Skull_Dragon_(manga)" title="Black Skull Dragon (manga)">Manga</a></li>
+	<li><a href="/wiki/B._Skull_Dragon_(BAM)" title="B. Skull Dragon (BAM)">Yu-Gi-Oh! BAM</a></li>
+	<li><a href="/wiki/B._Skull_Dragon_(FMR)" title="B. Skull Dragon (FMR)">Yu-Gi-Oh! Forbidden Memories, Video game</a></li>
+	<li><a href="/wiki/B._Skull_Dragon_(DOR)" title="B. Skull Dragon (DOR)">Yu-Gi-Oh! The Duelists of the Roses, Video game</a></li>
+</ul>
+</td></tr>
+    </table>
+  </td></tr>
+</table>&#32;
+<table class="navbox" style=";"><tr><td><table class="nowraplinks collapsible autocollapse navbox-inner" style="background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span><div class="" style="font-size:110%;">
+"<a href="/wiki/Archfiend" title="Archfiend">Archfiend</a>" 「デーモン」</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/List_of_%22Archfiend%22_cards" title="List of &quot;Archfiend&quot; cards">Members</a></b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Archfiend_Black_Skull_Dragon" title="Archfiend Black Skull Dragon">Archfiend Black Skull Dragon</a></li>
+	<li><a href="/wiki/Archfiend_Cavalry" title="Archfiend Cavalry">Archfiend Cavalry</a></li>
+	<li><a href="/wiki/Archfiend_Commander" title="Archfiend Commander">Archfiend Commander</a></li>
+	<li><a href="/wiki/Archfiend_Eccentrick" title="Archfiend Eccentrick">Archfiend Eccentrick</a></li>
+	<li><a href="/wiki/Archfiend_Emperor,_the_First_Lord_of_Horror" title="Archfiend Emperor, the First Lord of Horror">Archfiend Emperor, the First Lord of Horror</a></li>
+	<li><a href="/wiki/Archfiend_Empress" title="Archfiend Empress">Archfiend Empress</a></li>
+	<li><a href="/wiki/Archfiend_General" title="Archfiend General">Archfiend General</a></li>
+	<li><a href="/wiki/Archfiend_Giant" title="Archfiend Giant">Archfiend Giant</a></li>
+	<li><a href="/wiki/Archfiend_Heiress" title="Archfiend Heiress">Archfiend Heiress</a></li>
+	<li><a href="/wiki/Archfiend_Interceptor" title="Archfiend Interceptor">Archfiend Interceptor</a></li>
+	<li><a href="/wiki/Archfiend_Marmot_of_Nefariousness" title="Archfiend Marmot of Nefariousness">Archfiend Marmot of Nefariousness</a></li>
+	<li><a href="/wiki/Archfiend_Mirror" title="Archfiend Mirror">Archfiend Mirror</a></li>
+	<li><a href="/wiki/Archfiend_Soldier" title="Archfiend Soldier">Archfiend Soldier</a></li>
+	<li><a href="/wiki/Archfiend_Zombie-Skull" title="Archfiend Zombie-Skull">Archfiend Zombie-Skull</a></li>
+	<li><a href="/wiki/Archfiend_of_Gilfer" title="Archfiend of Gilfer">Archfiend of Gilfer</a></li>
+	<li><strong class="selflink">B. Skull Dragon</strong></li>
+	<li><a href="/wiki/Beast_of_Talwar" title="Beast of Talwar">Beast of Talwar</a></li>
+	<li><a href="/wiki/Chaos_King_Archfiend" title="Chaos King Archfiend">Chaos King Archfiend</a></li>
+	<li><a href="/wiki/Cyber_Archfiend" title="Cyber Archfiend">Cyber Archfiend</a></li>
+	<li><a href="/wiki/Darkbishop_Archfiend" title="Darkbishop Archfiend">Darkbishop Archfiend</a></li>
+	<li><a href="/wiki/Desrook_Archfiend" title="Desrook Archfiend">Desrook Archfiend</a></li>
+	<li><a href="/wiki/Fiend_Skull_Dragon" title="Fiend Skull Dragon">Fiend Skull Dragon</a></li>
+	<li><a href="/wiki/Hot_Red_Dragon_Archfiend" title="Hot Red Dragon Archfiend">Hot Red Dragon Archfiend</a></li>
+	<li><a href="/wiki/Hot_Red_Dragon_Archfiend_Abyss" title="Hot Red Dragon Archfiend Abyss">Hot Red Dragon Archfiend Abyss</a></li>
+	<li><a href="/wiki/Hot_Red_Dragon_Archfiend_Bane" title="Hot Red Dragon Archfiend Bane">Hot Red Dragon Archfiend Bane</a></li>
+	<li><a href="/wiki/Hot_Red_Dragon_Archfiend_King_Calamity" title="Hot Red Dragon Archfiend King Calamity">Hot Red Dragon Archfiend King Calamity</a></li>
+	<li><a href="/wiki/Jeweled_Red_Dragon_Archfiend_King_Calamity_(manga)" title="Jeweled Red Dragon Archfiend King Calamity (manga)">Hot Red Dragon Archfiend King Calamity</a></li>
+	<li><a href="/wiki/Imprisoned_Queen_Archfiend" title="Imprisoned Queen Archfiend">Imprisoned Queen Archfiend</a></li>
+	<li><a href="/wiki/Infernalqueen_Archfiend" title="Infernalqueen Archfiend">Infernalqueen Archfiend</a></li>
+	<li><a href="/wiki/Infernity_Archfiend" title="Infernity Archfiend">Infernity Archfiend</a></li>
+	<li><a href="/wiki/Lancer_Archfiend" title="Lancer Archfiend">Lancer Archfiend</a></li>
+	<li><a href="/wiki/Lesser_Fiend" title="Lesser Fiend">Lesser Fiend</a></li>
+	<li><a href="/wiki/Mad_Archfiend" title="Mad Archfiend">Mad Archfiend</a></li>
+	<li><a href="/wiki/Mist_Archfiend" title="Mist Archfiend">Mist Archfiend</a></li>
+	<li><a href="/wiki/Nefarious_Archfiend_Eater_of_Nefariousness" title="Nefarious Archfiend Eater of Nefariousness">Nefarious Archfiend Eater of Nefariousness</a></li>
+	<li><a href="/wiki/Number_C102:_Archfiend_Seraph" title="Number C102: Archfiend Seraph">Number C102: Archfiend Seraph</a></li>
+	<li><a href="/wiki/Overmind_Archfiend" title="Overmind Archfiend">Overmind Archfiend</a></li>
+	<li><a href="/wiki/Red_Dragon_Archfiend" title="Red Dragon Archfiend">Red Dragon Archfiend</a></li>
+	<li><a href="/wiki/Red_Dragon_Archfiend_Tyrant" title="Red Dragon Archfiend Tyrant">Red Dragon Archfiend Tyrant</a></li>
+	<li><a href="/wiki/Red_Dragon_Archfiend/Assault_Mode" title="Red Dragon Archfiend/Assault Mode">Red Dragon Archfiend/Assault Mode</a></li>
+	<li><a href="/wiki/Red-Eyes_Archfiend_of_Lightning" title="Red-Eyes Archfiend of Lightning">Red-Eyes Archfiend of Lightning</a></li>
+	<li><a href="/wiki/Scarlight_Red_Dragon_Archfiend" title="Scarlight Red Dragon Archfiend">Scarlight Red Dragon Archfiend</a></li>
+	<li><a href="/wiki/Scrap_Archfiend" title="Scrap Archfiend">Scrap Archfiend</a></li>
+	<li><a href="/wiki/Shadow_Tamer" title="Shadow Tamer">Shadow Tamer</a></li>
+	<li><a href="/wiki/Shadowknight_Archfiend" title="Shadowknight Archfiend">Shadowknight Archfiend</a></li>
+	<li><a href="/wiki/Skull_Archfiend_of_Lightning" title="Skull Archfiend of Lightning">Skull Archfiend of Lightning</a></li>
+	<li><a href="/wiki/Summoned_Skull" title="Summoned Skull">Summoned Skull</a></li>
+	<li><a href="/wiki/Terrorking_Archfiend" title="Terrorking Archfiend">Terrorking Archfiend</a></li>
+	<li><a href="/wiki/Thought_Ruler_Archfiend" title="Thought Ruler Archfiend">Thought Ruler Archfiend</a></li>
+	<li><a href="/wiki/Toon_Summoned_Skull" title="Toon Summoned Skull">Toon Summoned Skull</a></li>
+	<li><a href="/wiki/Trance_Archfiend" title="Trance Archfiend">Trance Archfiend</a></li>
+	<li><a href="/wiki/Vilepawn_Archfiend" title="Vilepawn Archfiend">Vilepawn Archfiend</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/Archfiend_Palabyrinth" title="Archfiend Palabyrinth">Archfiend Palabyrinth</a></li>
+	<li><a href="/wiki/Archfiend%27s_Oath" title="Archfiend's Oath">Archfiend's Oath</a></li>
+	<li><a href="/wiki/Archfiend%27s_Roar" title="Archfiend's Roar">Archfiend's Roar</a></li>
+	<li><a href="/wiki/Axe_of_Despair" title="Axe of Despair">Axe of Despair</a></li>
+	<li><a href="/wiki/A_Deal_with_Dark_Ruler" title="A Deal with Dark Ruler">A Deal with Dark Ruler</a></li>
+	<li><a href="/wiki/Gladiator_Beast%27s_Battle_Archfiend_Shield" title="Gladiator Beast's Battle Archfiend Shield">Gladiator Beast's Battle Archfiend Shield</a></li>
+	<li><a href="/wiki/Nightmare_Archfiends" title="Nightmare Archfiends">Nightmare Archfiends</a></li>
+</ul>
+</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/List_of_%22Archfiend%22_support_cards" title="List of &quot;Archfiend&quot; support cards">Support</a></b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Archfiend_Black_Skull_Dragon" title="Archfiend Black Skull Dragon">Archfiend Black Skull Dragon</a></li>
+	<li><a href="/wiki/Archfiend_Cavalry" title="Archfiend Cavalry">Archfiend Cavalry</a></li>
+	<li><a href="/wiki/Archfiend_Commander" title="Archfiend Commander">Archfiend Commander</a></li>
+	<li><a href="/wiki/Archfiend_Emperor,_the_First_Lord_of_Horror" title="Archfiend Emperor, the First Lord of Horror">Archfiend Emperor, the First Lord of Horror</a></li>
+	<li><a href="/wiki/Archfiend_Giant" title="Archfiend Giant">Archfiend Giant</a></li>
+	<li><a href="/wiki/Archfiend_Heiress" title="Archfiend Heiress">Archfiend Heiress</a></li>
+	<li><a href="/wiki/Darkbishop_Archfiend" title="Darkbishop Archfiend">Darkbishop Archfiend</a></li>
+	<li><a href="/wiki/Infernalqueen_Archfiend" title="Infernalqueen Archfiend">Infernalqueen Archfiend</a></li>
+	<li><a href="/wiki/Skilled_Red_Magician" title="Skilled Red Magician">Skilled Red Magician</a></li>
+	<li><a href="/wiki/Terrorking_Archfiend" title="Terrorking Archfiend">Terrorking Archfiend</a></li>
+	<li><a href="/wiki/Vilepawn_Archfiend" title="Vilepawn Archfiend">Vilepawn Archfiend</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/Archfiend_Palabyrinth" title="Archfiend Palabyrinth">Archfiend Palabyrinth</a></li>
+	<li><a href="/wiki/Archfiend%27s_Roar" title="Archfiend's Roar">Archfiend's Roar</a></li>
+	<li><a href="/wiki/Battle-Scarred" title="Battle-Scarred">Battle-Scarred</a></li>
+	<li><a href="/wiki/Checkmate" title="Checkmate">Checkmate</a></li>
+	<li><a href="/wiki/Falling_Down" title="Falling Down">Falling Down</a></li>
+	<li><a href="/wiki/Pandemonium" title="Pandemonium">Pandemonium</a></li>
+</ul>
+</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b>Related</b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Beelze_of_the_Diabolic_Dragons" title="Beelze of the Diabolic Dragons">Beelze of the Diabolic Dragons</a></li>
+	<li><a href="/wiki/Beelzeus_of_the_Diabolic_Dragons" title="Beelzeus of the Diabolic Dragons">Beelzeus of the Diabolic Dragons</a></li>
+	<li><a href="/wiki/Berserk_Dragon" title="Berserk Dragon">Berserk Dragon</a></li>
+	<li><a href="/wiki/Cave_Dragon" title="Cave Dragon">Cave Dragon</a></li>
+	<li><a href="/wiki/Majestic_Red_Dragon" title="Majestic Red Dragon">Majestic Red Dragon</a></li>
+	<li><a href="/wiki/Mazera_DeVille" title="Mazera DeVille">Mazera DeVille</a></li>
+	<li><a href="/wiki/Number_102:_Star_Seraph_Sentry" title="Number 102: Star Seraph Sentry">Number 102: Star Seraph Sentry</a></li>
+	<li><a href="/wiki/Pandemonium_Watchbear" title="Pandemonium Watchbear">Pandemonium Watchbear</a></li>
+	<li><a href="/wiki/Pegasus/Monster_C" title="Pegasus/Monster C">Pegasus/Monster C</a></li>
+	<li><a href="/wiki/Plaguespreader_Zombie" title="Plaguespreader Zombie">Plaguespreader Zombie</a></li>
+	<li><a href="/wiki/Red_Nova_(card)" title="Red Nova (card)">Red Nova</a></li>
+	<li><a href="/wiki/Red_Nova_Dragon" title="Red Nova Dragon">Red Nova Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Red-Eyes B. Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Black_Flare_Dragon" title="Red-Eyes Black Flare Dragon">Red-Eyes Black Flare Dragon</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/Crimson_Fire" title="Crimson Fire">Crimson Fire</a></li>
+	<li><a href="/wiki/Makiu,_the_Magical_Mist" title="Makiu, the Magical Mist">Makiu, the Magical Mist</a></li>
+	<li><a href="/wiki/Red_Dragon_Vase" title="Red Dragon Vase">Red Dragon Vase</a></li>
+	<li><a href="/wiki/Red_Screen" title="Red Screen">Red Screen</a></li>
+	<li><a href="/wiki/Scarlet_Security" title="Scarlet Security">Scarlet Security</a></li>
+	<li><a href="/wiki/Toon_World" title="Toon World">Toon World</a></li>
+	<li><a href="/wiki/Toon_World" title="Toon World">Toon World</a></li>
+</ul>
+</div></td></tr></table></td></tr></table>&#32;
+<table class="navbox" style=";"><tr><td><table class="nowraplinks collapsible autocollapse navbox-inner" style="background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span><div class="" style="font-size:110%;">
+"<a href="/wiki/Red-Eyes" title="Red-Eyes">Red-Eyes</a>" 「レッドアイズ」</div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/List_of_%22Red-Eyes%22_cards" title="List of &quot;Red-Eyes&quot; cards">Members</a></b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Malefic_Red-Eyes_B._Dragon" title="Malefic Red-Eyes B. Dragon">Malefic Red-Eyes B. Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Archfiend_of_Lightning" title="Red-Eyes Archfiend of Lightning">Red-Eyes Archfiend of Lightning</a></li>
+	<li><a href="/wiki/Red-Eyes_B._Dragon" title="Red-Eyes B. Dragon">Red-Eyes B. Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Black_Dragon_Sword" title="Red-Eyes Black Dragon Sword">Red-Eyes Black Dragon Sword</a></li>
+	<li><a href="/wiki/Red-Eyes_Black_Flare_Dragon" title="Red-Eyes Black Flare Dragon">Red-Eyes Black Flare Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Black_Metal_Dragon" title="Red-Eyes Black Metal Dragon">Red-Eyes Black Metal Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Darkness_Dragon" title="Red-Eyes Darkness Dragon">Red-Eyes Darkness Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Darkness_Metal_Dragon" title="Red-Eyes Darkness Metal Dragon">Red-Eyes Darkness Metal Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Flare_Metal_Dragon" title="Red-Eyes Flare Metal Dragon">Red-Eyes Flare Metal Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Retro_Dragon" title="Red-Eyes Retro Dragon">Red-Eyes Retro Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Toon_Dragon" title="Red-Eyes Toon Dragon">Red-Eyes Toon Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Wyvern" title="Red-Eyes Wyvern">Red-Eyes Wyvern</a></li>
+	<li><a href="/wiki/Red-Eyes_Zombie_Dragon" title="Red-Eyes Zombie Dragon">Red-Eyes Zombie Dragon</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/Red-Eyes_Burn_(anime)" title="Red-Eyes Burn (anime)">Red-Eyes Burn</a></li>
+	<li><a href="/wiki/Red-Eyes_Burn" title="Red-Eyes Burn">Red-Eyes Burn</a></li>
+	<li><a href="/wiki/Red-Eyes_Fusion" title="Red-Eyes Fusion">Red-Eyes Fusion</a></li>
+	<li><a href="/wiki/Red-Eyes_Spirit" title="Red-Eyes Spirit">Red-Eyes Spirit</a></li>
+	<li><a href="/wiki/Red-Eyes_Transmigration" title="Red-Eyes Transmigration">Red-Eyes Transmigration</a></li>
+	<li><a href="/wiki/Return_of_the_Red-Eyes" title="Return of the Red-Eyes">Return of the Red-Eyes</a></li>
+</ul>
+</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/List_of_%22Red-Eyes%22_support_cards" title="List of &quot;Red-Eyes&quot; support cards">Support</a></b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Archfiend_Black_Skull_Dragon" title="Archfiend Black Skull Dragon">Archfiend Black Skull Dragon</a></li>
+	<li><a href="/wiki/Black_Metal_Dragon" title="Black Metal Dragon">Black Metal Dragon</a></li>
+	<li><a href="/wiki/The_Black_Stone_of_Legend" title="The Black Stone of Legend">The Black Stone of Legend</a></li>
+	<li><a href="/wiki/Paladin_of_Dark_Dragon" title="Paladin of Dark Dragon">Paladin of Dark Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Flare_Metal_Dragon" title="Red-Eyes Flare Metal Dragon">Red-Eyes Flare Metal Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Retro_Dragon" title="Red-Eyes Retro Dragon">Red-Eyes Retro Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_Wyvern" title="Red-Eyes Wyvern">Red-Eyes Wyvern</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/Cards_of_the_Red_Stone" title="Cards of the Red Stone">Cards of the Red Stone</a></li>
+	<li><a href="/wiki/Dark_Dragon_Ritual_(anime)" title="Dark Dragon Ritual (anime)">Dark Dragon Ritual</a></li>
+	<li><a href="/wiki/Dark_Dragon_Ritual" title="Dark Dragon Ritual">Dark Dragon Ritual</a></li>
+	<li><a href="/wiki/Red-Eyes_Burn" title="Red-Eyes Burn">Red-Eyes Burn</a></li>
+	<li><a href="/wiki/Red-Eyes_Fusion" title="Red-Eyes Fusion">Red-Eyes Fusion</a></li>
+	<li><a href="/wiki/Red-Eyes_Spirit" title="Red-Eyes Spirit">Red-Eyes Spirit</a></li>
+	<li><a href="/wiki/Red-Eyes_Transmigration" title="Red-Eyes Transmigration">Red-Eyes Transmigration</a></li>
+	<li><a href="/wiki/Return_of_the_Red-Eyes" title="Return of the Red-Eyes">Return of the Red-Eyes</a></li>
+</ul>
+</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b>Related</b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><strong class="selflink">B. Skull Dragon</strong></li>
+	<li><a href="/wiki/Keeper_of_the_Shrine" title="Keeper of the Shrine">Keeper of the Shrine</a></li>
+	<li><a href="/wiki/Lord_of_the_Red" title="Lord of the Red">Lord of the Red</a></li>
+	<li><a href="/wiki/Meteor_B._Dragon" title="Meteor B. Dragon">Meteor B. Dragon</a></li>
+	<li><a href="/wiki/Meteor_Dragon" title="Meteor Dragon">Meteor Dragon</a></li>
+	<li><a href="/wiki/Red-Eyes_B._Chick" title="Red-Eyes B. Chick">Red-Eyes B. Chick</a></li>
+	<li><a href="/wiki/Summoned_Skull" title="Summoned Skull">Summoned Skull</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/The_Claw_of_Hermos" title="The Claw of Hermos">The Claw of Hermos</a></li>
+	<li><a href="/wiki/Inferno_Fire_Blast" title="Inferno Fire Blast">Inferno Fire Blast</a></li>
+	<li><a href="/wiki/Metalmorph" title="Metalmorph">Metalmorph</a></li>
+	<li><a href="/wiki/Toon_World" title="Toon World">Toon World</a></li>
+	<li><a href="/wiki/Toon_World" title="Toon World">Toon World</a></li>
+</ul>
+</div></td></tr></table></td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 21681/300000
+Post‐expand include size: 582237/2097152 bytes
+Template argument size: 253055/2097152 bytes
+Expensive parser function count: 4/100
+Lua time usage: 0.133s
+Lua memory usage: 1.57 MB
+-->
+
+<!-- Saved in parser cache with key yugioh:pcache:idhash:202-0!*!0!*!*!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://yugioh.wikia.com/wiki/B._Skull_Dragon?oldid=3306254">http://yugioh.wikia.com/wiki/B._Skull_Dragon?oldid=3306254</a>"</div>
+<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+				</div>
+
+																<nav id="articleCategories" class="article-categories">
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories" rel="nofollow">Categories</a>: <ul><li><a href="/wiki/Category:Card_pages_with_an_alt_name" title="Category:Card pages with an alt name" class="newcategory">Card pages with an alt name</a></li><li><a href="/wiki/Category:Duel_Monsters_cards" title="Category:Duel Monsters cards">Duel Monsters cards</a></li><li><a href="/wiki/Category:TCG_cards" title="Category:TCG cards">TCG cards</a></li><li><a href="/wiki/Category:OCG_cards" title="Category:OCG cards">OCG cards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Arabic_name" title="Category:Card pages with an unofficial Arabic name">Card pages with an unofficial Arabic name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Chinese_name" title="Category:Card pages with an unofficial Chinese name">Card pages with an unofficial Chinese name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Croatian_name" title="Category:Card pages with an unofficial Croatian name">Card pages with an unofficial Croatian name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Greek_name" title="Category:Card pages with an unofficial Greek name">Card pages with an unofficial Greek name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Polish_name" title="Category:Card pages with an unofficial Polish name">Card pages with an unofficial Polish name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Thai_name" title="Category:Card pages with an unofficial Thai name">Card pages with an unofficial Thai name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Turkish_name" title="Category:Card pages with an unofficial Turkish name">Card pages with an unofficial Turkish name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Chinese_lore" title="Category:Card pages with an unofficial Chinese lore">Card pages with an unofficial Chinese lore</a></li><li><a href="/wiki/Category:Cards_with_a_French_release_needing_a_French_lore" title="Category:Cards with a French release needing a French lore">Cards with a French release needing a French lore</a></li><li><a href="/wiki/Category:Cards_with_a_Korean_release_needing_a_Korean_lore" title="Category:Cards with a Korean release needing a Korean lore">Cards with a Korean release needing a Korean lore</a></li></ul></div></div>	</nav>
+									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.yugioh.wikia.com/wiki/Schw._Totenkopfdrache">Deutsch</a></li>
+			<li><a href="http://es.yugioh.wikia.com/wiki/Drag%C3%B3n_B._Cr%C3%A1neo">Español</a></li>
+			<li><a href="http://pl.yugioh.wikia.com/wiki/B._Skull_Dragon">Polski</a></li>
+			<li><a href="http://fr.yugioh.wikia.com/wiki/Dragon_Cr%C3%A2ne_Noir">Français</a></li>
+			<li><a href="http://it.yugioh.wikia.com/wiki/Drago_Teschio_Nero">Italiano</a></li>
+			<li><a href="http://pt.yugioh.wikia.com/wiki/Drag%C3%A3o_Caveira_Negro">Português</a></li>
+			<li><a href="http://ar.yugioh.wikia.com/wiki/%D8%AA%D9%86%D9%91%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D9%85%D8%AC%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1">العربية</a></li>
+			<li><a href="http://ja.yugioh.wikia.com/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3">日本語</a></li>
+			<li><a href="http://ko.yugioh.wikia.com/wiki/%EB%B8%94%EB%9E%99_%EB%8D%B0%EB%AA%AC%EC%A6%88_%EB%93%9C%EB%9E%98%EA%B3%A4">한국어</a></li>
+			<li><a href="http://tr.yugioh.wikia.com/wiki/Siyah_Kafatas%C4%B1_Ejderhas%C4%B1">Türkçe</a></li>
+			<li><a href="http://zh.yugioh.wikia.com/wiki/%E6%9A%97%E9%BB%91%E9%AD%94%E9%BE%8D">中文</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_af" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/410" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-comics black">
+			<a class="wikia-logo" href="http://comicshub.wikia.com/wiki/Comics_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Comics</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1459442669/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"yugioh","kv_article_id":202,"kv_wpage":"B._Skull_Dragon","kv_Hub":"Gaming","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"age=teen;age=kid;gnre=anime;gnre=fantasy;esrb=everyone;gnre=strategy;media=tv;media=cards;pform=pc;pform=psp;sex=m;age=18-34;gnre=comics","kv_domain":"yugioh.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"B._Skull_Dragon","wgTitle":"B. Skull Dragon","wgCurRevisionId":3306254,"wgArticleId":202,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Card pages with an unofficial Arabic name","Card pages with an unofficial Chinese name","Card pages with an unofficial Croatian name","Card pages with an unofficial Greek name","Card pages with an unofficial Polish name","Card pages with an unofficial Thai name","Card pages with an unofficial Turkish name","Card pages with an unofficial Chinese lore","Card pages with an alt name","Duel Monsters cards","TCG cards","OCG cards","Cards with a French release needing a French lore","Cards with a Korean release needing a Korean lore"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"B._Skull_Dragon","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Black_Skull_Dragon","wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://images2.wikia.nocookie.net/__cb20130314221841/yugioh/images/5/50/Wiki-background","background-image-height":"805","background-image-width":"1920","color-body":"#3b0902","color-body-middle":"#3b0902","color-buttons":"#fec356","color-header":"#fec024","color-links":"#0148c2","color-page":"#ffffff","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"sfgAutocompleteValues":[],"sfgAutocompleteOnAllChars":false,"sfgFieldProperties":[],"sfgCargoFields":[],"sfgDependentFields":[],"sfgShowOnSelect":[],"sfgScriptPath":"/extensions/SemanticForms","edgValues":null,"sfgEDSettings":null,"sdgDownArrowImage":"/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/extensions/SemanticDrilldown/skins/right-arrow.png","wgCatId":"2","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgPrivateTracker":true,"wgMainpage":"Yu-Gi-Oh! Wikia","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1459442669/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1459442669/common","wgSitename":"Yu-Gi-Oh!","wgMWrevId":false,"wgRevisionId":3306254,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=B._Skull_Dragon","fbReturnToTitle":"Black_Skull_Dragon","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":false,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"128":true,"130":true,"303":true,"305":true,"371":true,"828":true,"829":true,"307":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Games","wgArticleInterlangList":["ar:تنّين الجمجمة السوداء","de:Schw. Totenkopfdrache","es:Dragón B. Cráneo","fr:Dragon Crâne Noir","it:Drago Teschio Nero","ja:ブラック・デーモンズ・ドラゴン","ko:블랙 데몬즈 드래곤","pl:Czarny Smok Czaszki","pt:Dragão Caveira Negro","tr:Siyah Kafatası Ejderhası","zh:暗黑魔龍","pl:B. Skull Dragon"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":["","Card_Gallery","Card_Rulings","Card_Errata","Card_Tips","Card_Trivia","Card_Appearances","Portal","Card_Lores","Card_Artworks","Card_Names","Set_Card_Lists","Set_Card_Galleries","Set_Card_Ratios","Card_Sets","Transcript","Transcript_talk"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1457992749","wgScriptsTimestamp":"1457907978","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/B._Skull_Dragon?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/B._Skull_Dragon","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://yugioh.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://yugioh.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://yugioh.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://yugioh.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://yugioh.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://yugioh.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://yugioh.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://yugioh.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://yugioh.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://yugioh.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://yugioh.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized images","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://yugioh.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused files","href":"http://yugioh.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://yugioh.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://yugioh.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted files","href":"http://yugioh.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://yugioh.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://yugioh.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://yugioh.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedProperties","caption":"Unused properties","href":"http://yugioh.wikia.com/wiki/Special:UnusedProperties","category":"Special pages \x3e Maintenance reports"},{"id":"special:WantedProperties","caption":"Wanted properties","href":"http://yugioh.wikia.com/wiki/Special:WantedProperties","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://yugioh.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://yugioh.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://yugioh.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://yugioh.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://yugioh.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://yugioh.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://yugioh.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:Properties","caption":"Properties","href":"http://yugioh.wikia.com/wiki/Special:Properties","category":"Special pages \x3e Lists of pages"},{"id":"special:Types","caption":"Types","href":"http://yugioh.wikia.com/wiki/Special:Types","category":"Special pages \x3e Lists of pages"},{"id":"special:Forms","caption":"Forms","href":"http://yugioh.wikia.com/wiki/Special:Forms","category":"Special pages \x3e Lists of pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://yugioh.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://yugioh.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://yugioh.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://yugioh.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://yugioh.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://yugioh.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://yugioh.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://yugioh.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://yugioh.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://yugioh.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://yugioh.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://yugioh.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent changes","href":"http://yugioh.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://yugioh.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://yugioh.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Watched pages","href":"http://yugioh.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://yugioh.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://yugioh.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://yugioh.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate images search","href":"http://yugioh.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://yugioh.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://yugioh.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://yugioh.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:SemanticStatistics","caption":"Semantic statistics","href":"http://yugioh.wikia.com/wiki/Special:SemanticStatistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://yugioh.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Page","href":"http://yugioh.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://yugioh.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to images","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://yugioh.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://yugioh.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://yugioh.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://yugioh.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://yugioh.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://yugioh.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://yugioh.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://yugioh.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://yugioh.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://yugioh.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://yugioh.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Ask","caption":"Semantic search","href":"http://yugioh.wikia.com/wiki/Special:Ask","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:Browse","caption":"Browse wiki","href":"http://yugioh.wikia.com/wiki/Special:Browse","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:SearchByProperty","caption":"Search by property","href":"http://yugioh.wikia.com/wiki/Special:SearchByProperty","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:ExportRDF","caption":"Export pages to RDF","href":"http://yugioh.wikia.com/wiki/Special:ExportRDF","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:CreateForm","caption":"Create a form","href":"http://yugioh.wikia.com/wiki/Special:CreateForm","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateTemplate","caption":"Create a template","href":"http://yugioh.wikia.com/wiki/Special:CreateTemplate","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateProperty","caption":"Create a property","href":"http://yugioh.wikia.com/wiki/Special:CreateProperty","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateCategory","caption":"Create a category","href":"http://yugioh.wikia.com/wiki/Special:CreateCategory","category":"Special pages \x3e Semantic Forms"},{"id":"special:FormStart","caption":"Start of form","href":"http://yugioh.wikia.com/wiki/Special:FormStart","category":"Special pages \x3e Semantic Forms"},{"id":"special:RunQuery","caption":"Run query","href":"http://yugioh.wikia.com/wiki/Special:RunQuery","category":"Special pages \x3e Semantic Forms"},{"id":"special:BrowseData","caption":"Browse data","href":"http://yugioh.wikia.com/wiki/Special:BrowseData","category":"Special pages \x3e Semantic Drilldown"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://yugioh.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://yugioh.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://yugioh.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:PageViews","caption":"Page views graph","href":"http://yugioh.wikia.com/wiki/Special:PageViews","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://yugioh.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"founderemails-joins-410":0,"founderemails-edits-410":0,"founderemails-views-digest-410":0,"founderemails-complete-digest-410":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs102":true,"searchNs103":false,"searchNs104":true,"searchNs105":false,"searchNs106":true
+,"searchNs107":false,"searchNs108":true,"searchNs109":false,"searchNs110":false,"searchNs111":false,"searchNs112":true,"searchNs113":false,"searchNs114":true,"searchNs115":false,"searchNs116":true,"searchNs117":false,"searchNs118":true,"searchNs119":false,"searchNs120":true,"searchNs121":false,"searchNs122":true,"searchNs123":false,"searchNs124":true,"searchNs125":false,"searchNs126":true,"searchNs127":false,"searchNs128":true,"searchNs129":false,"searchNs130":true,"searchNs131":true,"searchNs302":false,"searchNs303":false,"searchNs306":false,"searchNs307":false,"searchNs308":false,"searchNs309":false,"searchNs370":false,"searchNs371":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: yugioh:resourceloader:filter:minify-js:7:33be6c3195f0359f7a53f1824d435ae0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1459442669/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459442669/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459442669/group/-/auth_modal_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459442669/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459442669/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459442669/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459442669/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459442669/group/-/visit_source_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1459442669/group/-/globalshortcuts_discussions_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1459442669/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1459442669.0.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459442669/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459442669/group/-/global_navigation_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459442669/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459442669/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459442669%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1457992749%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459442669/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

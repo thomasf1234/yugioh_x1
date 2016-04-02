@@ -9,52 +9,63 @@ ActiveRecord::Base.establish_connection(
     :database => db_name
 )
 
-def drop_tables
-  connection = ActiveRecord::Base.connection
-  connection.execute("SELECT name FROM sqlite_master WHERE type = 'table' and name != 'sqlite_sequence'").each do |result|
-    table_name = result['name']
-    connection.execute("DROP TABLE '#{table_name}'")
-  end
-end
-
-drop_tables if ENV['ENV'] == 'test'
 
 
-ActiveRecord::Schema.define do
-  unless ActiveRecord::Base.connection.tables.include?('cards')
-    create_table :cards do |table|
-      table.column :name,     :string
-      table.column :number, :integer
-      table.column :description, :string
-      table.column :effect_types, :text
-    end
-  end
 
-  unless ActiveRecord::Base.connection.tables.include?('artworks')
-    create_table :artworks do |table|
-      table.column :image_path, :string
-      table.column :card_id, :integer
-    end
-  end
 
-  unless ActiveRecord::Base.connection.tables.include?('monsters')
-    create_table :monsters do |table|
-      table.column :elemental_attribute, :string
-      table.column :materials, :string
-      table.column :level, :integer
-      table.column :rank, :integer
-      table.column :types, :text
-      table.column :attack, :string
-      table.column :defense, :string
-      table.column :card_id, :integer
-    end
-  end
 
-  unless ActiveRecord::Base.connection.tables.include?('non_monsters')
-    create_table :non_monsters do |table|
-      table.column :type,     :string
-      table.column :property, :string
-      table.column :card_id, :integer
-    end
-  end
-end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# #Card
+# :name
+# :serial_number
+# :description
+# :type
+#
+# #Artworks
+# :image_path
+# :card_id
+#
+# # #Normal
+# # :level, :string
+# # :elemental_attribute, :string
+# # :monster_type, :string  #Spellcaster
+# # :attack, :string
+# # :defense, :string
+#
+# #Properties
+# :property #ability, summon_condition, spell_trap_property, level, attribute, monster_type, attack, defense
+# :value
+# :data_type
+# :card_id
+#
+# #Effect
+# :type #(trigger, continuous, ignition)
+# :script_path
+# :card_id
+#
+# #Action
+# :type #(activation, summon)
+# :spell_speed #(1,2,3 only counter trap)
+# :effect_id
+

@@ -17,47 +17,73 @@ class CardDataFetcher
         image_path
       end
 
-      create_records(main_page, image_paths)
+      create_card(main_page, image_paths)
     end
 
     private
-    def create_records(main_page, image_paths)
-      card_number = main_page.row_value('Card Number').nil? ? nil : main_page.row_value('Card Number').to_i
-      card_effect_types = main_page.row_value('Card effect types').nil? ? [] : main_page.row_value('Card effect types').split("\n").map(&:strip).uniq
+    def create_card(main_page, image_paths)
+      card = Card.create!({name: main_page.row_value('English'),
+                          description: main_page.get_description,
+                          serial_number: main_page.row_value('Card Number'),
+                          type: card_type(main_page)})
 
-      card_create_params = {
-          name: main_page.row_value('English'),
-          description: main_page.get_description,
-          number: card_number,
-          effect_types: card_effect_types
-      }
+      artwork_params_list = image_paths.map {|image_path| {image_path: image_path} }
+      card.artworks.create!(artwork_params_list)
 
-      ActiveRecord::Base.transaction do
-        card = Card.create!(card_create_params)
-        artwork_params_list = image_paths.map {|image_path| {image_path: image_path} }
-        card.artworks.create!(artwork_params_list)
+      card_effect_types = main_page.row_value('Card effect types').nil? ? [] : main_page.row_value('Card effect types').split("\n").map(&:strip)
+      card_effect_types.each do |card_effect_type|
+        const = CardEffects.constants.detect { |constant| constant.to_s == card_effect_type }
+        CardEffects.const_get(const).create!(card_id: card.id)
+      end
 
-        card_type = main_page.row_value('Type')
+      properties = case card_type(main_page)
+                     when Card::Types::NORMAL
+                       [
+                           Property.new({name: 'elemental_attribute', value: main_page.row_value('Attribute'), data_type: 'string'}),
+                           Property.new({name: 'level', value: main_page.row_value('Level'), data_type: 'integer'}),
+                           Property.new({name: 'attack', value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
+                           Property.new({name: 'defense', value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
+                           Property.new({name: 'monster_type', value: main_page.row_value('Type'), data_type: 'string'}),
+                       ]
+                     when Card::Types::EFFECT
+                       [
+                           Property.new({name: 'elemental_attribute', value: main_page.row_value('Attribute'), data_type: 'string'}),
+                           Property.new({name: 'level', value: main_page.row_value('Level'), data_type: 'integer'}),
+                           Property.new({name: 'attack', value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
+                           Property.new({name: 'defense', value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
+                           Property.new({name: 'monster_type', value: main_page.row_value('Types').split('/').first, data_type: 'string'}),
+                       ]
+                     when Card::Types::SPELL || Card::Types::TRAP
+                       [
+                           Property.new({name: 'spell_trap_type', value: main_page.row_value('Property'), data_type: 'string'}),
+                       ]
 
-        unless ['Spell', 'Trap'].include?(card_type)
-          types = main_page.row_value('Types').nil? ? [main_page.row_value('Type')] : main_page.row_value('Types').split("/").map(&:strip).uniq
+                     else
+                       raise 'err'
+                   end
+      card.properties << properties
+    end
 
-          monster_create_params = {
-              elemental_attribute: main_page.row_value('Attribute'),
-              level: main_page.row_value('Level'),
-              rank: main_page.row_value('Rank'),
-              types: types,
-              materials: main_page.row_value('Materials'),
-              attack: main_page.row_value('ATK/DEF').split('/').first,
-              defense: main_page.row_value('ATK/DEF').split('/').last,
-          }
-
-          Monster.create!(monster_create_params.merge(card: card))
+    def card_type(main_page)
+      if ['Spell Card', 'Trap Card'].include?(main_page.row_value('Type'))
+        main_page.row_value('Type').split.first
+      elsif main_page.row_value('Types').nil? || (Card::Types::ALL & main_page.row_value('Types').split('/')).empty?
+        'Normal'
+      else
+        common_types = Card::Types::ALL & main_page.row_value('Types').split('/')
+        case common_types.count
+          when 1
+            common_types.first
+          when 2
+            non_effects = common_types - [Card::Types::EFFECT]
+            case non_effects.count
+              when 1
+                non_effects.first
+              else
+                raise 'No card_type'
+            end
         else
-          non_monster_create_params = {
-              property: main_page.row_value('Property'),
-          }
-          card_type.constantize.create()
+          raise 'No card_type'
         end
       end
     end
