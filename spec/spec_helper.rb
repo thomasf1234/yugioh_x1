@@ -42,9 +42,10 @@ end
 def reset_tables_and_sequences
   connection = ActiveRecord::Base.connection
 
-  connection.tables.each do |table|
-    connection.execute("DELETE FROM '#{table}'")
-    connection.execute("DELETE from sqlite_sequence where name = '#{table}'")
+  connection.execute("SELECT name FROM sqlite_master WHERE type = 'table' and name != 'sqlite_sequence'").each do |result|
+    table_name = result['name']
+    connection.execute("DELETE FROM '#{table_name}'")
+    connection.execute("DELETE from sqlite_sequence where name = '#{table_name}'")
   end
 end
 

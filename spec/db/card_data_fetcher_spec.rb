@@ -82,17 +82,17 @@ describe CardDataFetcher do
       end
 
       it 'writes the specific card data into the correct tables' do
-        expect(Normal.count).to eq(1)
+        expect(Monster.count).to eq(1)
         expect(Artwork.count).to eq(7)
 
-        card = Normal.first
+        card = Monster.first
 
         expect(card.name).to eq('Dark Magician')
-        expect(card.type).to eq('Normal')
+        expect(card.category).to eq('Normal')
         expect(card.element).to eq('DARK')
-        expect(card.level).to eq(7)
+        expect(card.level).to eq('7')
         expect(card.species).to eq('Spellcaster')
-        expect(card.monster_abilities).to eq([])
+        expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("The ultimate wizard in terms of attack and defense.")
         expect(card.attack).to eq('2500')
@@ -120,17 +120,17 @@ describe CardDataFetcher do
       end
 
       it 'writes the specific card data into the correct tables' do
-        expect(Effect.count).to eq(1)
+        expect(Monster.count).to eq(1)
         expect(Artwork.count).to eq(1)
 
-        card = Effect.first
+        card = Monster.first
 
         expect(card.name).to eq("Van'Dalgyon the Dark Dragon Lord")
-        expect(card.type).to eq('Effect')
+        expect(card.category).to eq('Effect')
         expect(card.element).to eq('DARK')
-        expect(card.level).to eq(8)
+        expect(card.level).to eq('8')
         expect(card.species).to eq('Dragon')
-        expect(card.monster_abilities).to eq([])
+        expect(card.abilities).to eq([])
         expect(card.card_effects.map(&:type)).to match_array(['CardEffects::Trigger', 'CardEffects::Trigger'])
         expect(card.description).to eq("If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:
 ● Spell: Inflict 1500 damage to your opponent.
@@ -155,19 +155,19 @@ describe CardDataFetcher do
       end
 
       it 'creates the correct raw_card record' do
-        expect(Spell.count).to eq(1)
+        expect(NonMonster.count).to eq(1)
         expect(Artwork.count).to eq(2)
 
-        card = Card.first
+        card = NonMonster.first
 
         expect(card.name).to eq('Monster Reborn')
-        expect(card.type).to eq('Spell')
+        expect(card.category).to eq('Spell')
         expect(card.property).to eq('Normal')
         expect(card.card_effects.count).to eq(1)
         expect(card.card_effects.first.type).to eq('CardEffects::Effect')
         expect(card.description).to eq("Target 1 monster in either player's Graveyard; Special Summon it.")
         expect(card.serial_number).to eq('83764718')
-        [:elemental_attribute, :level, :rank, :monster_type, :monster_abilities, :attack, :defense].each do |attribute|
+        [:element, :level, :rank, :species, :abilities, :attack, :defense].each do |attribute|
           expect(card.respond_to?(attribute)).to eq(false)
         end
 

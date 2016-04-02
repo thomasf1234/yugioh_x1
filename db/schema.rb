@@ -4,7 +4,7 @@ ActiveRecord::Schema.define do
       table.column :name,     :string
       table.column :serial_number, :string
       table.column :description, :string
-      table.column :type, :string
+      table.column :category, :string
     end
   end
 

@@ -3,9 +3,9 @@ class CreateViewNonMonsters < ActiveRecord::Migration
     connection.execute('DROP VIEW IF EXISTS non_monsters')
     connection.execute <<EOF
 CREATE VIEW non_monsters AS
-SELECT c.id as id,
+SELECT c.id as card_id,
        c.name as name,
-       c.type as type,
+       c.category as category,
        max(case when p.name = '#{Property::Names::PROPERTY}' then p.value end) as property,
        c.description as description,
        c.serial_number as serial_number
@@ -17,7 +17,7 @@ WHERE c.id IN (
     GROUP BY card_id
     HAVING count(card_id) = 1
   )
-AND c.type IN (
+AND c.category IN (
   '#{Card::Types::SPELL}',
   '#{Card::Types::TRAP}'
 )

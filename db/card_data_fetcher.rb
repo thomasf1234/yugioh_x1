@@ -25,7 +25,7 @@ class CardDataFetcher
       card = Card.create!({name: main_page.row_value('English'),
                           description: main_page.get_description,
                           serial_number: main_page.row_value('Card Number'),
-                          type: card_type(main_page)})
+                          category: card_type(main_page)})
 
       artwork_params_list = image_paths.map {|image_path| {image_path: image_path} }
       card.artworks.create!(artwork_params_list)

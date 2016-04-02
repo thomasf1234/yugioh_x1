@@ -7,6 +7,7 @@ class Property < ActiveRecord::Base
     ATTACK = 'attack'
     DEFENSE = 'defense'
     PROPERTY = 'property'
+    ABILITY = 'ability'
     ALL = constants.collect { |const| module_eval(const.to_s) }
   end
 

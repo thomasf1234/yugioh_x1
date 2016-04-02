@@ -3,10 +3,10 @@ class CreateViewMonsters < ActiveRecord::Migration
     connection.execute('DROP VIEW IF EXISTS monsters')
     connection.execute <<EOF
 CREATE VIEW monsters AS
-SELECT c.id as id,
+SELECT c.id as card_id,
        c.name as name,
-       c.type as type,
-       max(case when p.name = '#{Property::Names::ELEMENT}' then p.value end) as attribute,
+       c.category as category,
+       max(case when p.name = '#{Property::Names::ELEMENT}' then p.value end) as element,
        max(case when p.name = '#{Property::Names::LEVEL}' then p.value end) as level,
        max(case when p.name = '#{Property::Names::RANK}' then p.value end) as rank,
        max(case when p.name = '#{Property::Names::SPECIES}' then p.value end) as species,
@@ -29,7 +29,7 @@ WHERE c.id IN (
     GROUP BY card_id
     HAVING count(card_id) = 5
   )
-AND c.type IN (
+AND c.category IN (
   '#{Card::Types::NORMAL}',
   '#{Card::Types::EFFECT}',
   '#{Card::Types::RITUAL}',
@@ -45,3 +45,5 @@ EOF
     connection.execute("DROP VIEW IF EXISTS monsters")
   end
 end
+
+# http://stackoverflow.com/questions/2000045/tsql-cast-string-to-integer-or-return-default-value
