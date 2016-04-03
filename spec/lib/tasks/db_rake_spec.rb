@@ -49,7 +49,7 @@ describe 'db.rake' do
       end
 
       expect(File.exists?('db/backups/test/db_test_20160402000438.bak.gz')).to eq(true)
-      expect(Digest::MD5.file('db/backups/test/db_test_20160402000438.bak.gz').to_s).to eq('0199bfa2229156975025505f65b2e073')
+      expect(Digest::MD5.file('db/backups/test/db_test_20160402000438.bak.gz').to_s).to eq('ef58fe8dc7b627c9b91e1fedc25a9a47')
     end
   end
 
@@ -81,11 +81,11 @@ describe 'db.rake' do
 
     context 'database does not exist' do
       let(:properties_as_json) do
-        [{"id"=>1, "name"=>"element", "value"=>"DARK", "data_type"=>"string", "card_id"=>1},
-         {"id"=>2, "name"=>"level", "value"=>7, "data_type"=>"integer", "card_id"=>1},
-         {"id"=>3, "name"=>"attack", "value"=>"2500", "data_type"=>"string", "card_id"=>1},
-         {"id"=>4, "name"=>"defense", "value"=>"2100", "data_type"=>"string", "card_id"=>1},
-         {"id"=>5, "name"=>"species", "value"=>"Spellcaster", "data_type"=>"string", "card_id"=>1}]
+        [{"id"=>1, "name"=>"element", "value"=>"DARK", "card_id"=>1},
+         {"id"=>2, "name"=>"level", "value"=>"7", "card_id"=>1},
+         {"id"=>3, "name"=>"attack", "value"=>"2500", "card_id"=>1},
+         {"id"=>4, "name"=>"defense", "value"=>"2100", "card_id"=>1},
+         {"id"=>5, "name"=>"species", "value"=>"Spellcaster", "card_id"=>1}]
       end
       let(:cards_as_json) do
         [{"id"=>1, "name"=>"Dark Magician", "serial_number"=>"46986414", "description"=>"The ultimate wizard in terms of attack and defense.", "category"=>"Normal"}]
