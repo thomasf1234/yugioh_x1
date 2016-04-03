@@ -7,11 +7,11 @@ FactoryGirl.define do
 
     after(:create) do |card|
       card.properties << [
-          Property.new({name: 'element', value: 'DARK', data_type: 'string'}),
-          Property.new({name: 'level', value: '7', data_type: 'integer'}),
-          Property.new({name: 'attack', value: '2500', data_type: 'integer'}),
-          Property.new({name: 'defense', value: '2100', data_type: 'integer'}),
-          Property.new({name: 'species', value: 'Normal', data_type: 'string'})
+          Property.new({name: 'element', value: 'DARK'}),
+          Property.new({name: 'level', value: '7'}),
+          Property.new({name: 'attack', value: '2500'}),
+          Property.new({name: 'defense', value: '2100'}),
+          Property.new({name: 'species', value: 'Normal'})
       ]
     end
   end

@@ -22,5 +22,3 @@ module ExternalPages
     end
   end
 end
-
-

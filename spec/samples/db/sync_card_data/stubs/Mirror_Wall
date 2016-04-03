@@ -1,0 +1,1978 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Yu-Gi-Oh!,yugioh,Mirror Wall,Mirror Wall,Mirror Wall,Mirror Wall,Mirror Wall,Trap Card,Property,Continuous Trap Card,Card Number,Continuous Monster Effect,Monster Card" />
+<meta name="description" content="The Arabic, Chinese, Croatian andThai names given are not official. (card names) The Chinese..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://yugioh.wikia.com/wiki/Mirror_Wall" />
+<meta name="twitter:title" content="Mirror Wall - Yu-Gi-Oh! - Wikia" />
+<meta name="twitter:description" content="The Arabic, Chinese, Croatian andThai names given are not official. (card names) The Chinese lore given is not official." />
+<link rel="canonical" href="http://yugioh.wikia.com/wiki/Mirror_Wall" />
+<link rel="apple-touch-icon" href="http://img4.wikia.nocookie.net/__cb15/yugioh/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/yugioh/images/6/64/Favicon.ico/revision/latest?cb=20090626015303" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Yu-Gi-Oh! (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://yugioh.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Yu-Gi-Oh! Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Mirror Wall - Yu-Gi-Oh! - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1459537192/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimages2.wikia.nocookie.net%252F__cb20130314221841%252Fyugioh%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D805%26background-image-width%3D1920%26color-body%3D%25233b0902%26color-body-middle%3D%25233b0902%26color-buttons%3D%2523fec356%26color-header%3D%2523fec024%26color-links%3D%25230148c2%26color-page%3D%2523ffffff%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: yugioh:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="comics",
+wgWikiCategories=["anime","videogames"],
+wgMessages={"wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"everyone","mappedVerticalName":"ent","pageArticleId":8239,"pageIsArticle":true,"pageName":"Mirror_Wall","pageType":"article","skin":"oasis","wikiCategory":"gaming","wikiCustomKeyValues":"age=teen;age=kid;gnre=anime;gnre=fantasy;esrb=everyone;gnre=strategy;media=tv;media=cards;pform=pc;pform=psp;sex=m;age=18-34;gnre=comics","wikiDbName":"yugioh","wikiDirectedAtChildren":true,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"comics","newWikiCategories":["gaming","anime","videogames"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[7,9,13,14,15,100024,100041,100042,100043,100044,100052,100056,100057,100058,100059,100065,100066,100068,100077,100083,100378,100428,100455,100583],
+wgWikiFactoryTagNames=["comics/manga","anime","teens_(14-17)","kids_(13)","male","test","top_25_entertainment","top_50_entertainment","top_75_entertainment","top_100_entertainment","adss","wow","t9","skyscraper","skyscrapperwow","tandem","tandem_2","hadonedotenabled","sponsoredlink","adss_high","comscore_gaming","apertureenabled","krux","seo_removals"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1459537192",
+wgDBname="yugioh",
+wgCityId="410",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=8239,
+wgCategories=["Card pages with an unofficial Arabic name","Card pages with an unofficial Chinese name","Card pages with an unofficial Croatian name","Card pages with an unofficial Thai name","Card pages with an unofficial Chinese lore","Duel Monsters cards","TCG cards","OCG cards","Cards with a French release needing a French lore","Cards with a German release needing a German lore","Cards with a Korean release needing a Korean name","Cards with a Korean release needing a Korean lore","Cards with a Spanish release needing a Spanish lore"],
+wgPageName="Mirror_Wall",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1459537192",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s38","php_version":"5.6.4","wiki":"yugioh","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=2;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1459537192&amp;c=410&amp;lc=en&amp;lid=75&amp;x=yugioh&amp;y=c2&amp;u=0&amp;a=8239&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1459537192&amp;c=410&amp;lc=en&amp;lid=75&amp;x=yugioh&amp;y=c2&amp;u=0&amp;a=8239&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1459537192/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+		<link rel="alternate" type="application/rdf+xml" title="Mirror Wall" href="/wiki/Special:ExportRDF/Mirror_Wall?xmlmime=rdf" />
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Yu-Gi-Oh!" />
+	<meta property="og:title" content="Mirror Wall" />
+	<meta property="og:description" content="The Arabic, Chinese, Croatian andThai names given are not official. (card names) The Chinese lore given is not official." />
+	<meta property="og:url" content="http://yugioh.wikia.com/wiki/Mirror_Wall" />
+	<meta property="og:image" content="http://vignette4.wikia.nocookie.net/yugioh/images/c/c6/MirrorWall-BP03-EN-C-1E.png/revision/latest?cb=20140802103050" />
+<meta name="apple-itunes-app" content="app-id=963580559, app-arguments=http://yugioh.wikia.com/wiki/Mirror_Wall">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Mirror_Wall  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fyugioh.wikia.com%2Fwiki%2FMirror_Wall%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'comics',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://yugioh.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Yu-Gi-Oh!..." data-search-url="http://yugioh.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Yu-Gi-Oh!..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Mirror_Wall" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" title="Register" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Mirror_Wall">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Yu-Gi-Oh!_Wikia">
+					<img src="http://img3.wikia.nocookie.net/__cb15/yugioh/images/8/89/Wiki-wordmark.png" alt="Yu-Gi-Oh!"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Yu-Gi-Oh! Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">New images on this wiki</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Top Content</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Most_visited_articles">Most Visited<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Dark_Illusion">The Dark Illusion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_098">Yu-Gi-Oh! ARC-V - Episode 098</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_099">Yu-Gi-Oh! ARC-V - Episode 099</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Shining_Victories">Shining Victories</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Millennium_Pack">Millennium Pack</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yu-Gi-Oh!_ARC-V_-_Episode_100">Yu-Gi-Oh! ARC-V - Episode 100</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Premium_Gold:_Infinite_Gold">Premium Gold: Infinite Gold</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Newly_changed_articles">Newly Changed<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/46613515">46613515</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/2016_Mega-Tins">2016 Mega-Tins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/RB03-JP001">RB03-JP001</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Glow-Up_Bulb">Glow-Up Bulb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Destiny_HERO_-_Malicious">Destiny HERO - Malicious</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Necro">Necro</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Duelpass:_Phase_Ten">Duelpass: Phase Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random">Random<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random">Random Page</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Gallery">Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Rulings">Rulings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Errata">Errata</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Tips">Tips</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Appearances">Appearances‎</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:Random/Card_Trivia">Trivia</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_ARC-V_characters">ARC-V<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ARC-V_anime_characters">Anime</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_ZEXAL_characters">ZEXAL<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ZEXAL_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_ZEXAL_manga_characters">Manga</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_D_Team_ZEXAL_characters">D Team</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_5D%27s_characters">5D's<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_5D%27s_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_5D%27s_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_GX_characters">GX<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_GX_anime_characters">Anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_GX_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Yu-Gi-Oh!_characters">Yu-Gi-Oh!<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_anime_characters">Second anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_first_series_anime_characters">First anime</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Yu-Gi-Oh!_manga_characters">Manga</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Card_Gallery">Card Gallery</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Set_Card_Galleries">Sets by language<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Japanese_Set_Card_Galleries">Japanese Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:English_Set_Card_Galleries">English Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:French_Set_Card_Galleries">French Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:German_Set_Card_Galleries">German Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Italian_Set_Card_Galleries">Italian Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Spanish_Set_Card_Galleries">Spanish Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Korean_Set_Card_Galleries">Korean Set Card Gallery</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Set_Card_Galleries">Sets by type<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Unlimited_Edition_Set_Card_Galleries">Unlimited Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:1st_Edition_Set_Card_Galleries">1st Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_GX_Chapter_Card_Galleries">Yu-Gi-Oh! GX Chapter Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_5D%27s_Episode_Card_Galleries">Yu-Gi-Oh! 5D's Episode Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Limited_Edition_Set_Card_Galleries">Limited Edition Set Card Gallery</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Yu-Gi-Oh!_ZEXAL_Episode_Card_Galleries">Yu-Gi-Oh! ZEXAL Episode Card Gallery</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="#">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Yu-Gi-Oh!:Current_events">Current Events</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Policy">Policies</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Ruling_Queries">Yu-Gi-Oh! Ruling Queries</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Deck_Help">Yu-Gi-Oh! Deck Help</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Lists_Discussion">Yu-Gi-Oh! Lists Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:General_Yu-Gi-Oh!_Discussion">General Yu-Gi-Oh! Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Duel_Terminal">Duel Terminal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Help_desk">Help desk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Yu-Gi-Oh!_Wiki_Community_Discussion">Yu-Gi-Oh! Wiki Community Discussion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Forum:Weekly_Deck_Competition">Weekly Deck Competition</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:RecentChanges">Recent Changes</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Help:Contents">Help</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Mirror Wall</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>90,479</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=Mirror_Wall&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Mirror_Wall?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Mirror_Wall" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Page Help<span class="commentsbubble">0</span></a>
+	</header>
+	<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_bt" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div class="dablink">The <b>Arabic, Chinese, Croatian&#160;</b>and<b> Thai                   </b> names given are not official. <i>(<a href="/wiki/Card_Names:Mirror_Wall" title="Card Names:Mirror Wall">card names</a>)</i></div>
+<div class="dablink">The <b>Chinese              </b> lore given is not official. </div>
+<table class="cardtable">
+<tr>
+<th class="cardtable-header" colspan="3" style="background-color: #F36; color: #FFF;">Mirror Wall<br /><span class="cardtable-subheader"><span lang="ja"><ruby class="rubytext ruby-ja" lang="ja"><rb>銀</rb><rp>(</rp><rt>ぎん</rt><rp>)</rp></ruby><ruby class="rubytext ruby-ja" lang="ja"><rb>幕</rb><rp>(</rp><rt>まく</rt><rp>)</rp></ruby>の<ruby class="rubytext ruby-ja" lang="ja"><rb>鏡壁</rb><rp>(</rp><rt>ミラーウォール</rt><rp>)</rp></ruby></span></span></th>
+</tr><tr><td class="cardtable-cardimage" rowspan="91"><a href="http://vignette4.wikia.nocookie.net/yugioh/images/c/c6/MirrorWall-BP03-EN-C-1E.png/revision/latest?cb=20140802103050" 	class="image image-thumbnail" 	 	 	><img src="http://vignette4.wikia.nocookie.net/yugioh/images/c/c6/MirrorWall-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802103050" 	 alt="MirrorWall-BP03-EN-C-1E"  	class="" 	 	data-image-key="MirrorWall-BP03-EN-C-1E.png" 	data-image-name="MirrorWall-BP03-EN-C-1E.png" 	 	 width="300"  	 height="437"  	 	 	 	></a></td></tr>
+<p>
+</p>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">English</th><td class="cardtablerowdata">
+Mirror Wall</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Chinese</th><td class="cardtablerowdata">
+<span lang="zh">銀幕之鏡壁</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#zh-CN/en/%E9%8A%80%E5%B9%95%E4%B9%8B%E9%8F%A1%E5%A3%81">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">French</th><td class="cardtablerowdata">
+<span lang="fr">Mur Miroir</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#fr/en/Mur+Miroir">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">German</th><td class="cardtablerowdata">
+<span lang="de">Spiegelwand</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#de/en/Spiegelwand">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Italian</th><td class="cardtablerowdata">
+<span lang="it">Muro a Specchio</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#it/en/Muro+a+Specchio">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Portuguese</th><td class="cardtablerowdata">
+<span lang="pt">Parede Espelhada</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#pt/en/Parede+Espelhada">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Spanish</th><td class="cardtablerowdata">
+<span lang="es">Muro de Espejo</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#es/en/Muro+de+Espejo">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(kana)</th><td class="cardtablerowdata">
+<span lang="ja">ぎんまくのミラーウォール</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#ja/en/%E3%81%8E%E3%82%93%E3%81%BE%E3%81%8F%E3%81%AE%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(base)</th><td class="cardtablerowdata">
+<span lang="ja">銀幕の鏡壁</span><div class="sysop-show"><a class="external" href="https://translate.google.com/#ja/en/%E9%8A%80%E5%B9%95%E3%81%AE%E9%8F%A1%E5%A3%81">Check translation</a></div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(<i>rōmaji</i>)</th><td class="cardtablerowdata">
+Ginmaku no Mirā Wōru</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Japanese&#160;(translated)</th><td class="cardtablerowdata">
+Silver-Screen Mirror Wall</td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Type</th><td class="cardtablerowdata">
+<a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a> <a href="http://vignette2.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest?cb=20120918121520" 	class="image image-thumbnail" 	 	 	><img src="http://vignette2.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/34?cb=20120918121520" 	 alt="TRAP"  	class="" 	 	data-image-key="TRAP.svg" 	data-image-name="TRAP.svg" 	 	 width="34"  	 height="34"  	 	 	 	></a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Property" title="Property">Property</a></th><td class="cardtablerowdata">
+<a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="http://vignette3.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest?cb=20120920115206" 	class="image image-thumbnail" 	 	 	><img src="http://vignette3.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/34?cb=20120920115206" 	 alt="Continuous"  	class="" 	 	data-image-key="Continuous.svg" 	data-image-name="Continuous.svg" 	 	 width="34"  	 height="34"  	 	 	 	></a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row"><a href="/wiki/Card_Number" title="Card Number">Card Number</a></th><td class="cardtablerowdata">
+<a href="/wiki/22359980" title="22359980" class="mw-redirect">22359980</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Passcode</th><td class="cardtablerowdata">
+<a href="/wiki/53297534" title="53297534" class="mw-redirect">53297534</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Card effect types</th><td class="cardtablerowdata hlist hcomma">
+<p>
+</p>
+<ul><li> <a href="/wiki/Continuous_Monster_Effect" title="Continuous Monster Effect">Continuous</a>
+</li><li> <a href="/wiki/Maintenance_cost" title="Maintenance cost">Maintenance cost</a></td></tr>
+</li></ul>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Card descriptions</b><br />
+<table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible expanded navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+Each of your opponent's <a href="/wiki/Monster_Card" title="Monster Card">monsters</a> that conducted an <a href="/wiki/Attack" title="Attack">attack</a> while this card was <a href="/wiki/Face-up" title="Face-up">face-up</a> on the <a href="/wiki/Field" title="Field">field</a> has its <a href="/wiki/ATK" title="ATK">ATK</a> halved as long as this card remains on the field. During each of your <a href="/wiki/Standby_Phase" title="Standby Phase">Standby Phases</a>, <a href="/wiki/Pay" title="Pay">pay</a> 2000 <a href="/wiki/Life_Points" title="Life Points" class="mw-redirect">LP</a> or <a href="/wiki/Destroy" title="Destroy">destroy</a> this card.</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Italian</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="it">L'ATK di ogni mostro del tuo avversario che ha effettuato un attacco mentre questa carta era scoperta sul Terreno è dimezzato fino a quando questa carta rimane sul Terreno. Durante ogni tua <a href="/wiki/Standby_Phase" title="Standby Phase">Standby Phase</a>, paga 2000 <a href="/wiki/Life_Points" title="Life Points" class="mw-redirect">LP</a> o distruggi questa carta.</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Portuguese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="pt">Cada um dos <a href="/wiki/Monster_Card" title="Monster Card">monstros</a> do seu oponente que conduziu um <a href="/wiki/Attack" title="Attack">ataque</a> enquanto este card estava com a <a href="/wiki/Face-up" title="Face-up">face para cima</a> no <a href="/wiki/Field" title="Field">campo</a> tem seu <a href="/wiki/ATK" title="ATK">ATK</a> diminuido pela metade enquanto este card permanecer no campo. Durante cada uma de suas <a href="/wiki/Standby_Phase" title="Standby Phase">Fases de Apoio</a>, pague 2000 <a href="/wiki/Life_Points" title="Life Points" class="mw-redirect">Pontos de Vida</a> ou <a href="/wiki/Destroy" title="Destroy">destrua</a> este card.</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Japanese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="ja">相手の<a href="/wiki/Attack" title="Attack">攻撃</a><a href="/wiki/Monster_Card" title="Monster Card">モンスター</a>の<a href="/wiki/ATK" title="ATK">攻撃力</a>は半分になる。この効果はこのカードがフィールド上に存在する限り適用される。このカードのコントローラーは自分の<a href="/wiki/Standby_Phase" title="Standby Phase">スタンバイフェイズ</a>毎に２０００<a href="/wiki/Life_Points" title="Life Points" class="mw-redirect">ライフポイント</a>を払う。または、２０００ライフポイント払わずにこのカードを<a href="/wiki/Destroy" title="Destroy">破壊</a>する。</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Chinese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<span lang="zh">對方的<a href="/wiki/Attack" title="Attack">攻擊</a><a href="/wiki/Monster_Card" title="Monster Card">怪獸</a>的<a href="/wiki/ATK" title="ATK">攻擊力</a>變成一半。這個<a href="/wiki/Card_effect" title="Card effect">效果</a>只在這張卡在<a href="/wiki/Playing_Field" title="Playing Field" class="mw-redirect">場上</a>存在適用。這張卡的<a href="/wiki/Control" title="Control">控制</a>者在每次自己的<a href="/wiki/Standby_Phase" title="Standby Phase">準備階段</a><a href="/wiki/Cost" title="Cost">支付</a>2000<a href="/wiki/Life_Points" title="Life Points" class="mw-redirect">基本分</a>。或者不<a href="/wiki/Pay" title="Pay">支付</a>2000基本分讓這張卡<a href="/wiki/Destroy" title="Destroy">破壞</a>。</span></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_The_Eternal_Duelist_Soul" title="Yu-Gi-Oh! The Eternal Duelist Soul">Yu-Gi-Oh! The Eternal Duelist Soul</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+You must pay 2000 of your own Life Points during each of your Standby Phase. If you cannot, this card is destroyed. Decrease the ATK of all your opponent's attacking monster's by half.</td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> sets</b><br />
+  <table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—Worldwide</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 12, 2004">2004-10-12 </td>
+  <td><a href="/wiki/DB1-EN078" title="DB1-EN078" class="mw-redirect">DB1-EN078</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 1, 2004">2004-12-01 </td>
+  <td><a href="/wiki/PSV-EN016" title="PSV-EN016" class="mw-redirect">PSV-EN016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 28, 2009">2009-07-28 </td>
+  <td><a href="/wiki/RP02-EN007" title="RP02-EN007" class="mw-redirect">RP02-EN007</a> </td>
+  <td><a href="/wiki/Retro_Pack_2" title="Retro Pack 2">Retro Pack 2</a></td>
+  <td><a href="/wiki/Ultra_Rare" title="Ultra Rare">Ultra Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 28, 2013">2013-06-28 </td>
+  <td><a href="/wiki/BP02-EN172" title="BP02-EN172" class="mw-redirect">BP02-EN172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 28, 2013">2013-06-28 </td>
+  <td><a href="/wiki/BP02-EN172" title="BP02-EN172" class="mw-redirect">BP02-EN172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 11, 2013">2013-10-11 </td>
+  <td><a href="/wiki/LCJW-EN107" title="LCJW-EN107" class="mw-redirect">LCJW-EN107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-EN188" title="BP03-EN188" class="mw-redirect">BP03-EN188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-EN188" title="BP03-EN188" class="mw-redirect">BP03-EN188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—North America</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">North American English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 20, 2002">2002-10-20 </td>
+  <td><a href="/wiki/PSV-016" title="PSV-016" class="mw-redirect">PSV-016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>English—Europe</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">European English</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title=""> </td>
+  <td><a href="/wiki/PSV-E016" title="PSV-E016" class="mw-redirect">PSV-E016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>French</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">French</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>French name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 20, 2002">2002-10-20 </td>
+  <td><a href="/wiki/SDP-F016" title="SDP-F016" class="mw-redirect">SDP-F016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+<td lang="fr">Serviteur du Pharaon </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-FR172" title="BP02-FR172" class="mw-redirect">BP02-FR172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="fr">Battle Pack 2: La Guerre des Géants </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-FR172" title="BP02-FR172" class="mw-redirect">BP02-FR172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="fr">Battle Pack 2: La Guerre des Géants </td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-FR107" title="LCJW-FR107" class="mw-redirect">LCJW-FR107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="fr">Collection Légendaire 4 Méga-Pack </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-FR188?action=edit&amp;redlink=1" class="new" title="BP03-FR188 (page does not exist)">BP03-FR188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="fr">Battle Pack 3: La Ligue des Monstres </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-FR188?action=edit&amp;redlink=1" class="new" title="BP03-FR188 (page does not exist)">BP03-FR188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="fr">Battle Pack 3: La Ligue des Monstres </td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>German</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">German</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>German name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 20, 2002">2002-10-20 </td>
+  <td><a href="/wiki/PSV-G016" title="PSV-G016" class="mw-redirect">PSV-G016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+<td lang="de">Pharaoh's Servant </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="December 17, 2004">2004-12-17 </td>
+  <td><a href="/wiki/DB1-DE078" title="DB1-DE078" class="mw-redirect">DB1-DE078</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+<td lang="de">Dark Beginning 1 </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-DE172" title="BP02-DE172" class="mw-redirect">BP02-DE172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="de">Battle Pack 2: War of the Giants </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-DE172" title="BP02-DE172" class="mw-redirect">BP02-DE172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="de">Battle Pack 2: War of the Giants </td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-DE107" title="LCJW-DE107" class="mw-redirect">LCJW-DE107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="de">Legendary Collection 4 Mega-Pack </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-DE188?action=edit&amp;redlink=1" class="new" title="BP03-DE188 (page does not exist)">BP03-DE188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="de">Battle Pack 3: Monster League </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-DE188?action=edit&amp;redlink=1" class="new" title="BP03-DE188 (page does not exist)">BP03-DE188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="de">Battle Pack 3: Monster League </td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Italian</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Italian</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Italian name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="October 20, 2002">2002-10-20 </td>
+  <td><a href="/wiki/SDF-I016" title="SDF-I016" class="mw-redirect">SDF-I016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+<td lang="it">Servitore del Faraone </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-IT172" title="BP02-IT172" class="mw-redirect">BP02-IT172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="it">Battle Pack 2: Guerra dei Giganti </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-IT172" title="BP02-IT172" class="mw-redirect">BP02-IT172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="it">Battle Pack 2: Guerra dei Giganti </td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-IT107" title="LCJW-IT107" class="mw-redirect">LCJW-IT107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="it">Collezione Leggendaria 4 Mega-Pack </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-IT188?action=edit&amp;redlink=1" class="new" title="BP03-IT188 (page does not exist)">BP03-IT188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="it">Battle Pack 3: Lega dei Mostri </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 31, 2014">2014-07-31 </td>
+  <td><a href="/wiki/BP03-IT188?action=edit&amp;redlink=1" class="new" title="BP03-IT188 (page does not exist)">BP03-IT188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="it">Battle Pack 3: Lega dei Mostri </td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Portuguese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Portuguese</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Portuguese name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 28, 2013">2013-06-28 </td>
+  <td><a href="/wiki/BP02-PT172?action=edit&amp;redlink=1" class="new" title="BP02-PT172 (page does not exist)">BP02-PT172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="pt">Pacote de Batalha 2: Guerra dos Gigantes </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 28, 2013">2013-06-28 </td>
+  <td><a href="/wiki/BP02-PT172?action=edit&amp;redlink=1" class="new" title="BP02-PT172 (page does not exist)">BP02-PT172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="pt">Pacote de Batalha 2: Guerra dos Gigantes </td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 11, 2013">2013-10-11 </td>
+  <td><a href="/wiki/LCJW-PT107?action=edit&amp;redlink=1" class="new" title="LCJW-PT107 (page does not exist)">LCJW-PT107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="pt">Coleção Lendária 4 Mega-Pacote </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="August 1, 2014">2014-08-01 </td>
+  <td><a href="/wiki/BP03-PT188?action=edit&amp;redlink=1" class="new" title="BP03-PT188 (page does not exist)">BP03-PT188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="pt">Pacote de Batalha 3: Liga dos Monstros </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="August 1, 2014">2014-08-01 </td>
+  <td><a href="/wiki/BP03-PT188?action=edit&amp;redlink=1" class="new" title="BP03-PT188 (page does not exist)">BP03-PT188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="pt">Pacote de Batalha 3: Liga dos Monstros </td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Spanish</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Spanish</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Spanish name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="December 1, 2004">2004-12-01 </td>
+  <td><a href="/wiki/DB1-SP078" title="DB1-SP078" class="mw-redirect">DB1-SP078</a> </td>
+  <td><a href="/wiki/Dark_Beginning_1" title="Dark Beginning 1">Dark Beginning 1</a></td>
+<td lang="es">Principio Oscuro 1 </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-SP172" title="BP02-SP172" class="mw-redirect">BP02-SP172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="es">Battle Pack 2: Guerra de los Gigantes </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 27, 2013">2013-06-27 </td>
+  <td><a href="/wiki/BP02-SP172" title="BP02-SP172" class="mw-redirect">BP02-SP172</a> </td>
+  <td><a href="/wiki/Battle_Pack_2:_War_of_the_Giants" title="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</a></td>
+<td lang="es">Battle Pack 2: Guerra de los Gigantes </td>
+  <td><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="October 10, 2013">2013-10-10 </td>
+  <td><a href="/wiki/LCJW-SP107" title="LCJW-SP107" class="mw-redirect">LCJW-SP107</a> </td>
+  <td><a href="/wiki/Legendary_Collection_4_Mega-Pack" title="Legendary Collection 4 Mega-Pack">Legendary Collection 4 Mega-Pack</a></td>
+<td lang="es">Colección Legendaria 4 Mega-Pack </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 25, 2014">2014-07-25 </td>
+  <td><a href="/wiki/BP03-SP188?action=edit&amp;redlink=1" class="new" title="BP03-SP188 (page does not exist)">BP03-SP188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="es">Battle Pack 3: Liga de Monstruos </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="July 25, 2014">2014-07-25 </td>
+  <td><a href="/wiki/BP03-SP188?action=edit&amp;redlink=1" class="new" title="BP03-SP188 (page does not exist)">BP03-SP188</a> </td>
+  <td><a href="/wiki/Battle_Pack_3:_Monster_League" title="Battle Pack 3: Monster League">Battle Pack 3: Monster League</a></td>
+<td lang="es">Battle Pack 3: Liga de Monstruos </td>
+  <td><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b><i><a href="/wiki/Yu-Gi-Oh!_Official_Card_Game" title="Yu-Gi-Oh! Official Card Game">OCG</a></i> sets</b><br />
+  <table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Japanese</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Japanese</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Japanese name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="September 28, 2000">2000-09-28 </td>
+  <td><a href="/wiki/CA-16" title="CA-16" class="mw-redirect">CA-16</a> </td>
+  <td><a href="/wiki/Curse_of_Anubis_(set)" title="Curse of Anubis (set)">Curse of Anubis</a></td>
+<td lang="ja">－ アヌビスの呪い － </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 20, 2002">2002-06-20 </td>
+  <td><a href="/wiki/DL1-104" title="DL1-104" class="mw-redirect">DL1-104</a> </td>
+  <td><a href="/wiki/Duelist_Legacy_Volume.1" title="Duelist Legacy Volume.1">Duelist Legacy Volume.1</a></td>
+<td lang="ja">ＤＵＥＬＩＳＴ ＬＥＧＡＣＹ Ｖｏｌｕｍｅ．１ </td>
+  <td><a href="/wiki/Rare" title="Rare">Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="June 24, 2004">2004-06-24 </td>
+  <td><a href="/wiki/BE1-JP078" title="BE1-JP078" class="mw-redirect">BE1-JP078</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition.1" title="Beginner's Edition.1">Beginner's Edition 1</a></td>
+<td lang="ja">ＢＥＧＩＮＮＥＲ'Ｓ ＥＤＩＴＩＯＮ １ </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="May 14, 2011">2011-05-14 </td>
+  <td><a href="/wiki/BE01-JP070" title="BE01-JP070" class="mw-redirect">BE01-JP070</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition_1_(2011)" title="Beginner's Edition 1 (2011)">Beginner's Edition 1 (2011)</a></td>
+<td lang="ja">ＢＥＧＩＮＮＥＲ'Ｓ　ＥＤＩＴＩＯＮ　１　【２０１１】 </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div>Korean</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<table class="wikitable sortable card-list cts">
+ <caption class="mobile-show">Korean</caption>
+
+ <tr>
+  <th style="width: 4em;">Release</th>
+  <th style="width: 6em;">Number</th>
+  <th>Set</th><th>Korean name</th>
+  <th style="width: 12em;">Rarity</th>
+ </tr>
+
+ <tr>
+  <td title="June 19, 2004">2004-06-19 </td>
+  <td><a href="/wiki/PSV-K016" title="PSV-K016" class="mw-redirect">PSV-K016</a> </td>
+  <td><a href="/wiki/Pharaoh%27s_Servant" title="Pharaoh's Servant">Pharaoh's Servant</a></td>
+<td lang="ko">파라오의 사도 </td>
+  <td><a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a></td>
+ </tr>
+
+
+ <tr>
+  <td title="April 11, 2006">2006-04-11 </td>
+  <td><a href="/wiki/BP1-KR078" title="BP1-KR078" class="mw-redirect">BP1-KR078</a> </td>
+  <td><a href="/wiki/Beginner%27s_Edition.1" title="Beginner's Edition.1">Beginner's Edition 1</a></td>
+<td lang="ko">비기너즈 팩 1 </td>
+  <td><a href="/wiki/Common" title="Common">Common</a></td>
+ </tr>
+
+</table></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Video game sets</b><br />
+<table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_GX_Tag_Force" title="Yu-Gi-Oh! GX Tag Force">Tag Force</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/More_Eternal_Memories_(GX02-BP)" title="More Eternal Memories (GX02-BP)">More Eternal Memories</a></b> (<a href="/wiki/Rare" title="Rare">Rare</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Nightmare_Troubadour" title="Yu-Gi-Oh! Nightmare Troubadour">Nightmare Troubadour</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Magician%27s_Soul_(NTR-BP)" title="Magician's Soul (NTR-BP)">Magician's Soul</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Ultimate_Masters:_World_Championship_Tournament_2006" title="Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006">World Championship Tournament 2006</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<p><b><a href="/wiki/Pharaoh%27s_Servant_(WC6-BP)" title="Pharaoh's Servant (WC6-BP)">Pharaoh's Servant</a></b> (<a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a>)
+</p><p><b><a href="/wiki/Continuous_Spell/Trap_A_(WC6-BP)" title="Continuous Spell/Trap A (WC6-BP)">Continuous Spell/Trap A</a></b> (<a href="/wiki/Super_Rare" title="Super Rare">Super Rare</a>)
+</p><p><b><a href="/wiki/All_Traps_(WC6-BP)" title="All Traps (WC6-BP)">All Traps</a></b> (<a href="/wiki/Common" title="Common">Common</a>)
+</p>
+<b><a href="/wiki/All_at_Random_(WC6-BP)" title="All at Random (WC6-BP)">All at Random</a></b> (<a href="/wiki/Common" title="Common">Common</a>)</td></tr>
+    </table>
+  </td></tr>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible autocollapse navbox-inner">
+      <tr><th class="navbox-title"><div style="font-size: 110%;"><div style="float: left; width: 6em;">&#160;</div><i><a href="/wiki/Yu-Gi-Oh!_Online" title="Yu-Gi-Oh! Online">Yu-Gi-Oh! Online</a></i></div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px;&#160;;">
+<b><a href="/wiki/Pack_17_(YGOO-BP)" title="Pack 17 (YGOO-BP)">Pack 17</a></b></td></tr>
+    </table>
+  </td></tr>
+</table></td></tr>
+<tr class="cardtablerow"><td class="cardtablespanrow" colspan="2"><b>Card search categories</b><br />
+<div class="cardtable-categories">
+  <div class="hlist">
+<dl><dt> <a href="/wiki/Archetype" title="Archetype">Archetypes</a> and <a href="/wiki/Series" title="Series">series</a> 
+</dt><dd> <a href="/wiki/Mirror_Trap_(series)" title="Mirror Trap (series)">Mirror Trap </a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Stat changes 
+</dt><dd> <a href="/wiki/Your_opponent%27s_monsters_lose_ATK" title="Your opponent's monsters lose ATK">Your opponent's monsters lose ATK</a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Monster/Spell/Trap categories 
+</dt><dd> <a href="/wiki/Destroys_itself" title="Destroys itself">Destroys itself</a>
+</dd></dl>
+</div><div class="hlist">
+<dl><dt> Life Points 
+</dt><dd> <a href="/wiki/Pays_Life_Points_for_cost" title="Pays Life Points for cost">Pays Life Points for cost</a>
+</dd></dl>
+</div>
+</div></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">Other card information</th><td id="cardtablelinks" class="cardtablerowdata">
+<a href="/wiki/Card_Gallery:Mirror_Wall" title="Card Gallery:Mirror Wall">Gallery</a> - <a href="/wiki/Card_Rulings:Mirror_Wall" title="Card Rulings:Mirror Wall">Rulings</a> - <a href="/wiki/Card_Errata:Mirror_Wall" title="Card Errata:Mirror Wall">Errata</a> - <a href="/wiki/Card_Tips:Mirror_Wall" title="Card Tips:Mirror Wall">Tips</a><br /><a href="/wiki/Card_Appearances:Mirror_Wall" title="Card Appearances:Mirror Wall">Appearances</a> - <a href="/wiki/Card_Trivia:Mirror_Wall" title="Card Trivia:Mirror Wall">Trivia</a><br /><a href="/wiki/Card_Lores:Mirror_Wall?action=edit&amp;redlink=1" class="new" title="Card Lores:Mirror Wall (page does not exist)">Lores</a> - <a href="/wiki/Card_Artworks:Mirror_Wall?action=edit&amp;redlink=1" class="new" title="Card Artworks:Mirror Wall (page does not exist)">Artworks</a> - <a href="/wiki/Card_Names:Mirror_Wall" title="Card Names:Mirror Wall">Names</a></td></tr>
+<tr class="cardtablerow"><th class="cardtablerowheader" scope="row">External links</th><td class="cardtablerowdata">
+<p>
+</p>
+<ul><li> Yugioh-Card card database: 4993 (<div class="cardtable-dblinks hlist">
+<ul><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=ja">ja</a> (<a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&amp;cid=4993&amp;request_locale=ja">rulings</a>) 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=en">en</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=fr">fr</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=de">de</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=it">it</a> 
+</li><li> <a class="external exitstitial" href="http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=4993&amp;request_locale=es">es</a>)</div>
+</li></ul>
+</li><li> <a class="external exitstitial" href="http://yugiohprices.com/card_price?name=Mirror+Wall">YugiohPrices</a>
+</li><li> <a class="external exitstitial" href="http://en.ygo-card.de/result_links.php?htm_name=Mirror+Wall&amp;suche=true">YGO-Card.de</a> (English)
+</li><li> <a class="external exitstitial" href="http://en.ygo-card.de/result_links.php?htm_name=Spiegelwand&amp;suche=true">YGO-Card.de</a> (German)</td></tr>
+</li></ul>
+</table>
+<table class="cardtablestatuses">
+<tr><th class="cardtablestatusesgroupheader" colspan="8"><i>TCG</i>/<i>OCG</i> statuses</th></tr>
+    <tr><th><i><a href="/wiki/Yu-Gi-Oh!_Official_Card_Game" title="Yu-Gi-Oh! Official Card Game">OCG</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> <a href="/wiki/Advanced_Format" title="Advanced Format">Advanced</a></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Trading_Card_Game" title="Yu-Gi-Oh! Trading Card Game">TCG</a></i> <a href="/wiki/Traditional_Format" title="Traditional Format">Traditional</a></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><td colspan="10"></td></tr><tr><th class="cardtablestatusesgroupheader" colspan="8">Video game statuses</th></tr>
+    <tr><th><i><a href="/wiki/Yu-Gi-Oh!_The_Eternal_Duelist_Soul" title="Yu-Gi-Oh! The Eternal Duelist Soul">EDS</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Nightmare_Troubadour" title="Yu-Gi-Oh! Nightmare Troubadour">NTR</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Online" title="Yu-Gi-Oh! Online">Online</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><th><i><a href="/wiki/Yu-Gi-Oh!_Ultimate_Masters:_World_Championship_Tournament_2006" title="Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006">WC6</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td></tr><tr><th><i><a href="/wiki/Yu-Gi-Oh!_GX_Tag_Force" title="Yu-Gi-Oh! GX Tag Force">GX02</a></i></th><td><a href="/wiki/Unlimited" title="Unlimited">Unlimited</a></td><td colspan="6"></td>
+</table><table class="navbox hlist">
+  <tr><td>
+    <table class="collapsible expanded navbox-inner">
+      <tr><th class="navbox-title"><span style="float:left;width:6em;">&#160;</span><div style="font-size: 110%;">"<strong class="selflink">Mirror Wall</strong>" pages</div></th></tr>
+      <tr><td></td></tr>
+      <tr><td class="navbox-list" style="text-align: left; padding: 0px; text-align: center;;">
+<ul>
+	<li><a href="/wiki/Mirror_Wall_(anime)" title="Mirror Wall (anime)">Anime</a></li>
+	<li><a href="/wiki/Mirror_Wall_(manga)" title="Mirror Wall (manga)">Manga</a></li>
+	<li><a href="/wiki/Mirror_Wall_(DOR)" title="Mirror Wall (DOR)">Yu-Gi-Oh! The Duelists of the Roses, Video game</a></li>
+</ul>
+</td></tr>
+    </table>
+  </td></tr>
+</table>&#32;
+<table class="navbox" style=";"><tr><td><table class="nowraplinks collapsible autocollapse navbox-inner" style="background:transparent;color:inherit;;"><tr><th scope="col" style=";" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span><div class="" style="font-size:110%;">
+<a href="/wiki/Mirror_Trap_(series)" title="Mirror Trap (series)">Mirror Trap</a></div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/List_of_%22Mirror_Trap%22_cards" title="List of &quot;Mirror Trap&quot; cards">Members</a></b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Blazing_Mirror_Force" title="Blazing Mirror Force">Blazing Mirror Force</a></li>
+	<li><a href="/wiki/Dark_Mirror_Force" title="Dark Mirror Force">Dark Mirror Force</a></li>
+	<li><a href="/wiki/Mirror_Force" title="Mirror Force">Mirror Force</a></li>
+	<li><a href="/wiki/Mirror_Gate" title="Mirror Gate">Mirror Gate</a></li>
+	<li><a href="/wiki/Mirror_Mail" title="Mirror Mail">Mirror Mail</a></li>
+	<li><strong class="selflink">Mirror Wall</strong></li>
+	<li><a href="/wiki/Quaking_Mirror_Force" title="Quaking Mirror Force">Quaking Mirror Force</a></li>
+	<li><a href="/wiki/Radiant_Mirror_Force" title="Radiant Mirror Force">Radiant Mirror Force</a></li>
+	<li><a href="/wiki/Rippling_Mirror_Force" title="Rippling Mirror Force">Rippling Mirror Force</a></li>
+	<li><a href="/wiki/Storming_Mirror_Force" title="Storming Mirror Force">Storming Mirror Force</a></li>
+</ul>
+</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;"><b>Related</b></th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<ul>
+	<li><a href="/wiki/Mirror_Force_Dragon" title="Mirror Force Dragon">Mirror Force Dragon</a></li>
+</ul>
+<p><br />
+</p>
+<ul>
+	<li><a href="/wiki/The_Fang_of_Critias" title="The Fang of Critias">The Fang of Critias</a></li>
+	<li><a href="/wiki/Shining_Silver_Force" title="Shining Silver Force">Shining Silver Force</a></li>
+</ul>
+</div></td></tr></table></td></tr></table> 
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 21536/300000
+Post‐expand include size: 499206/2097152 bytes
+Template argument size: 256023/2097152 bytes
+Expensive parser function count: 4/100
+Lua time usage: 0.184s
+Lua memory usage: 1.57 MB
+-->
+
+<!-- Saved in parser cache with key yugioh:pcache:idhash:8239-0!*!0!*!*!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://yugioh.wikia.com/wiki/Mirror_Wall?oldid=3291482">http://yugioh.wikia.com/wiki/Mirror_Wall?oldid=3291482</a>"</div>
+<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+				</div>
+
+																<nav id="articleCategories" class="article-categories">
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories" rel="nofollow">Categories</a>: <ul><li><a href="/wiki/Category:Duel_Monsters_cards" title="Category:Duel Monsters cards">Duel Monsters cards</a></li><li><a href="/wiki/Category:TCG_cards" title="Category:TCG cards">TCG cards</a></li><li><a href="/wiki/Category:OCG_cards" title="Category:OCG cards">OCG cards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Arabic_name" title="Category:Card pages with an unofficial Arabic name">Card pages with an unofficial Arabic name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Chinese_name" title="Category:Card pages with an unofficial Chinese name">Card pages with an unofficial Chinese name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Croatian_name" title="Category:Card pages with an unofficial Croatian name">Card pages with an unofficial Croatian name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Thai_name" title="Category:Card pages with an unofficial Thai name">Card pages with an unofficial Thai name</a></li><li><a href="/wiki/Category:Card_pages_with_an_unofficial_Chinese_lore" title="Category:Card pages with an unofficial Chinese lore">Card pages with an unofficial Chinese lore</a></li><li><a href="/wiki/Category:Cards_with_a_French_release_needing_a_French_lore" title="Category:Cards with a French release needing a French lore">Cards with a French release needing a French lore</a></li><li><a href="/wiki/Category:Cards_with_a_German_release_needing_a_German_lore" title="Category:Cards with a German release needing a German lore">Cards with a German release needing a German lore</a></li><li><a href="/wiki/Category:Cards_with_a_Korean_release_needing_a_Korean_name" title="Category:Cards with a Korean release needing a Korean name">Cards with a Korean release needing a Korean name</a></li><li><a href="/wiki/Category:Cards_with_a_Korean_release_needing_a_Korean_lore" title="Category:Cards with a Korean release needing a Korean lore">Cards with a Korean release needing a Korean lore</a></li><li><a href="/wiki/Category:Cards_with_a_Spanish_release_needing_a_Spanish_lore" title="Category:Cards with a Spanish release needing a Spanish lore">Cards with a Spanish release needing a Spanish lore</a></li></ul></div></div>	</nav>
+									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.yugioh.wikia.com/wiki/Spiegelwand">Deutsch</a></li>
+			<li><a href="http://es.yugioh.wikia.com/wiki/Muro_de_Espejo">Español</a></li>
+			<li><a href="http://fr.yugioh.wikia.com/wiki/Mur_Miroir">Français</a></li>
+			<li><a href="http://it.yugioh.wikia.com/wiki/Muro_a_Specchio">Italiano</a></li>
+			<li><a href="http://pt.yugioh.wikia.com/wiki/Parede_Espelhada">Português</a></li>
+			<li><a href="http://ar.yugioh.wikia.com/wiki/%D8%AC%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%B1%D8%A2%D8%A9">العربية</a></li>
+			<li><a href="http://ja.yugioh.wikia.com/wiki/%E9%8A%80%E5%B9%95%E3%81%AE%E9%8F%A1%E5%A3%81">日本語</a></li>
+			<li><a href="http://zh.yugioh.wikia.com/wiki/%E9%8A%80%E5%B9%95%E4%B9%8B%E9%8F%A1%E5%A3%81">中文</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_ic_fsm_ffa mon_hub_comics mon_wk_yugioh mon_sl_af" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#0148c2" data-color-url="#0148c2" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/410" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-comics black">
+			<a class="wikia-logo" href="http://comicshub.wikia.com/wiki/Comics_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Comics</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;},{&quot;text&quot;:&quot;Looking for Star Wars, Batman v Superman, and Gaming news? Explore Fandom!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1V24jI1&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1459537192/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"yugioh","kv_article_id":8239,"kv_wpage":"Mirror_Wall","kv_Hub":"Gaming","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"age=teen;age=kid;gnre=anime;gnre=fantasy;esrb=everyone;gnre=strategy;media=tv;media=cards;pform=pc;pform=psp;sex=m;age=18-34;gnre=comics","kv_domain":"yugioh.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Mirror_Wall","wgTitle":"Mirror Wall","wgCurRevisionId":3291482,"wgArticleId":8239,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Card pages with an unofficial Arabic name","Card pages with an unofficial Chinese name","Card pages with an unofficial Croatian name","Card pages with an unofficial Thai name","Card pages with an unofficial Chinese lore","Duel Monsters cards","TCG cards","OCG cards","Cards with a French release needing a French lore","Cards with a German release needing a German lore","Cards with a Korean release needing a Korean name","Cards with a Korean release needing a Korean lore","Cards with a Spanish release needing a Spanish lore"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Mirror_Wall","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://images2.wikia.nocookie.net/__cb20130314221841/yugioh/images/5/50/Wiki-background","background-image-height":"805","background-image-width":"1920","color-body":"#3b0902","color-body-middle":"#3b0902","color-buttons":"#fec356","color-header":"#fec024","color-links":"#0148c2","color-page":"#ffffff","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"sfgAutocompleteValues":[],"sfgAutocompleteOnAllChars":false,"sfgFieldProperties":[],"sfgCargoFields":[],"sfgDependentFields":[],"sfgShowOnSelect":[],"sfgScriptPath":"/extensions/SemanticForms","edgValues":null,"sfgEDSettings":null,"sdgDownArrowImage":"/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/extensions/SemanticDrilldown/skins/right-arrow.png","wgCatId":"2","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgPrivateTracker":true,"wgMainpage":"Yu-Gi-Oh! Wikia","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1459537192/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1459537192/common","wgSitename":"Yu-Gi-Oh!","wgMWrevId":false,"wgRevisionId":3291482,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Mirror_Wall","fbReturnToTitle":"Mirror_Wall","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":false,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"128":true,"130":true,"303":true,"305":true,"371":true,"828":true,"829":true,"307":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Games","wgArticleInterlangList":["ar:جدار المرآة","de:Spiegelwand","es:Muro de Espejo","fr:Mur Miroir","it:Muro a Specchio","ja:銀幕の鏡壁","pt:Parede Espelhada","zh:銀幕之鏡壁"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":["","Card_Gallery","Card_Rulings","Card_Errata","Card_Tips","Card_Trivia","Card_Appearances","Portal","Card_Lores","Card_Artworks","Card_Names","Set_Card_Lists","Set_Card_Galleries","Set_Card_Ratios","Card_Sets","Transcript","Transcript_talk"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1457992749","wgScriptsTimestamp":"1457907978","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Mirror_Wall?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Mirror_Wall","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://yugioh.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://yugioh.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://yugioh.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://yugioh.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://yugioh.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://yugioh.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://yugioh.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://yugioh.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://yugioh.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://yugioh.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://yugioh.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized images","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://yugioh.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://yugioh.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused files","href":"http://yugioh.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://yugioh.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://yugioh.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted files","href":"http://yugioh.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://yugioh.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://yugioh.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://yugioh.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedProperties","caption":"Unused properties","href":"http://yugioh.wikia.com/wiki/Special:UnusedProperties","category":"Special pages \x3e Maintenance reports"},{"id":"special:WantedProperties","caption":"Wanted properties","href":"http://yugioh.wikia.com/wiki/Special:WantedProperties","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://yugioh.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://yugioh.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://yugioh.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://yugioh.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://yugioh.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://yugioh.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://yugioh.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:Properties","caption":"Properties","href":"http://yugioh.wikia.com/wiki/Special:Properties","category":"Special pages \x3e Lists of pages"},{"id":"special:Types","caption":"Types","href":"http://yugioh.wikia.com/wiki/Special:Types","category":"Special pages \x3e Lists of pages"},{"id":"special:Forms","caption":"Forms","href":"http://yugioh.wikia.com/wiki/Special:Forms","category":"Special pages \x3e Lists of pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://yugioh.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://yugioh.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://yugioh.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://yugioh.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://yugioh.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://yugioh.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://yugioh.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://yugioh.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://yugioh.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://yugioh.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://yugioh.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://yugioh.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent changes","href":"http://yugioh.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://yugioh.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://yugioh.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Watched pages","href":"http://yugioh.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://yugioh.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://yugioh.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://yugioh.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate images search","href":"http://yugioh.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://yugioh.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://yugioh.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://yugioh.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:SemanticStatistics","caption":"Semantic statistics","href":"http://yugioh.wikia.com/wiki/Special:SemanticStatistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://yugioh.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Page","href":"http://yugioh.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://yugioh.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to images","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://yugioh.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://yugioh.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://yugioh.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://yugioh.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://yugioh.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://yugioh.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://yugioh.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://yugioh.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://yugioh.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://yugioh.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://yugioh.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://yugioh.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Ask","caption":"Semantic search","href":"http://yugioh.wikia.com/wiki/Special:Ask","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:Browse","caption":"Browse wiki","href":"http://yugioh.wikia.com/wiki/Special:Browse","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:SearchByProperty","caption":"Search by property","href":"http://yugioh.wikia.com/wiki/Special:SearchByProperty","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:ExportRDF","caption":"Export pages to RDF","href":"http://yugioh.wikia.com/wiki/Special:ExportRDF","category":"Special pages \x3e Semantic MediaWiki"},{"id":"special:CreateForm","caption":"Create a form","href":"http://yugioh.wikia.com/wiki/Special:CreateForm","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateTemplate","caption":"Create a template","href":"http://yugioh.wikia.com/wiki/Special:CreateTemplate","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateProperty","caption":"Create a property","href":"http://yugioh.wikia.com/wiki/Special:CreateProperty","category":"Special pages \x3e Semantic Forms"},{"id":"special:CreateCategory","caption":"Create a category","href":"http://yugioh.wikia.com/wiki/Special:CreateCategory","category":"Special pages \x3e Semantic Forms"},{"id":"special:FormStart","caption":"Start of form","href":"http://yugioh.wikia.com/wiki/Special:FormStart","category":"Special pages \x3e Semantic Forms"},{"id":"special:RunQuery","caption":"Run query","href":"http://yugioh.wikia.com/wiki/Special:RunQuery","category":"Special pages \x3e Semantic Forms"},{"id":"special:BrowseData","caption":"Browse data","href":"http://yugioh.wikia.com/wiki/Special:BrowseData","category":"Special pages \x3e Semantic Drilldown"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://yugioh.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://yugioh.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://yugioh.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:PageViews","caption":"Page views graph","href":"http://yugioh.wikia.com/wiki/Special:PageViews","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://yugioh.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"founderemails-joins-410":0,"founderemails-edits-410":0,"founderemails-views-digest-410":0,"founderemails-complete-digest-410":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs102":true,"searchNs103":false,"searchNs104":true,"searchNs105":false,"searchNs106":true
+,"searchNs107":false,"searchNs108":true,"searchNs109":false,"searchNs110":false,"searchNs111":false,"searchNs112":true,"searchNs113":false,"searchNs114":true,"searchNs115":false,"searchNs116":true,"searchNs117":false,"searchNs118":true,"searchNs119":false,"searchNs120":true,"searchNs121":false,"searchNs122":true,"searchNs123":false,"searchNs124":true,"searchNs125":false,"searchNs126":true,"searchNs127":false,"searchNs128":true,"searchNs129":false,"searchNs130":true,"searchNs131":true,"searchNs302":false,"searchNs303":false,"searchNs306":false,"searchNs307":false,"searchNs308":false,"searchNs309":false,"searchNs370":false,"searchNs371":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: yugioh:resourceloader:filter:minify-js:7:33be6c3195f0359f7a53f1824d435ae0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1459537192/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459537192/group/-/videos_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459537192/group/-/auth_modal_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459537192/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1459537192/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1459537192/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459537192/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459537192/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459537192/group/-/globalshortcuts_discussions_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459537192/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1459537192.0.81541"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1459537192/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459537192/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1459537192/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459537192/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://yugioh.wikia.com/__load/-/cb%3D1459537192%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1457992749%26skin%3Doasis/site"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1459537192/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

@@ -6,8 +6,8 @@ describe SyncCardData do
 
     stub_request(:any, /.*/).to_return do |request|
       file_name = request.uri.to_s.split('/').last
-      temp_file = Tempfile.new('card_data_fetcher_test')
-      temp_file.write(File.read("spec/samples/db/card_data_fetcher/stubs/#{file_name}"))
+      temp_file = Tempfile.new('sync_card_data_test')
+      temp_file.write(File.read("spec/samples/db/sync_card_data/stubs/#{file_name}"))
       temp_file.close
       { body: temp_file.open, status: 200 }
     end
@@ -84,6 +84,7 @@ describe SyncCardData do
       it 'writes the specific card data into the correct tables' do
         expect(Monster.count).to eq(1)
         expect(Artwork.count).to eq(7)
+        expect(CardEffect.count).to eq(0)
 
         card = Monster.first
 
@@ -91,6 +92,7 @@ describe SyncCardData do
         expect(card.category).to eq('Normal')
         expect(card.element).to eq('DARK')
         expect(card.level).to eq('7')
+        expect(card.rank).to eq(nil)
         expect(card.species).to eq('Spellcaster')
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
@@ -108,7 +110,7 @@ describe SyncCardData do
 
         #correct files downloaded
         card.artworks.each do |artwork|
-          sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
           expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
         end
       end
@@ -122,6 +124,7 @@ describe SyncCardData do
       it 'writes the specific card data into the correct tables' do
         expect(Monster.count).to eq(1)
         expect(Artwork.count).to eq(1)
+        expect(CardEffect.count).to eq(0)
 
         card = Monster.first
 
@@ -129,9 +132,10 @@ describe SyncCardData do
         expect(card.category).to eq('Effect')
         expect(card.element).to eq('DARK')
         expect(card.level).to eq('8')
+        expect(card.rank).to eq(nil)
         expect(card.species).to eq('Dragon')
         expect(card.abilities).to eq([])
-        expect(card.card_effects.map(&:type)).to match_array(['CardEffects::Trigger', 'CardEffects::Trigger'])
+        expect(card.card_effects).to eq([])
         expect(card.description).to eq("If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:
 ● Spell: Inflict 1500 damage to your opponent.
 ● Trap: Target 1 card your opponent controls; destroy that target.
@@ -143,7 +147,146 @@ describe SyncCardData do
 
         #correct files downloaded
         card.artworks.each do |artwork|
-          sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Ritual Monster' do
+      before :each do
+        SyncCardData.perform("Relinquished")
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(2)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq("Relinquished")
+        expect(card.category).to eq('Ritual')
+        expect(card.element).to eq('DARK')
+        expect(card.level).to eq('1')
+        expect(card.rank).to eq(nil)
+        expect(card.species).to eq('Spellcaster')
+        expect(card.abilities).to eq([])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card's ATK and DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.")
+        expect(card.attack).to eq('0')
+        expect(card.defense).to eq('0')
+        expect(card.serial_number).to eq('64631466')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/Relinquished-TF04-JP-VG.jpg", "tmp/pictures/Relinquished-OW.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Fusion Monster' do
+      before :each do
+        SyncCardData.perform("Thousand-Eyes_Restrict")
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(2)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq("Thousand-Eyes Restrict")
+        expect(card.category).to eq('Fusion')
+        expect(card.element).to eq('DARK')
+        expect(card.level).to eq('1')
+        expect(card.rank).to eq(nil)
+        expect(card.species).to eq('Spellcaster')
+        expect(card.abilities).to eq([])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("\"Relinquished\" + \"Thousand-Eyes Idol\"
+Other monsters cannot change their battle position or attack. Once per turn, you can equip 1 monster your opponent controls to this card (max 1). This card's ATK and DEF become the same as the equipped monster's. If this card would be destroyed by battle, the equipped monster is destroyed instead.")
+        expect(card.attack).to eq('0')
+        expect(card.defense).to eq('0')
+        expect(card.serial_number).to eq('63519819')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/ThousandEyesRestrict-TF04-JP-VG.jpg", "tmp/pictures/ThousandEyesRestrict-OW.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Synchro Monster' do
+      before :each do
+        SyncCardData.perform("Red_Dragon_Archfiend")
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(2)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq("Red Dragon Archfiend")
+        expect(card.category).to eq('Synchro')
+        expect(card.element).to eq('DARK')
+        expect(card.level).to eq('8')
+        expect(card.rank).to eq(nil)
+        expect(card.species).to eq('Dragon')
+        expect(card.abilities).to eq([])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("1 Tuner + 1 or more non-Tuner monsters
+After damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.")
+        expect(card.attack).to eq('3000')
+        expect(card.defense).to eq('2000')
+        expect(card.serial_number).to eq('70902743')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/RedDragonArchfiend-TF04-JP-VG.jpg", "tmp/pictures/RedDragonArchfiend-OW.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Xyz Monster, no artworks available' do
+      before :each do
+        SyncCardData.perform("Bahamut_Shark")
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(0)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq("Bahamut Shark")
+        expect(card.category).to eq('Xyz')
+        expect(card.element).to eq('WATER')
+        expect(card.level).to eq(nil)
+        expect(card.rank).to eq('4')
+        expect(card.species).to eq('Sea Serpent')
+        expect(card.abilities).to eq([])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("2 Level 4 WATER monsters
+Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.")
+        expect(card.attack).to eq('2600')
+        expect(card.defense).to eq('2100')
+        expect(card.serial_number).to eq('00440556')
+        expect(card.artworks.map(&:image_path)).to match_array([])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
           expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
         end
       end
@@ -154,26 +297,60 @@ describe SyncCardData do
         SyncCardData.perform('Monster_Reborn')
       end
 
-      it 'creates the correct raw_card record' do
+      it 'creates the correct records' do
         expect(NonMonster.count).to eq(1)
         expect(Artwork.count).to eq(2)
+        expect(CardEffect.count).to eq(0)
 
         card = NonMonster.first
 
         expect(card.name).to eq('Monster Reborn')
         expect(card.category).to eq('Spell')
         expect(card.property).to eq('Normal')
-        expect(card.card_effects.count).to eq(1)
-        expect(card.card_effects.first.type).to eq('CardEffects::Effect')
+        expect(card.card_effects).to eq([])
         expect(card.description).to eq("Target 1 monster in either player's Graveyard; Special Summon it.")
         expect(card.serial_number).to eq('83764718')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/MonsterReborn-TF04-JP-VG.png", "tmp/pictures/MonsterReborn-OW.png"])
+        [:element, :level, :rank, :species, :abilities, :attack, :defense].each do |attribute|
+          expect(card.respond_to?(attribute)).to eq(false)
+        end
+
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Trap Card' do
+      before :each do
+        SyncCardData.perform('Mirror_Wall')
+      end
+
+      it 'creates the correct record' do
+        expect(NonMonster.count).to eq(1)
+        expect(Artwork.count).to eq(2)
+        expect(CardEffect.count).to eq(0)
+
+        card = NonMonster.first
+
+        expect(card.name).to eq('Mirror Wall')
+        expect(card.category).to eq(Card::Types::TRAP)
+        expect(card.property).to eq('Continuous')
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("Each of your opponent's monsters that conducted an attack while this card was face-up on the field has its ATK halved as long as this card remains on the field. During each of your Standby Phases, pay 2000 LP or destroy this card.")
+        expect(card.serial_number).to eq('22359980')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/MirrorWall-TF04-JP-VG.jpg", "tmp/pictures/MirrorWall-OW.png"])
+
         [:element, :level, :rank, :species, :abilities, :attack, :defense].each do |attribute|
           expect(card.respond_to?(attribute)).to eq(false)
         end
 
         #correct files downloaded
         card.artworks.each do |artwork|
-          sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
           expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
         end
       end
@@ -194,6 +371,7 @@ describe SyncCardData do
 
         expect(Monster.count).to eq(1)
         expect(Artwork.count).to eq(7)
+        expect(CardEffect.count).to eq(0)
 
         card = Monster.first
 
@@ -218,7 +396,7 @@ describe SyncCardData do
 
         #correct files downloaded
         card.artworks.each do |artwork|
-          sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
           expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
         end
       end

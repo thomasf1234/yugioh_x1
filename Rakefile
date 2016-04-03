@@ -18,3 +18,15 @@ task :test_game do
   game = Duel.new([player1, player2])
   game.start
 end
+
+desc "sync_cards"
+task :sync_cards, [:gallery_list_url]  do |t, args|
+  page = Nokogiri::HTML(open(args[:gallery_list_url]))
+  names = page.xpath("//a[contains(@href,'/wiki/Card_Gallery:')]").map {|anchor| anchor.attribute('href').value[19..-1] }
+
+
+  names.each do |name|
+    SyncCardData.perform(name)
+    sleep(1)
+  end
+end

@@ -52,40 +52,38 @@ EOF
                            serial_number: main_page.row_value('Card Number'),
                            category: card_type(main_page)})
 
-      card_effect_types = main_page.row_value('Card effect types').nil? ? [] : main_page.row_value('Card effect types').split("\n").map(&:strip)
-      card_effect_types.each do |card_effect_type|
-        const = CardEffects.constants.detect { |constant| constant.to_s == card_effect_type }
-        CardEffects.const_get(const).create!(card_id: card.id)
-      end
-
       properties = case card_type(main_page)
                      when Card::Types::NORMAL
                        [
-                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute'), data_type: 'string'}),
-                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level'), data_type: 'integer'}),
-                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
-                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Type'), data_type: 'string'}),
+                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute')}),
+                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level')}),
+                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
+                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
+                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Type')}),
                        ]
-                     when Card::Types::SPELL || Card::Types::TRAP
+                     when Card::Types::SPELL
                        [
-                           Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property'), data_type: 'string'}),
+                           Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property')}),
+                       ]
+                     when Card::Types::TRAP
+                       [
+                           Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property')}),
                        ]
                      when Card::Types::XYZ
                        [
-                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute'), data_type: 'string'}),
-                           Property.new({name: Property::Names::RANK, value: main_page.row_value('Rank'), data_type: 'integer'}),
-                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
-                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first, data_type: 'string'}),
+                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute')}),
+                           Property.new({name: Property::Names::RANK, value: main_page.row_value('Rank')}),
+                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
+                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
+                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first}),
                        ]
                      else
                        [
-                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute'), data_type: 'string'}),
-                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level'), data_type: 'integer'}),
-                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first, data_type: 'string'}),
-                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last, data_type: 'string'}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first, data_type: 'string'}),
+                           Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute')}),
+                           Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level')}),
+                           Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
+                           Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
+                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first}),
                        ]
                    end
       card.properties = properties

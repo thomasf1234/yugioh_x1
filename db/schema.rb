@@ -22,7 +22,6 @@ ActiveRecord::Schema.define do
     create_table :properties do |table|
       table.column :name, :string
       table.column :value, :string
-      table.column :data_type, :string
       table.column :card_id, :integer
     end
   end
