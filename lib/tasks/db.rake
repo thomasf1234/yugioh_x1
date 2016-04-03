@@ -46,6 +46,26 @@ namespace "db" do
     end
   end
 
+  desc "dumps tables for given ENV to 'db/backups/<ENV>/<db_name>_<timestamp>.json'"
+  task :json_dump do
+    file_name = "db_#{ENV['ENV']}"
+    backup_dir = "db/backups/#{ENV['ENV']}"
+    FileUtils.mkdir_p(backup_dir)
+
+    if File.exists?(file_name)
+      dump_name = File.join(backup_dir, "#{file_name}_#{DateTime.now.utc.strftime("%Y%m%d%H%M%S")}.json")
+
+      File.open(dump_name, 'w') do |file|
+        dump_hash = [Card, Artwork, Property].map {|klass| {klass.table_name => klass.all.as_json}}
+        file.write(dump_hash.to_json)
+      end
+
+      puts "dumped '#{file_name}' as json to '#{dump_name}'"
+    else
+      puts "database '#{file_name}' not found"
+    end
+  end
+
   desc "restores the database for given ENV from passed gzipped archive .bak"
   task :restore, [:source]  do |t, args|
     db_name = "db_#{ENV['ENV']}"

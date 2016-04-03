@@ -5,6 +5,9 @@ ActiveRecord::Schema.define do
       table.column :serial_number, :string
       table.column :description, :string
       table.column :category, :string
+
+      table.index :serial_number
+      table.index :name, unique: true
     end
   end
 

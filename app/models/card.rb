@@ -13,9 +13,9 @@ class Card < ActiveRecord::Base
     ALL = constants.collect { |const| module_eval(const.to_s) }
   end
 
-  has_many :artworks
-  has_many :properties
-  has_many :card_effects
+  has_many :artworks, dependent: :destroy
+  has_many :properties, dependent: :destroy
+  has_many :card_effects, dependent: :destroy
 
   validates_presence_of :name, :description
 end

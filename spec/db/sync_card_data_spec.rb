@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe CardDataFetcher do
+describe SyncCardData do
   before :each do
     FileUtils.mkdir_p(ENVIRONMENT_CONFIG['image_folder'])
 
@@ -16,61 +16,61 @@ describe CardDataFetcher do
   describe 'card_type' do
     context 'Normal Monster' do
       it 'should be Normal' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Dark_Magician'))).to eq(Card::Types::NORMAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Dark_Magician'))).to eq(Card::Types::NORMAL)
       end
     end
 
     context 'Normal Tuner Monster' do
       it 'should be Normal' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Ally_Mind'))).to eq(Card::Types::NORMAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Ally_Mind'))).to eq(Card::Types::NORMAL)
       end
     end
 
     context 'Effect Monster' do
       it 'should be Effect' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new("Van'Dalgyon_the_Dark_Dragon_Lord"))).to eq(Card::Types::EFFECT)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Van'Dalgyon_the_Dark_Dragon_Lord"))).to eq(Card::Types::EFFECT)
       end
     end
 
     context 'Fusion Monster' do
       it 'should be Fusion' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new("Black_Skull_Dragon"))).to eq(Card::Types::FUSION)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Black_Skull_Dragon"))).to eq(Card::Types::FUSION)
       end
     end
 
     context 'Ritual Monster' do
       it 'should be Ritual' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new("Relinquished"))).to eq(Card::Types::RITUAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Relinquished"))).to eq(Card::Types::RITUAL)
       end
     end
 
     context 'Synchro Monster' do
       it 'should be Synchro' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Stardust_Dragon'))).to eq(Card::Types::SYNCHRO)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Stardust_Dragon'))).to eq(Card::Types::SYNCHRO)
       end
     end
 
     context 'Synchro Tuner Monster' do
       it 'should be Synchro' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Formula_Synchron'))).to eq(Card::Types::SYNCHRO)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Formula_Synchron'))).to eq(Card::Types::SYNCHRO)
       end
     end
 
     context 'Xyz Monster' do
       it 'should be Xyz' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Bahamut_Shark'))).to eq(Card::Types::XYZ)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Bahamut_Shark'))).to eq(Card::Types::XYZ)
       end
     end
 
     context 'Spell Card' do
       it 'should be Normal' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Monster_Reborn'))).to eq(Card::Types::SPELL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Monster_Reborn'))).to eq(Card::Types::SPELL)
       end
     end
 
     context 'Trap Card' do
       it 'should be Normal' do
-        expect(CardDataFetcher.send(:card_type, ExternalPages::MainPage.new('Trap_Hole'))).to eq(Card::Types::TRAP)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Trap_Hole'))).to eq(Card::Types::TRAP)
       end
     end
   end
@@ -78,7 +78,7 @@ describe CardDataFetcher do
   describe '#fetch' do
     context 'Normal Monster' do
       before :each do
-        CardDataFetcher.fetch('Dark_Magician')
+        SyncCardData.perform('Dark_Magician')
       end
 
       it 'writes the specific card data into the correct tables' do
@@ -116,7 +116,7 @@ describe CardDataFetcher do
 
     context 'Effect Monster' do
       before :each do
-        CardDataFetcher.fetch("Van'Dalgyon_the_Dark_Dragon_Lord")
+        SyncCardData.perform("Van'Dalgyon_the_Dark_Dragon_Lord")
       end
 
       it 'writes the specific card data into the correct tables' do
@@ -151,7 +151,7 @@ describe CardDataFetcher do
 
     context 'Spell Card' do
       before :each do
-        CardDataFetcher.fetch('Monster_Reborn')
+        SyncCardData.perform('Monster_Reborn')
       end
 
       it 'creates the correct raw_card record' do
@@ -176,6 +176,66 @@ describe CardDataFetcher do
           sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
           expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
         end
+      end
+    end
+
+    context 'card already exists' do
+      let!(:old_card) { FactoryGirl.create(:card, serial_number: 'wrong_number') }
+
+      before :each do
+        SyncCardData.perform('Dark_Magician')
+      end
+
+      it 'destroys and recreates the card info' do
+        expect(Card.where(id: old_card.id)).to eq([])
+        expect(Property.where(card_id: old_card.id)).to eq([])
+        expect(Artwork.where(card_id: old_card.id)).to eq([])
+        expect(CardEffect.where(card_id: old_card.id)).to eq([])
+
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(7)
+
+        card = Monster.first
+
+        expect(card.name).to eq('Dark Magician')
+        expect(card.category).to eq('Normal')
+        expect(card.element).to eq('DARK')
+        expect(card.level).to eq('7')
+        expect(card.species).to eq('Spellcaster')
+        expect(card.abilities).to eq([])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("The ultimate wizard in terms of attack and defense.")
+        expect(card.attack).to eq('2500')
+        expect(card.defense).to eq('2100')
+        expect(card.serial_number).to eq('46986414')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/DarkMagician-OW.png",
+                                                                "tmp/pictures/DarkMagician-OW-2.png",
+                                                                "tmp/pictures/DarkMagician-TF05-JP-VG.png",
+                                                                "tmp/pictures/DarkMagician-TF05-JP-VG-2.png",
+                                                                "tmp/pictures/DarkMagician-TF05-JP-VG-3.png",
+                                                                "tmp/pictures/DarkMagician-TF05-JP-VG-4.png",
+                                                                "tmp/pictures/DarkMagician-TF05-JP-VG-5.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/card_data_fetcher/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'error' do
+      before :each do
+        allow_any_instance_of(Card).to receive(:artworks).and_raise(RuntimeError.new('Something went wrong'))
+      end
+
+      it 'does not create the card' do
+        expect { SyncCardData.perform('Dark_Magician') }.to_not raise_error
+
+        expect(Card.count).to eq(0)
+        expect(Property.count).to eq(0)
+        expect(Artwork.count).to eq(0)
+        expect(CardEffect.count).to eq(0)
       end
     end
   end
