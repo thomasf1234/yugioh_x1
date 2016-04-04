@@ -15,4 +15,12 @@ module Utilities
   def retry_open(url, times=1)
     retry_task(times) { open(url) }
   end
+
+  def try_block
+    begin
+      yield
+    rescue
+      nil
+    end
+  end
 end
