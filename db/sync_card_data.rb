@@ -14,6 +14,7 @@ class SyncCardData
       ActiveRecord::Base.transaction do
         begin
           main_page = ExternalPages::MainPage.new(card_name)
+          return if main_page.row_value('Card Number').nil?
           image_paths = (main_page.gallery_page.yugioh_com_urls + main_page.gallery_page.tag_force_urls).uniq.map do |image_url|
             image_name = image_url.split('/').last
             image_path = File.join(ENVIRONMENT_CONFIG['image_folder'], image_name)
@@ -52,30 +53,33 @@ EOF
                            serial_number: main_page.row_value('Card Number'),
                            category: card_type(main_page)})
 
-      properties = case card_type(main_page)
-                     when Card::Types::NORMAL
+      card_type = card_type(main_page)
+
+      properties = case card_type
+                     when Card::Categories::NORMAL
+                       types = main_page.row_value('Types').nil? ? [main_page.row_value('Type')] : main_page.row_value('Types').split('/')
                        [
                            Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute')}),
                            Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level')}),
                            Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
                            Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Type')}),
+                           Property.new({name: Property::Names::SPECIES, value: species(types)}),
                        ]
-                     when Card::Types::SPELL
+                     when Card::Categories::SPELL
                        [
                            Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property')}),
                        ]
-                     when Card::Types::TRAP
+                     when Card::Categories::TRAP
                        [
                            Property.new({name: Property::Names::PROPERTY, value: main_page.row_value('Property')}),
                        ]
-                     when Card::Types::XYZ
+                     when Card::Categories::XYZ
                        [
                            Property.new({name: Property::Names::ELEMENT, value: main_page.row_value('Attribute')}),
                            Property.new({name: Property::Names::RANK, value: main_page.row_value('Rank')}),
                            Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
                            Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first}),
+                           Property.new({name: Property::Names::SPECIES, value: species(main_page.row_value('Types').split('/'))}),
                        ]
                      else
                        [
@@ -83,9 +87,15 @@ EOF
                            Property.new({name: Property::Names::LEVEL, value: main_page.row_value('Level')}),
                            Property.new({name: Property::Names::ATTACK, value: main_page.row_value('ATK/DEF').split('/').first}),
                            Property.new({name: Property::Names::DEFENSE, value: main_page.row_value('ATK/DEF').split('/').last}),
-                           Property.new({name: Property::Names::SPECIES, value: main_page.row_value('Types').split('/').first}),
+                           Property.new({name: Property::Names::SPECIES, value: species(main_page.row_value('Types').split('/'))}),
                        ]
                    end
+
+      unless [Card::Categories::SPELL, Card::Categories::TRAP].include?(card_type) || main_page.row_value('Types').nil?
+        abilities = (main_page.row_value('Types').split('/').map(&:strip) & Monster::Abilities::ALL)
+        properties += abilities.map {|ability| Property.new({name: Property::Names::ABILITY, value: ability})}
+      end
+
       card.properties = properties
       card
     end
@@ -93,15 +103,15 @@ EOF
     def card_type(main_page)
       if ['Spell Card', 'Trap Card'].include?(main_page.row_value('Type'))
         main_page.row_value('Type').split.first
-      elsif main_page.row_value('Types').nil? || (Card::Types::ALL & main_page.row_value('Types').split('/')).empty?
-        Card::Types::NORMAL
+      elsif main_page.row_value('Types').nil? || (Card::Categories::ALL & main_page.row_value('Types').split('/')).empty?
+        Card::Categories::NORMAL
       else
-        common_types = Card::Types::ALL & main_page.row_value('Types').split('/')
+        common_types = Card::Categories::ALL & main_page.row_value('Types').split('/')
         case common_types.count
           when 1
             common_types.first
           when 2
-            non_effects = common_types - [Card::Types::EFFECT]
+            non_effects = common_types - [Card::Categories::EFFECT]
             case non_effects.count
               when 1
                 non_effects.first
@@ -111,6 +121,16 @@ EOF
           else
             raise 'No card_type'
         end
+      end
+    end
+
+    def species(types)
+      potential = types & Monster::Species::ALL
+      case potential.count
+        when 1
+          potential.first
+        else
+          raise 'No Valid Species'
       end
     end
 

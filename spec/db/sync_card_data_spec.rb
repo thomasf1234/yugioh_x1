@@ -16,66 +16,66 @@ describe SyncCardData do
   describe 'card_type' do
     context 'Normal Monster' do
       it 'should be Normal' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Dark_Magician'))).to eq(Card::Types::NORMAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Dark_Magician'))).to eq(Card::Categories::NORMAL)
       end
     end
 
     context 'Normal Tuner Monster' do
       it 'should be Normal' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Ally_Mind'))).to eq(Card::Types::NORMAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Ally_Mind'))).to eq(Card::Categories::NORMAL)
       end
     end
 
     context 'Effect Monster' do
       it 'should be Effect' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Van'Dalgyon_the_Dark_Dragon_Lord"))).to eq(Card::Types::EFFECT)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Van'Dalgyon_the_Dark_Dragon_Lord"))).to eq(Card::Categories::EFFECT)
       end
     end
 
     context 'Fusion Monster' do
       it 'should be Fusion' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Black_Skull_Dragon"))).to eq(Card::Types::FUSION)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Black_Skull_Dragon"))).to eq(Card::Categories::FUSION)
       end
     end
 
     context 'Ritual Monster' do
       it 'should be Ritual' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Relinquished"))).to eq(Card::Types::RITUAL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new("Relinquished"))).to eq(Card::Categories::RITUAL)
       end
     end
 
     context 'Synchro Monster' do
       it 'should be Synchro' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Stardust_Dragon'))).to eq(Card::Types::SYNCHRO)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Stardust_Dragon'))).to eq(Card::Categories::SYNCHRO)
       end
     end
 
     context 'Synchro Tuner Monster' do
       it 'should be Synchro' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Formula_Synchron'))).to eq(Card::Types::SYNCHRO)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Formula_Synchron'))).to eq(Card::Categories::SYNCHRO)
       end
     end
 
     context 'Xyz Monster' do
       it 'should be Xyz' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Bahamut_Shark'))).to eq(Card::Types::XYZ)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Bahamut_Shark'))).to eq(Card::Categories::XYZ)
       end
     end
 
     context 'Spell Card' do
       it 'should be Normal' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Monster_Reborn'))).to eq(Card::Types::SPELL)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Monster_Reborn'))).to eq(Card::Categories::SPELL)
       end
     end
 
     context 'Trap Card' do
       it 'should be Normal' do
-        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Trap_Hole'))).to eq(Card::Types::TRAP)
+        expect(SyncCardData.send(:card_type, ExternalPages::MainPage.new('Trap_Hole'))).to eq(Card::Categories::TRAP)
       end
     end
   end
 
-  describe '#fetch' do
+  describe '#perform' do
     context 'Normal Monster' do
       before :each do
         SyncCardData.perform('Dark_Magician')
@@ -89,11 +89,11 @@ describe SyncCardData do
         card = Monster.first
 
         expect(card.name).to eq('Dark Magician')
-        expect(card.category).to eq('Normal')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::NORMAL)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('7')
         expect(card.rank).to eq(nil)
-        expect(card.species).to eq('Spellcaster')
+        expect(card.species).to eq(Monster::Species::SPELLCASTER)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("The ultimate wizard in terms of attack and defense.")
@@ -116,6 +116,40 @@ describe SyncCardData do
       end
     end
 
+    context 'Normal Tuner Monster' do
+      before :each do
+        SyncCardData.perform('Ally_Mind')
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(1)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq('Ally Mind')
+        expect(card.category).to eq(Card::Categories::NORMAL)
+        expect(card.element).to eq(Monster::Elements::DARK)
+        expect(card.level).to eq('5')
+        expect(card.rank).to eq(nil)
+        expect(card.species).to eq(Monster::Species::MACHINE)
+        expect(card.abilities.map(&:value)).to eq([Monster::Abilities::TUNER])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("A high-performance unit developed to enhance the Artificial Intelligence program of the Allies of Justice. Loaded with elements collected from a meteor found in the Worm Nebula, it allows for highly tuned performance. But its full capacity is not yet determined.")
+        expect(card.attack).to eq('1800')
+        expect(card.defense).to eq('1400')
+        expect(card.serial_number).to eq('40155554')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/AllyMind-TF04-JP-VG.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
     context 'Effect Monster' do
       before :each do
         SyncCardData.perform("Van'Dalgyon_the_Dark_Dragon_Lord")
@@ -129,11 +163,11 @@ describe SyncCardData do
         card = Monster.first
 
         expect(card.name).to eq("Van'Dalgyon the Dark Dragon Lord")
-        expect(card.category).to eq('Effect')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::EFFECT)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('8')
         expect(card.rank).to eq(nil)
-        expect(card.species).to eq('Dragon')
+        expect(card.species).to eq(Monster::Species::DRAGON)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:
@@ -166,11 +200,11 @@ describe SyncCardData do
         card = Monster.first
 
         expect(card.name).to eq("Relinquished")
-        expect(card.category).to eq('Ritual')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::RITUAL)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('1')
         expect(card.rank).to eq(nil)
-        expect(card.species).to eq('Spellcaster')
+        expect(card.species).to eq(Monster::Species::SPELLCASTER)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card's ATK and DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.")
@@ -200,11 +234,11 @@ describe SyncCardData do
         card = Monster.first
 
         expect(card.name).to eq("Thousand-Eyes Restrict")
-        expect(card.category).to eq('Fusion')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::FUSION)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('1')
         expect(card.rank).to eq(nil)
-        expect(card.species).to eq('Spellcaster')
+        expect(card.species).to eq(Monster::Species::SPELLCASTER)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("\"Relinquished\" + \"Thousand-Eyes Idol\"
@@ -235,11 +269,11 @@ Other monsters cannot change their battle position or attack. Once per turn, you
         card = Monster.first
 
         expect(card.name).to eq("Red Dragon Archfiend")
-        expect(card.category).to eq('Synchro')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::SYNCHRO)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('8')
         expect(card.rank).to eq(nil)
-        expect(card.species).to eq('Dragon')
+        expect(card.species).to eq(Monster::Species::DRAGON)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("1 Tuner + 1 or more non-Tuner monsters
@@ -248,6 +282,44 @@ After damage calculation, if this card attacks a Defense Position monster your o
         expect(card.defense).to eq('2000')
         expect(card.serial_number).to eq('70902743')
         expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/RedDragonArchfiend-TF04-JP-VG.jpg", "tmp/pictures/RedDragonArchfiend-OW.png"])
+
+        #correct files downloaded
+        card.artworks.each do |artwork|
+          sample_path = File.join('spec/samples/db/sync_card_data/stubs/', File.basename(artwork.image_path))
+          expect(File.read(artwork.image_path)).to eq(File.read(sample_path))
+        end
+      end
+    end
+
+    context 'Synchro Tuner Monster, TFS artwork' do
+      before :each do
+        SyncCardData.perform("Accel_Synchron")
+      end
+
+      it 'writes the specific card data into the correct tables' do
+        expect(Monster.count).to eq(1)
+        expect(Artwork.count).to eq(1)
+        expect(CardEffect.count).to eq(0)
+
+        card = Monster.first
+
+        expect(card.name).to eq("Accel Synchron")
+        expect(card.category).to eq(Card::Categories::SYNCHRO)
+        expect(card.element).to eq(Monster::Elements::DARK)
+        expect(card.level).to eq('5')
+        expect(card.rank).to eq(nil)
+        expect(card.species).to eq(Monster::Species::MACHINE)
+        expect(card.abilities.map(&:value)).to eq([Monster::Abilities::TUNER])
+        expect(card.card_effects).to eq([])
+        expect(card.description).to eq("1 Tuner + 1 or more non-Tuner monsters
+Once per turn: You can send 1 \"Synchron\" monster from your Deck to the Graveyard, then activate 1 of these effects;
+● Increase this card's Level by the Level of the sent monster.
+● Reduce this card's Level by the Level of the sent monster.
+During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using Materials including this card you control (this is a Quick Effect). You can only Synchro Summon \"Accel Synchron(s)\" once per turn.")
+        expect(card.attack).to eq('500')
+        expect(card.defense).to eq('2100')
+        expect(card.serial_number).to eq('37675907')
+        expect(card.artworks.map(&:image_path)).to match_array(["tmp/pictures/AccelSynchron-TFS-JP-VG.png"])
 
         #correct files downloaded
         card.artworks.each do |artwork|
@@ -270,11 +342,11 @@ After damage calculation, if this card attacks a Defense Position monster your o
         card = Monster.first
 
         expect(card.name).to eq("Bahamut Shark")
-        expect(card.category).to eq('Xyz')
-        expect(card.element).to eq('WATER')
+        expect(card.category).to eq(Card::Categories::XYZ)
+        expect(card.element).to eq(Monster::Elements::WATER)
         expect(card.level).to eq(nil)
         expect(card.rank).to eq('4')
-        expect(card.species).to eq('Sea Serpent')
+        expect(card.species).to eq(Monster::Species::SEA_SERPENT)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("2 Level 4 WATER monsters
@@ -305,8 +377,8 @@ Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Ra
         card = NonMonster.first
 
         expect(card.name).to eq('Monster Reborn')
-        expect(card.category).to eq('Spell')
-        expect(card.property).to eq('Normal')
+        expect(card.category).to eq(Card::Categories::SPELL)
+        expect(card.property).to eq(NonMonster::Properties::NORMAL)
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("Target 1 monster in either player's Graveyard; Special Summon it.")
         expect(card.serial_number).to eq('83764718')
@@ -337,8 +409,8 @@ Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Ra
         card = NonMonster.first
 
         expect(card.name).to eq('Mirror Wall')
-        expect(card.category).to eq(Card::Types::TRAP)
-        expect(card.property).to eq('Continuous')
+        expect(card.category).to eq(Card::Categories::TRAP)
+        expect(card.property).to eq(NonMonster::Properties::CONTINUOUS)
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("Each of your opponent's monsters that conducted an attack while this card was face-up on the field has its ATK halved as long as this card remains on the field. During each of your Standby Phases, pay 2000 LP or destroy this card.")
         expect(card.serial_number).to eq('22359980')
@@ -376,10 +448,10 @@ Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Ra
         card = Monster.first
 
         expect(card.name).to eq('Dark Magician')
-        expect(card.category).to eq('Normal')
-        expect(card.element).to eq('DARK')
+        expect(card.category).to eq(Card::Categories::NORMAL)
+        expect(card.element).to eq(Monster::Elements::DARK)
         expect(card.level).to eq('7')
-        expect(card.species).to eq('Spellcaster')
+        expect(card.species).to eq(Monster::Species::SPELLCASTER)
         expect(card.abilities).to eq([])
         expect(card.card_effects).to eq([])
         expect(card.description).to eq("The ultimate wizard in terms of attack and defense.")

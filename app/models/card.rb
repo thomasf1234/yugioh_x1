@@ -1,7 +1,7 @@
 require 'active_support/core_ext/module/delegation'
 
 class Card < ActiveRecord::Base
-  module Types
+  module Categories
     NORMAL = 'Normal'
     EFFECT = 'Effect'
     FUSION = 'Fusion'

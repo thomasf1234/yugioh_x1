@@ -13,5 +13,8 @@ class Property < ActiveRecord::Base
 
   belongs_to :card
 
-  validates_presence_of :name, :value
+  validates :name, presence: true, inclusion: { in: Names::ALL }
+  validates :value, presence: true, inclusion: { in: Monster::Species::ALL }, :if => lambda { |property| property[:name] == Names::SPECIES }
+  validates :value, presence: true, inclusion: { in: Monster::Abilities::ALL }, :if => lambda { |property| property[:name] == Names::ABILITY }
+  validates :value, presence: true, inclusion: { in: NonMonster::Properties::ALL }, :if => lambda { |property| property[:name] == Names::PROPERTY }
 end

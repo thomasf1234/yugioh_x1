@@ -5,3 +5,6 @@ development: &development
 test:
   <<: *development
   image_folder: tmp/pictures
+
+production:
+  <<: *development

@@ -20,7 +20,7 @@ ActiveRecord::Schema.define do
 
   unless ActiveRecord::Base.connection.tables.include?('properties')
     create_table :properties do |table|
-      table.column :name, :string
+      table.column :name, :string, null: false
       table.column :value, :string
       table.column :card_id, :integer
     end

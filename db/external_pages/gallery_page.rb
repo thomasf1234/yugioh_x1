@@ -1,6 +1,6 @@
 module ExternalPages
   class GalleryPage
-    TAG_FORCE_REGEX = /TF0\d-JP-VG(-\d)?\./
+    TAG_FORCE_REGEX = /TF(0\d|S)-JP-VG(-\d)?\./
 
     def initialize(page)
       @page = page

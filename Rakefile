@@ -8,6 +8,12 @@ task :console do
   require 'pry'; binding.pry
 end
 
+desc "run command"
+task :run, [:command]  do |t, args|
+  eval(args[:command])
+  puts 'exiting'
+end
+
 
 desc "test game"
 task :test_game do
@@ -27,6 +33,6 @@ task :sync_cards, [:gallery_list_url]  do |t, args|
 
   names.each do |name|
     SyncCardData.perform(name)
-    sleep(1)
+    sleep(2)
   end
 end
