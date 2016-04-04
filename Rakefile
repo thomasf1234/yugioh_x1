@@ -25,14 +25,39 @@ task :test_game do
   game.start
 end
 
-desc "sync_cards"
-task :sync_cards, [:gallery_list_url]  do |t, args|
-  page = Nokogiri::HTML(open(args[:gallery_list_url]))
-  names = page.xpath("//a[contains(@href,'/wiki/Card_Gallery:')]").map {|anchor| anchor.attribute('href').value[19..-1] }
+desc "get_card_names"
+task :get_card_names do
+  first_page = Nokogiri::HTML(open(SyncCardData::YUGIOH_WIKIA_URL + '/wiki/Category:Card_Gallery'))
+  pages = [first_page]
+  current_page = first_page
+  last_page = nil
+  until last_page do
+    next_page_end_point = try_block { current_page.xpath("//a[text()='next 200']").first.attribute('href').value }
+    puts "fetching #{next_page_end_point}"
+    if next_page_end_point
+      current_page = Nokogiri::HTML(open(SyncCardData::YUGIOH_WIKIA_URL + next_page_end_point))
+      pages << current_page
+    else
+      last_page = current_page
+    end
+  end
 
+  card_names = pages.map do |page|
+    page.xpath("//a[contains(@href,'/wiki/Card_Gallery:')]").map {|anchor| anchor.attribute('href').value[19..-1] }
+  end.flatten.uniq
 
-  names.each do |name|
-    SyncCardData.perform(name)
-    sleep(2)
+  File.open('db/card_names.csv', 'w') do |file|
+    card_names.each do |card_name|
+      file.puts card_name
+    end
   end
 end
+
+desc "sync_cards"
+task :sync_cards, [:card_names_path]  do |t, args|
+  File.read('db/card_names.csv').split.each do |name|
+    SyncCardData.perform(name)
+    sleep(10)
+  end
+end
+

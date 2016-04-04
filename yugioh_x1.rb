@@ -12,6 +12,7 @@ require_relative 'db/sync_card_data'
 ['app', 'lib'].each do |dir|
   Dir["#{dir}/**/*.rb"].each { |file| require_relative file }
 end
+include Utilities
 
 $log_file = LogFile.new
 

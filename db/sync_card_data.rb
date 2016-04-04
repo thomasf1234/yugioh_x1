@@ -20,6 +20,7 @@ class SyncCardData
           if main_page.row_value('Card Number').nil?
             $log_file.puts "Not Syncing: no serial number for #[#{card_name}]", :yellow
             $log_file.puts '*' * 50
+            return
           end
 
           image_paths = (main_page.gallery_page.yugioh_com_urls + main_page.gallery_page.tag_force_urls).uniq.map do |image_url|
