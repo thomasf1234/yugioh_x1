@@ -14,5 +14,6 @@
 .bundle/config
 db_development
 db_test
+db_production
 db/backups
 db/images

@@ -18,8 +18,8 @@ WHERE c.id IN (
     HAVING count(card_id) = 1
   )
 AND c.category IN (
-  '#{Card::Types::SPELL}',
-  '#{Card::Types::TRAP}'
+  '#{Card::Categories::SPELL}',
+  '#{Card::Categories::TRAP}'
 )
 GROUP BY c.id;
 EOF

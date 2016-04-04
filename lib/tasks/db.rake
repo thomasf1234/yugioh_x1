@@ -27,6 +27,7 @@ namespace "db" do
   task :reset do
     Rake::Task["db:drop"].execute
     Rake::Task["db:create"].execute
+    Rake::Task["db:migrate"].execute
   end
 
   desc "backs up the database for given ENV to 'db/backups/<ENV>/<db_name>_<timestamp>.bak.gz'"

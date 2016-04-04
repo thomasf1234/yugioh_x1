@@ -30,12 +30,12 @@ WHERE c.id IN (
     HAVING count(card_id) = 5
   )
 AND c.category IN (
-  '#{Card::Types::NORMAL}',
-  '#{Card::Types::EFFECT}',
-  '#{Card::Types::RITUAL}',
-  '#{Card::Types::FUSION}',
-  '#{Card::Types::SYNCHRO}',
-  '#{Card::Types::XYZ}'
+  '#{Card::Categories::NORMAL}',
+  '#{Card::Categories::EFFECT}',
+  '#{Card::Categories::RITUAL}',
+  '#{Card::Categories::FUSION}',
+  '#{Card::Categories::SYNCHRO}',
+  '#{Card::Categories::XYZ}'
 )
 GROUP BY c.id;
 EOF
