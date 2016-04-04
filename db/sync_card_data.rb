@@ -11,10 +11,17 @@ class SyncCardData
     include Utilities
 
     def perform(card_name)
+      $log_file.puts '*' * 50
+
       ActiveRecord::Base.transaction do
         begin
           main_page = ExternalPages::MainPage.new(card_name)
-          return if main_page.row_value('Card Number').nil?
+
+          if main_page.row_value('Card Number').nil?
+            $log_file.puts "Not Syncing: no serial number for #[#{card_name}]", :yellow
+            $log_file.puts '*' * 50
+          end
+
           image_paths = (main_page.gallery_page.yugioh_com_urls + main_page.gallery_page.tag_force_urls).uniq.map do |image_url|
             image_name = image_url.split('/').last
             image_path = File.join(ENVIRONMENT_CONFIG['image_folder'], image_name)
@@ -29,18 +36,16 @@ class SyncCardData
           artwork_params_list = image_paths.map { |image_path| {image_path: image_path} }
           card.artworks.create!(artwork_params_list)
 
-          log <<EOF
-status: [SUCCESS]
-card_name: [#{card_name}]
-card_id - #{card.id}
-EOF
+
+          $log_file.puts "Successfully synced #[#{card_name}]", :green
+          $log_file.puts "card_id: #{card.id}"
+          $log_file.puts '*' * 50
         rescue => e
-          log <<EOF
-status: [FAILURE]
-card_name: [#{card_name}]
- - #{e.class.name} : #{e.message}
-#{e.backtrace.join("\n")}
-EOF
+          $log_file.puts "Failed to sync #[#{card_name}]", :red
+          $log_file.puts "Exception details #{e.class} : #{e.message}"
+          $log_file.puts e.backtrace.join("\n")
+          $log_file.puts '*' * 50
+
           raise ActiveRecord::Rollback
         end
       end
@@ -137,17 +142,6 @@ EOF
     def download(url, path)
       File.open(path, 'wb') do |file|
         file.write(retry_open(url).read)
-      end
-    end
-
-    def log(string)
-      File.open("log/sync_card_#{ENV['ENV']}.log", 'a+') do |file|
-        file.write <<EOF
-#############################################################
-Time: #{DateTime.now.utc.to_s}
-#{string}
-#############################################################
-EOF
       end
     end
   end

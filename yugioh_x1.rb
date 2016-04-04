@@ -13,3 +13,9 @@ require_relative 'db/sync_card_data'
   Dir["#{dir}/**/*.rb"].each { |file| require_relative file }
 end
 
+$log_file = LogFile.new
+
+at_exit do
+  $log_file.close
+  puts "closing logfile "
+end

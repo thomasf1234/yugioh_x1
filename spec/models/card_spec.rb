@@ -3,13 +3,13 @@ require 'shoulda/matchers'
 
 RSpec.describe Card, type: :model do
   describe 'associations' do
-    [:artworks].each do |association|
+    [:artworks, :properties, :card_effects].each do |association|
       it { is_expected.to have_many association }
     end
   end
 
   describe 'attributes' do
-    [:id, :name, :number, :description, :effect_types].each do |attribute|
+    [:id, :name, :serial_number, :description, :category].each do |attribute|
       it { is_expected.to respond_to(attribute) }
     end
   end
